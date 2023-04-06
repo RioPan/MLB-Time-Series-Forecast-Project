@@ -1,0 +1,909 @@
+Date,Home,Opponent,Result,Year,Month,Day
+2022-10-13,1,New York Rangers,L,2022,October,Saturday
+2022-10-15,1,Los Angeles Kings,L,2022,October,Monday
+2022-10-17,1,Colorado Avalanche,L,2022,October,Wednesday
+2022-10-20,1,Vancouver Canucks,W,2022,October,Saturday
+2022-11-01,1,Montreal Canadiens,W,2022,November,Monday
+2022-11-03,1,Seattle Kraken,L,2022,November,Wednesday
+2022-11-13,1,San Jose Sharks,L,2022,November,Saturday
+2022-11-17,1,Pittsburgh Penguins,L,2022,November,Wednesday
+2022-11-19,1,Carolina Hurricanes,W,2022,November,Friday
+2022-11-23,1,Winnipeg Jets,W,2022,November,Tuesday
+2022-11-25,1,Toronto Maple Leafs,L,2022,November,Thursday
+2022-11-27,1,Arizona Coyotes,W,2022,November,Saturday
+2022-12-01,1,Edmonton Oilers,W,2022,December,Monday
+2022-12-03,1,Anaheim Ducks,W,2022,December,Wednesday
+2022-12-12,1,Edmonton Oilers,W,2022,December,Friday
+2022-12-14,1,Detroit Red Wings,W,2022,December,Sunday
+2022-12-16,1,Chicago Blackhawks,W,2022,December,Tuesday
+2022-12-18,1,Ottawa Senators,W,2022,December,Thursday
+2022-12-29,1,Dallas Stars,L,2022,December,Monday
+2023-01-04,1,Tampa Bay Lightning,W,2023,January,Thursday
+2023-01-08,1,St. Louis Blues,L,2023,January,Monday
+2023-01-14,1,Arizona Coyotes,W,2023,January,Sunday
+2023-01-26,1,Philadelphia Flyers,W,2023,January,Friday
+2023-01-28,1,Buffalo Sabres,W,2023,January,Sunday
+2023-02-09,1,Vegas Golden Knights,L,2023,February,Tuesday
+2023-02-11,1,New Jersey Devils,W,2023,February,Thursday
+2023-02-13,1,Florida Panthers,L,2023,February,Saturday
+2023-02-15,1,Colorado Avalanche,L,2023,February,Monday
+2023-02-17,1,Dallas Stars,W,2023,February,Wednesday
+2023-02-19,1,Nashville Predators,W,2023,February,Friday
+2023-02-21,1,Los Angeles Kings,W,2023,February,Sunday
+2023-02-26,1,Columbus Blue Jackets,W,2023,February,Friday
+2023-02-28,1,New York Islanders,W,2023,February,Sunday
+2023-03-07,1,Calgary Flames,,2023,March,Sunday
+2023-03-18,1,Boston Bruins,,2023,March,Thursday
+2023-03-19,1,Washington Capitals,,2023,March,Friday
+2023-03-25,1,Chicago Blackhawks,,2023,March,Thursday
+2023-03-27,1,Seattle Kraken,,2023,March,Saturday
+2023-04-03,1,Vegas Golden Knights,,2023,April,Wednesday
+2023-04-08,1,St. Louis Blues,,2023,April,Monday
+2023-04-11,1,Winnipeg Jets,,2023,April,Thursday
+2021-10-19,1,Winnipeg Jets,W,2021,October,Friday
+2021-10-23,1,Anaheim Ducks,W,2021,October,Tuesday
+2021-10-24,1,Nashville Predators,L,2021,October,Wednesday
+2021-11-02,1,Ottawa Senators,W,2021,November,Tuesday
+2021-11-07,1,New York Islanders,W,2021,November,Sunday
+2021-11-16,1,San Jose Sharks,L,2021,November,Tuesday
+2021-11-18,1,Dallas Stars,W,2021,November,Thursday
+2021-11-26,1,Winnipeg Jets,W,2021,November,Friday
+2021-11-28,1,Tampa Bay Lightning,W,2021,November,Sunday
+2021-11-30,1,Arizona Coyotes,W,2021,November,Tuesday
+2021-12-02,1,New Jersey Devils,W,2021,December,Tuesday
+2021-12-04,1,Toronto Maple Leafs,W,2021,December,Thursday
+2021-12-16,1,Buffalo Sabres,L,2021,December,Tuesday
+2022-01-01,1,St. Louis Blues,L,2022,January,Monday
+2022-01-08,1,Washington Capitals,W,2022,January,Monday
+2022-01-14,1,Anaheim Ducks,W,2022,January,Sunday
+2022-01-22,1,Chicago Blackhawks,W,2022,January,Monday
+2022-01-24,1,Montreal Canadiens,W,2022,January,Wednesday
+2022-02-12,1,Carolina Hurricanes,W,2022,February,Friday
+2022-02-14,1,Detroit Red Wings,W,2022,February,Sunday
+2022-02-18,1,Florida Panthers,L,2022,February,Thursday
+2022-03-01,1,Calgary Flames,L,2022,March,Monday
+2022-03-06,1,Dallas Stars,L,2022,March,Saturday
+2022-03-08,1,New York Rangers,W,2022,March,Monday
+2022-03-13,1,Nashville Predators,L,2022,March,Saturday
+2022-03-16,1,Boston Bruins,W,2022,March,Tuesday
+2022-03-19,1,Chicago Blackhawks,W,2022,March,Friday
+2022-03-21,1,Vegas Golden Knights,W,2022,March,Sunday
+2022-03-24,1,Vancouver Canucks,W,2022,March,Wednesday
+2022-03-26,1,Columbus Blue Jackets,W,2022,March,Friday
+2022-03-27,1,Colorado Avalanche,W,2022,March,Saturday
+2022-03-29,1,Philadelphia Flyers,W,2022,March,Monday
+2022-03-31,1,Pittsburgh Penguins,L,2022,March,Wednesday
+2022-04-10,1,Los Angeles Kings,W,2022,April,Wednesday
+2022-04-12,1,Edmonton Oilers,W,2022,April,Friday
+2022-04-17,1,San Jose Sharks,W,2022,April,Wednesday
+2022-04-21,1,Vancouver Canucks,W,2022,April,Sunday
+2022-04-22,1,Seattle Kraken,W,2022,April,Monday
+2022-04-26,1,Arizona Coyotes,L,2022,April,Friday
+2022-04-28,1,Calgary Flames,W,2022,April,Sunday
+2022-04-29,1,Colorado Avalanche,W,2022,April,Monday
+2021-01-22,1,San Jose Sharks,W,2021,January,Monday
+2021-01-24,1,San Jose Sharks,L,2021,January,Wednesday
+2021-01-26,1,Los Angeles Kings,L,2021,January,Friday
+2021-01-28,1,Los Angeles Kings,W,2021,January,Sunday
+2021-01-30,1,Colorado Avalanche,L,2021,January,Tuesday
+2021-01-31,1,Colorado Avalanche,W,2021,January,Wednesday
+2021-02-26,1,Los Angeles Kings,W,2021,February,Friday
+2021-02-27,1,Los Angeles Kings,W,2021,February,Saturday
+2021-03-08,1,Vegas Golden Knights,W,2021,March,Monday
+2021-03-10,1,Vegas Golden Knights,W,2021,March,Wednesday
+2021-03-12,1,Arizona Coyotes,W,2021,March,Friday
+2021-03-14,1,Arizona Coyotes,W,2021,March,Sunday
+2021-03-16,1,Arizona Coyotes,W,2021,March,Tuesday
+2021-03-22,1,Anaheim Ducks,W,2021,March,Monday
+2021-03-24,1,Anaheim Ducks,W,2021,March,Wednesday
+2021-03-25,1,St. Louis Blues,W,2021,March,Thursday
+2021-04-05,1,Colorado Avalanche,L,2021,April,Friday
+2021-04-07,1,Colorado Avalanche,W,2021,April,Sunday
+2021-04-14,1,Arizona Coyotes,W,2021,April,Sunday
+2021-04-16,1,San Jose Sharks,W,2021,April,Tuesday
+2021-04-17,1,San Jose Sharks,W,2021,April,Wednesday
+2021-04-28,1,St. Louis Blues,L,2021,April,Sunday
+2021-04-29,1,St. Louis Blues,L,2021,April,Monday
+2021-05-01,1,St. Louis Blues,W,2021,May,Monday
+2021-05-03,1,Vegas Golden Knights,W,2021,May,Wednesday
+2021-05-05,1,Vegas Golden Knights,L,2021,May,Friday
+2021-05-07,1,Anaheim Ducks,W,2021,May,Sunday
+2021-05-08,1,Anaheim Ducks,W,2021,May,Monday
+2019-10-12,1,Pittsburgh Penguins,L,2019,October,Friday
+2019-10-20,1,Montreal Canadiens,W,2019,October,Saturday
+2019-10-22,1,Edmonton Oilers,W,2019,October,Monday
+2019-10-26,1,Los Angeles Kings,W,2019,October,Friday
+2019-11-02,1,St. Louis Blues,L,2019,November,Tuesday
+2019-11-14,1,Arizona Coyotes,W,2019,November,Sunday
+2019-11-16,1,Carolina Hurricanes,L,2019,November,Tuesday
+2019-11-21,1,Colorado Avalanche,W,2019,November,Sunday
+2019-11-29,1,Ottawa Senators,W,2019,November,Monday
+2019-12-01,1,Dallas Stars,W,2019,December,Monday
+2019-12-10,1,Anaheim Ducks,L,2019,December,Wednesday
+2019-12-12,1,Edmonton Oilers,W,2019,December,Friday
+2019-12-14,1,Philadelphia Flyers,W,2019,December,Sunday
+2019-12-21,1,Winnipeg Jets,L,2019,December,Sunday
+2019-12-23,1,Calgary Flames,W,2019,December,Tuesday
+2019-12-29,1,New York Islanders,L,2019,December,Monday
+2019-12-31,1,Toronto Maple Leafs,L,2019,December,Wednesday
+2020-01-04,1,Winnipeg Jets,W,2020,January,Thursday
+2020-01-05,1,Calgary Flames,L,2020,January,Friday
+2020-01-12,1,Vancouver Canucks,L,2020,January,Friday
+2020-01-16,1,Tampa Bay Lightning,W,2020,January,Tuesday
+2020-01-18,1,Dallas Stars,W,2020,January,Thursday
+2020-01-20,1,Florida Panthers,L,2020,January,Saturday
+2020-01-22,1,Detroit Red Wings,W,2020,January,Monday
+2020-02-01,1,Boston Bruins,L,2020,February,Monday
+2020-02-04,1,Chicago Blackhawks,W,2020,February,Thursday
+2020-02-06,1,Vancouver Canucks,W,2020,February,Saturday
+2020-02-09,1,Colorado Avalanche,L,2020,February,Tuesday
+2020-02-11,1,Vegas Golden Knights,W,2020,February,Thursday
+2020-02-13,1,New York Rangers,L,2020,February,Saturday
+2020-02-15,1,San Jose Sharks,L,2020,February,Monday
+2020-02-23,1,St. Louis Blues,L,2020,February,Tuesday
+2020-02-25,1,Columbus Blue Jackets,W,2020,February,Thursday
+2020-03-01,1,Washington Capitals,L,2020,March,Monday
+2020-03-03,1,Nashville Predators,W,2020,March,Wednesday
+2018-10-06,1,Vegas Golden Knights,L,2018,October,Saturday
+2018-10-11,1,Chicago Blackhawks,W,2018,October,Thursday
+2018-10-13,1,Carolina Hurricanes,L,2018,October,Saturday
+2018-10-16,1,Arizona Coyotes,W,2018,October,Tuesday
+2018-10-20,1,Tampa Bay Lightning,W,2018,October,Saturday
+2018-10-25,1,Los Angeles Kings,W,2018,October,Thursday
+2018-10-27,1,Colorado Avalanche,W,2018,October,Saturday
+2018-11-13,1,Washington Capitals,L,2018,November,Saturday
+2018-11-15,1,Vancouver Canucks,W,2018,November,Monday
+2018-11-17,1,Buffalo Sabres,L,2018,November,Wednesday
+2018-11-21,1,Ottawa Senators,W,2018,November,Sunday
+2018-11-23,1,Winnipeg Jets,W,2018,November,Tuesday
+2018-11-27,1,Arizona Coyotes,L,2018,November,Saturday
+2018-12-01,1,Toronto Maple Leafs,L,2018,December,Monday
+2018-12-11,1,Montreal Canadiens,W,2018,December,Thursday
+2018-12-13,1,Florida Panthers,W,2018,December,Saturday
+2018-12-15,1,Calgary Flames,L,2018,December,Monday
+2018-12-18,1,San Jose Sharks,L,2018,December,Thursday
+2018-12-22,1,Dallas Stars,L,2018,December,Monday
+2018-12-31,1,Pittsburgh Penguins,L,2018,December,Wednesday
+2019-01-10,1,Winnipeg Jets,W,2019,January,Wednesday
+2019-01-12,1,Detroit Red Wings,L,2019,January,Friday
+2019-01-15,1,Los Angeles Kings,W,2019,January,Monday
+2019-01-17,1,Anaheim Ducks,L,2019,January,Wednesday
+2019-01-19,1,Columbus Blue Jackets,W,2019,January,Friday
+2019-02-02,1,Chicago Blackhawks,L,2019,February,Tuesday
+2019-02-07,1,Edmonton Oilers,L,2019,February,Sunday
+2019-02-12,1,Philadelphia Flyers,L,2019,February,Friday
+2019-02-15,1,New Jersey Devils,L,2019,February,Monday
+2019-02-17,1,St. Louis Blues,L,2019,February,Wednesday
+2019-02-19,1,Anaheim Ducks,L,2019,February,Friday
+2019-02-24,1,St. Louis Blues,W,2019,February,Wednesday
+2019-03-03,1,Nashville Predators,L,2019,March,Wednesday
+2019-03-11,1,San Jose Sharks,L,2019,March,Thursday
+2019-03-14,1,Dallas Stars,L,2019,March,Sunday
+2019-03-16,1,New York Rangers,W,2019,March,Tuesday
+2019-03-17,1,New York Islanders,L,2019,March,Wednesday
+2019-03-19,1,Colorado Avalanche,L,2019,March,Friday
+2019-03-25,1,Nashville Predators,L,2019,March,Thursday
+2019-04-02,1,Winnipeg Jets,W,2019,April,Tuesday
+2019-04-04,1,Boston Bruins,L,2019,April,Thursday
+2017-10-14,1,Columbus Blue Jackets,L,2017,October,Sunday
+2017-10-24,1,Vancouver Canucks,L,2017,October,Wednesday
+2017-10-26,1,New York Islanders,W,2017,October,Friday
+2017-10-28,1,Pittsburgh Penguins,W,2017,October,Sunday
+2017-10-31,1,Winnipeg Jets,L,2017,October,Wednesday
+2017-11-02,1,Montreal Canadiens,W,2017,November,Tuesday
+2017-11-04,1,Chicago Blackhawks,L,2017,November,Thursday
+2017-11-14,1,Philadelphia Flyers,W,2017,November,Sunday
+2017-11-16,1,Nashville Predators,W,2017,November,Tuesday
+2017-11-20,1,New Jersey Devils,L,2017,November,Saturday
+2017-11-24,1,Colorado Avalanche,W,2017,November,Wednesday
+2017-11-30,1,Vegas Golden Knights,W,2017,November,Tuesday
+2017-12-02,1,St. Louis Blues,W,2017,December,Tuesday
+2017-12-12,1,Calgary Flames,W,2017,December,Friday
+2017-12-14,1,Toronto Maple Leafs,W,2017,December,Sunday
+2017-12-16,1,Edmonton Oilers,L,2017,December,Tuesday
+2017-12-27,1,Dallas Stars,W,2017,December,Saturday
+2017-12-29,1,Nashville Predators,W,2017,December,Monday
+2018-01-02,1,Florida Panthers,W,2018,January,Tuesday
+2018-01-04,1,Buffalo Sabres,W,2018,January,Thursday
+2018-01-09,1,Calgary Flames,L,2018,January,Tuesday
+2018-01-13,1,Winnipeg Jets,W,2018,January,Saturday
+2018-01-14,1,Vancouver Canucks,L,2018,January,Sunday
+2018-01-20,1,Tampa Bay Lightning,W,2018,January,Saturday
+2018-01-22,1,Ottawa Senators,W,2018,January,Monday
+2018-02-02,1,Vegas Golden Knights,W,2018,February,Tuesday
+2018-02-08,1,Arizona Coyotes,L,2018,February,Monday
+2018-02-10,1,Chicago Blackhawks,W,2018,February,Wednesday
+2018-02-13,1,New York Rangers,W,2018,February,Saturday
+2018-02-15,1,Washington Capitals,L,2018,February,Monday
+2018-02-17,1,Anaheim Ducks,L,2018,February,Wednesday
+2018-02-25,1,San Jose Sharks,W,2018,February,Thursday
+2018-02-27,1,St. Louis Blues,W,2018,February,Saturday
+2018-03-04,1,Detroit Red Wings,W,2018,March,Thursday
+2018-03-06,1,Carolina Hurricanes,W,2018,March,Saturday
+2018-03-13,1,Colorado Avalanche,L,2018,March,Saturday
+2018-03-19,1,Los Angeles Kings,L,2018,March,Friday
+2018-03-24,1,Nashville Predators,W,2018,March,Wednesday
+2018-03-25,1,Boston Bruins,L,2018,March,Thursday
+2018-03-29,1,Dallas Stars,W,2018,March,Monday
+2018-04-02,1,Edmonton Oilers,W,2018,April,Tuesday
+2016-10-15,1,Winnipeg Jets,W,2016,October,Monday
+2016-10-18,1,Los Angeles Kings,W,2016,October,Thursday
+2016-10-20,1,Toronto Maple Leafs,W,2016,October,Saturday
+2016-10-29,1,Dallas Stars,W,2016,October,Monday
+2016-11-01,1,Buffalo Sabres,L,2016,November,Monday
+2016-11-15,1,Calgary Flames,L,2016,November,Monday
+2016-11-17,1,Boston Bruins,W,2016,November,Wednesday
+2016-11-19,1,Colorado Avalanche,L,2016,November,Friday
+2016-11-23,1,Winnipeg Jets,W,2016,November,Tuesday
+2016-11-25,1,Pittsburgh Penguins,W,2016,November,Thursday
+2016-12-09,1,Edmonton Oilers,W,2016,December,Tuesday
+2016-12-11,1,St. Louis Blues,W,2016,December,Thursday
+2016-12-13,1,Florida Panthers,W,2016,December,Saturday
+2016-12-17,1,Arizona Coyotes,W,2016,December,Wednesday
+2016-12-20,1,Colorado Avalanche,W,2016,December,Saturday
+2016-12-29,1,New York Islanders,W,2016,December,Monday
+2016-12-31,1,Columbus Blue Jackets,L,2016,December,Wednesday
+2017-01-12,1,Montreal Canadiens,W,2017,January,Friday
+2017-01-17,1,New Jersey Devils,L,2017,January,Wednesday
+2017-01-19,1,Arizona Coyotes,W,2017,January,Friday
+2017-01-21,1,Anaheim Ducks,W,2017,January,Sunday
+2017-01-22,1,Nashville Predators,L,2017,January,Monday
+2017-01-26,1,St. Louis Blues,W,2017,January,Friday
+2017-02-08,1,Chicago Blackhawks,L,2017,February,Monday
+2017-02-10,1,Tampa Bay Lightning,W,2017,February,Wednesday
+2017-02-12,1,Detroit Red Wings,W,2017,February,Friday
+2017-02-14,1,Anaheim Ducks,L,2017,February,Sunday
+2017-02-16,1,Dallas Stars,W,2017,February,Tuesday
+2017-02-18,1,Nashville Predators,W,2017,February,Thursday
+2017-02-21,1,Chicago Blackhawks,L,2017,February,Sunday
+2017-02-27,1,Los Angeles Kings,W,2017,February,Saturday
+2017-03-05,1,San Jose Sharks,W,2017,March,Friday
+2017-03-07,1,St. Louis Blues,L,2017,March,Sunday
+2017-03-18,1,New York Rangers,L,2017,March,Thursday
+2017-03-21,1,San Jose Sharks,W,2017,March,Sunday
+2017-03-23,1,Philadelphia Flyers,L,2017,March,Tuesday
+2017-03-25,1,Vancouver Canucks,L,2017,March,Thursday
+2017-03-28,1,Washington Capitals,L,2017,March,Sunday
+2017-03-30,1,Ottawa Senators,W,2017,March,Tuesday
+2017-04-02,1,Colorado Avalanche,W,2017,April,Tuesday
+2017-04-04,1,Carolina Hurricanes,W,2017,April,Thursday
+2015-10-10,1,St. Louis Blues,W,2015,October,Wednesday
+2015-10-22,1,Columbus Blue Jackets,W,2015,October,Monday
+2015-10-24,1,Anaheim Ducks,W,2015,October,Wednesday
+2015-10-27,1,Edmonton Oilers,W,2015,October,Saturday
+2015-10-30,1,Chicago Blackhawks,W,2015,October,Tuesday
+2015-11-05,1,Nashville Predators,L,2015,November,Friday
+2015-11-07,1,Tampa Bay Lightning,W,2015,November,Sunday
+2015-11-10,1,Winnipeg Jets,W,2015,November,Wednesday
+2015-11-21,1,Nashville Predators,W,2015,November,Sunday
+2015-11-25,1,Vancouver Canucks,L,2015,November,Thursday
+2015-11-27,1,Winnipeg Jets,L,2015,November,Saturday
+2015-11-28,1,Dallas Stars,L,2015,November,Sunday
+2015-12-03,1,Toronto Maple Leafs,W,2015,December,Wednesday
+2015-12-05,1,Colorado Avalanche,W,2015,December,Friday
+2015-12-15,1,Vancouver Canucks,W,2015,December,Monday
+2015-12-17,1,New York Rangers,W,2015,December,Wednesday
+2015-12-21,1,Dallas Stars,L,2015,December,Sunday
+2015-12-22,1,Montreal Canadiens,W,2015,December,Monday
+2015-12-26,1,Pittsburgh Penguins,L,2015,December,Friday
+2015-12-28,1,Detroit Red Wings,W,2015,December,Sunday
+2016-01-07,1,Philadelphia Flyers,L,2016,January,Sunday
+2016-01-10,1,New Jersey Devils,L,2016,January,Wednesday
+2016-01-12,1,Buffalo Sabres,L,2016,January,Friday
+2016-01-15,1,Winnipeg Jets,L,2016,January,Monday
+2016-01-25,1,Arizona Coyotes,L,2016,January,Thursday
+2016-02-09,1,Dallas Stars,L,2016,February,Tuesday
+2016-02-11,1,Washington Capitals,L,2016,February,Thursday
+2016-02-13,1,Boston Bruins,L,2016,February,Saturday
+2016-02-21,1,Chicago Blackhawks,W,2016,February,Sunday
+2016-02-23,1,New York Islanders,L,2016,February,Tuesday
+2016-02-28,1,Florida Panthers,W,2016,February,Sunday
+2016-03-01,1,Colorado Avalanche,W,2016,March,Monday
+2016-03-06,1,St. Louis Blues,L,2016,March,Saturday
+2016-03-10,1,Edmonton Oilers,L,2016,March,Wednesday
+2016-03-19,1,Carolina Hurricanes,W,2016,March,Friday
+2016-03-22,1,Los Angeles Kings,W,2016,March,Monday
+2016-03-24,1,Calgary Flames,W,2016,March,Wednesday
+2016-03-29,1,Chicago Blackhawks,W,2016,March,Monday
+2016-03-31,1,Ottawa Senators,L,2016,March,Wednesday
+2016-04-05,1,San Jose Sharks,L,2016,April,Friday
+2016-04-09,1,Calgary Flames,L,2016,April,Tuesday
+2014-10-09,1,Colorado Avalanche,W,2014,October,Tuesday
+2014-10-23,1,Arizona Coyotes,W,2014,October,Tuesday
+2014-10-25,1,Tampa Bay Lightning,W,2014,October,Thursday
+2014-10-30,1,San Jose Sharks,W,2014,October,Tuesday
+2014-11-01,1,Dallas Stars,W,2014,November,Monday
+2014-11-04,1,Pittsburgh Penguins,L,2014,November,Thursday
+2014-11-13,1,Buffalo Sabres,W,2014,November,Saturday
+2014-11-16,1,Winnipeg Jets,W,2014,November,Tuesday
+2014-11-26,1,Los Angeles Kings,L,2014,November,Friday
+2014-11-29,1,St. Louis Blues,L,2014,November,Monday
+2014-12-03,1,Montreal Canadiens,W,2014,December,Wednesday
+2014-12-05,1,Anaheim Ducks,L,2014,December,Friday
+2014-12-09,1,New York Islanders,W,2014,December,Tuesday
+2014-12-17,1,Boston Bruins,L,2014,December,Wednesday
+2014-12-20,1,Nashville Predators,L,2014,December,Saturday
+2014-12-23,1,Philadelphia Flyers,L,2014,December,Tuesday
+2014-12-27,1,Winnipeg Jets,L,2014,December,Saturday
+2015-01-02,1,Toronto Maple Leafs,W,2015,January,Tuesday
+2015-01-06,1,San Jose Sharks,L,2015,January,Saturday
+2015-01-08,1,Chicago Blackhawks,L,2015,January,Monday
+2015-01-10,1,Nashville Predators,L,2015,January,Wednesday
+2015-01-17,1,Arizona Coyotes,W,2015,January,Wednesday
+2015-01-19,1,Columbus Blue Jackets,L,2015,January,Friday
+2015-02-03,1,Chicago Blackhawks,W,2015,February,Wednesday
+2015-02-07,1,Colorado Avalanche,W,2015,February,Sunday
+2015-02-09,1,Vancouver Canucks,W,2015,February,Tuesday
+2015-02-12,1,Florida Panthers,W,2015,February,Friday
+2015-02-14,1,Carolina Hurricanes,W,2015,February,Sunday
+2015-02-22,1,Dallas Stars,W,2015,February,Monday
+2015-02-24,1,Edmonton Oilers,L,2015,February,Wednesday
+2015-03-03,1,Ottawa Senators,W,2015,March,Wednesday
+2015-03-08,1,Colorado Avalanche,L,2015,March,Monday
+2015-03-10,1,New Jersey Devils,W,2015,March,Wednesday
+2015-03-13,1,Anaheim Ducks,L,2015,March,Saturday
+2015-03-19,1,Washington Capitals,L,2015,March,Friday
+2015-03-21,1,St. Louis Blues,W,2015,March,Sunday
+2015-03-27,1,Calgary Flames,W,2015,March,Saturday
+2015-03-28,1,Los Angeles Kings,W,2015,March,Sunday
+2015-04-02,1,New York Rangers,L,2015,April,Tuesday
+2015-04-04,1,Detroit Red Wings,L,2015,April,Thursday
+2015-04-06,1,Winnipeg Jets,L,2015,April,Saturday
+2013-10-03,1,Los Angeles Kings,L,2013,October,Wednesday
+2013-10-05,1,Anaheim Ducks,L,2013,October,Friday
+2013-10-10,1,Winnipeg Jets,W,2013,October,Wednesday
+2013-10-12,1,Dallas Stars,W,2013,October,Friday
+2013-10-22,1,Nashville Predators,W,2013,October,Monday
+2013-10-24,1,Carolina Hurricanes,W,2013,October,Wednesday
+2013-10-28,1,Chicago Blackhawks,L,2013,October,Sunday
+2013-11-01,1,Montreal Canadiens,W,2013,November,Monday
+2013-11-03,1,New Jersey Devils,W,2013,November,Wednesday
+2013-11-05,1,Calgary Flames,W,2013,November,Friday
+2013-11-13,1,Toronto Maple Leafs,W,2013,November,Saturday
+2013-11-15,1,Florida Panthers,W,2013,November,Monday
+2013-11-17,1,Winnipeg Jets,W,2013,November,Wednesday
+2013-11-27,1,Phoenix Coyotes,L,2013,November,Saturday
+2013-11-29,1,Colorado Avalanche,L,2013,November,Monday
+2013-12-02,1,Philadelphia Flyers,W,2013,December,Tuesday
+2013-12-05,1,Chicago Blackhawks,W,2013,December,Friday
+2013-12-08,1,San Jose Sharks,W,2013,December,Monday
+2013-12-17,1,Vancouver Canucks,W,2013,December,Wednesday
+2013-12-29,1,New York Islanders,L,2013,December,Monday
+2013-12-31,1,St. Louis Blues,L,2013,December,Wednesday
+2014-01-02,1,Buffalo Sabres,W,2014,January,Tuesday
+2014-01-04,1,Washington Capitals,W,2014,January,Thursday
+2014-01-11,1,Colorado Avalanche,L,2014,January,Thursday
+2014-01-14,1,Ottawa Senators,L,2014,January,Sunday
+2014-01-16,1,Edmonton Oilers,W,2014,January,Tuesday
+2014-01-18,1,Dallas Stars,W,2014,January,Thursday
+2014-01-23,1,Chicago Blackhawks,W,2014,January,Tuesday
+2014-02-04,1,Tampa Bay Lightning,W,2014,February,Thursday
+2014-02-06,1,Nashville Predators,W,2014,February,Saturday
+2014-03-03,1,Calgary Flames,W,2014,March,Wednesday
+2014-03-09,1,St. Louis Blues,L,2014,March,Tuesday
+2014-03-11,1,Edmonton Oilers,L,2014,March,Thursday
+2014-03-13,1,New York Rangers,W,2014,March,Saturday
+2014-03-15,1,Columbus Blue Jackets,L,2014,March,Monday
+2014-03-22,1,Detroit Red Wings,L,2014,March,Monday
+2014-03-26,1,Vancouver Canucks,L,2014,March,Friday
+2014-04-05,1,Pittsburgh Penguins,W,2014,April,Friday
+2014-04-08,1,Boston Bruins,W,2014,April,Monday
+2014-04-10,1,St. Louis Blues,W,2014,April,Wednesday
+2014-04-13,1,Nashville Predators,L,2014,April,Saturday
+2013-01-19,1,Colorado Avalanche,W,2013,January,Friday
+2013-01-20,1,Dallas Stars,W,2013,January,Saturday
+2013-01-22,1,Nashville Predators,L,2013,January,Monday
+2013-01-29,1,Columbus Blue Jackets,W,2013,January,Monday
+2013-01-30,1,Chicago Blackhawks,W,2013,January,Tuesday
+2013-02-07,1,Vancouver Canucks,L,2013,February,Sunday
+2013-02-09,1,Nashville Predators,W,2013,February,Tuesday
+2013-02-14,1,Colorado Avalanche,L,2013,February,Sunday
+2013-02-17,1,Detroit Red Wings,W,2013,February,Wednesday
+2013-02-26,1,Calgary Flames,W,2013,February,Friday
+2013-03-03,1,Edmonton Oilers,W,2013,March,Wednesday
+2013-03-10,1,Vancouver Canucks,W,2013,March,Wednesday
+2013-03-12,1,Anaheim Ducks,L,2013,March,Friday
+2013-03-14,1,Colorado Avalanche,W,2013,March,Sunday
+2013-03-23,1,San Jose Sharks,W,2013,March,Tuesday
+2013-03-27,1,Phoenix Coyotes,W,2013,March,Saturday
+2013-03-30,1,Los Angeles Kings,W,2013,March,Tuesday
+2013-04-01,1,St. Louis Blues,L,2013,April,Monday
+2013-04-09,1,Chicago Blackhawks,L,2013,April,Tuesday
+2013-04-11,1,St. Louis Blues,L,2013,April,Thursday
+2013-04-13,1,Columbus Blue Jackets,L,2013,April,Saturday
+2013-04-21,1,Calgary Flames,L,2013,April,Sunday
+2013-04-23,1,Los Angeles Kings,W,2013,April,Tuesday
+2013-04-26,1,Edmonton Oilers,L,2013,April,Friday
+2011-10-08,1,Columbus Blue Jackets,W,2011,October,Monday
+2011-10-13,1,Edmonton Oilers,W,2011,October,Saturday
+2011-10-15,1,Detroit Red Wings,L,2011,October,Monday
+2011-10-18,1,Pittsburgh Penguins,L,2011,October,Thursday
+2011-10-27,1,Anaheim Ducks,L,2011,October,Saturday
+2011-10-29,1,Detroit Red Wings,W,2011,October,Monday
+2011-11-03,1,Vancouver Canucks,W,2011,November,Wednesday
+2011-11-05,1,St. Louis Blues,W,2011,November,Friday
+2011-11-17,1,Colorado Avalanche,W,2011,November,Wednesday
+2011-11-19,1,St. Louis Blues,W,2011,November,Friday
+2011-11-23,1,Nashville Predators,W,2011,November,Tuesday
+2011-11-25,1,Edmonton Oilers,L,2011,November,Thursday
+2011-11-27,1,Calgary Flames,L,2011,November,Saturday
+2011-11-28,1,Tampa Bay Lightning,W,2011,November,Sunday
+2011-12-02,1,New Jersey Devils,W,2011,December,Tuesday
+2011-12-14,1,Chicago Blackhawks,L,2011,December,Sunday
+2011-12-17,1,New York Islanders,L,2011,December,Wednesday
+2011-12-26,1,Colorado Avalanche,L,2011,December,Friday
+2011-12-29,1,Edmonton Oilers,W,2011,December,Monday
+2011-12-31,1,Phoenix Coyotes,L,2011,December,Wednesday
+2012-01-10,1,San Jose Sharks,W,2012,January,Wednesday
+2012-01-21,1,Dallas Stars,W,2012,January,Sunday
+2012-01-31,1,Nashville Predators,L,2012,January,Wednesday
+2012-02-09,1,Vancouver Canucks,L,2012,February,Tuesday
+2012-02-11,1,Columbus Blue Jackets,L,2012,February,Thursday
+2012-02-14,1,Anaheim Ducks,L,2012,February,Sunday
+2012-02-16,1,Winnipeg Jets,L,2012,February,Tuesday
+2012-02-19,1,Boston Bruins,W,2012,February,Friday
+2012-02-26,1,San Jose Sharks,W,2012,February,Friday
+2012-02-28,1,Los Angeles Kings,L,2012,February,Sunday
+2012-03-04,1,Colorado Avalanche,L,2012,March,Thursday
+2012-03-11,1,Calgary Flames,L,2012,March,Thursday
+2012-03-13,1,Dallas Stars,L,2012,March,Saturday
+2012-03-17,1,Carolina Hurricanes,L,2012,March,Wednesday
+2012-03-19,1,Vancouver Canucks,W,2012,March,Friday
+2012-03-22,1,Calgary Flames,W,2012,March,Monday
+2012-03-27,1,New York Rangers,L,2012,March,Saturday
+2012-03-29,1,Florida Panthers,W,2012,March,Monday
+2012-03-31,1,Los Angeles Kings,W,2012,March,Wednesday
+2012-04-05,1,Chicago Blackhawks,W,2012,April,Friday
+2012-04-07,1,Phoenix Coyotes,L,2012,April,Sunday
+2010-10-07,1,Carolina Hurricanes,L,2010,October,Sunday
+2010-10-14,1,Edmonton Oilers,W,2010,October,Sunday
+2010-10-16,1,Columbus Blue Jackets,L,2010,October,Tuesday
+2010-10-19,1,Vancouver Canucks,W,2010,October,Friday
+2010-10-25,1,Los Angeles Kings,L,2010,October,Thursday
+2010-10-28,1,Washington Capitals,W,2010,October,Sunday
+2010-10-30,1,Chicago Blackhawks,L,2010,October,Tuesday
+2010-11-02,1,San Jose Sharks,W,2010,November,Tuesday
+2010-11-05,1,Calgary Flames,W,2010,November,Friday
+2010-11-17,1,Anaheim Ducks,W,2010,November,Wednesday
+2010-11-20,1,New York Rangers,L,2010,November,Saturday
+2010-11-24,1,Philadelphia Flyers,L,2010,November,Wednesday
+2010-11-26,1,Nashville Predators,W,2010,November,Friday
+2010-12-01,1,Phoenix Coyotes,L,2010,December,Monday
+2010-12-03,1,Calgary Flames,L,2010,December,Wednesday
+2010-12-16,1,Ottawa Senators,L,2010,December,Tuesday
+2010-12-20,1,Calgary Flames,W,2010,December,Saturday
+2010-12-26,1,Detroit Red Wings,L,2010,December,Friday
+2010-12-29,1,San Jose Sharks,W,2010,December,Monday
+2010-12-31,1,Nashville Predators,L,2010,December,Wednesday
+2011-01-02,1,Phoenix Coyotes,W,2011,January,Tuesday
+2011-01-09,1,Dallas Stars,L,2011,January,Tuesday
+2011-01-14,1,Colorado Avalanche,L,2011,January,Sunday
+2011-01-16,1,Vancouver Canucks,W,2011,January,Tuesday
+2011-02-01,1,Los Angeles Kings,W,2011,February,Monday
+2011-02-09,1,Colorado Avalanche,W,2011,February,Tuesday
+2011-02-12,1,St. Louis Blues,W,2011,February,Friday
+2011-02-15,1,Vancouver Canucks,L,2011,February,Monday
+2011-02-18,1,Anaheim Ducks,W,2011,February,Thursday
+2011-02-20,1,Detroit Red Wings,L,2011,February,Saturday
+2011-02-22,1,Edmonton Oilers,W,2011,February,Monday
+2011-02-28,1,Chicago Blackhawks,L,2011,February,Sunday
+2011-03-06,1,Buffalo Sabres,L,2011,March,Saturday
+2011-03-08,1,Colorado Avalanche,W,2011,March,Monday
+2011-03-19,1,Columbus Blue Jackets,L,2011,March,Friday
+2011-03-20,1,Montreal Canadiens,L,2011,March,Saturday
+2011-03-22,1,Toronto Maple Leafs,L,2011,March,Monday
+2011-03-26,1,St. Louis Blues,L,2011,March,Friday
+2011-03-31,1,Edmonton Oilers,W,2011,March,Wednesday
+2011-04-02,1,Tampa Bay Lightning,L,2011,April,Tuesday
+2011-04-10,1,Dallas Stars,W,2011,April,Wednesday
+2009-10-06,1,Anaheim Ducks,W,2009,October,Saturday
+2009-10-21,1,Colorado Avalanche,W,2009,October,Sunday
+2009-10-24,1,Carolina Hurricanes,W,2009,October,Wednesday
+2009-10-28,1,Nashville Predators,L,2009,October,Sunday
+2009-10-30,1,New York Rangers,W,2009,October,Tuesday
+2009-11-05,1,Vancouver Canucks,L,2009,November,Friday
+2009-11-07,1,Dallas Stars,W,2009,November,Sunday
+2009-11-18,1,Phoenix Coyotes,L,2009,November,Thursday
+2009-11-20,1,New York Islanders,W,2009,November,Saturday
+2009-11-25,1,Boston Bruins,L,2009,November,Thursday
+2009-11-27,1,Colorado Avalanche,W,2009,November,Saturday
+2009-12-02,1,Nashville Predators,W,2009,December,Tuesday
+2009-12-04,1,Anaheim Ducks,W,2009,December,Thursday
+2009-12-15,1,Columbus Blue Jackets,W,2009,December,Monday
+2009-12-21,1,Colorado Avalanche,L,2009,December,Sunday
+2009-12-23,1,Edmonton Oilers,W,2009,December,Tuesday
+2009-12-26,1,St. Louis Blues,W,2009,December,Friday
+2009-12-31,1,Los Angeles Kings,L,2009,December,Wednesday
+2010-01-02,1,New Jersey Devils,L,2010,January,Tuesday
+2010-01-06,1,Calgary Flames,W,2010,January,Saturday
+2010-01-09,1,Chicago Blackhawks,W,2010,January,Tuesday
+2010-01-11,1,Pittsburgh Penguins,W,2010,January,Thursday
+2010-01-13,1,Vancouver Canucks,W,2010,January,Saturday
+2010-01-21,1,Detroit Red Wings,L,2010,January,Sunday
+2010-01-23,1,Columbus Blue Jackets,W,2010,January,Tuesday
+2010-01-27,1,Detroit Red Wings,W,2010,January,Saturday
+2010-02-04,1,Edmonton Oilers,W,2010,February,Thursday
+2010-02-06,1,Philadelphia Flyers,W,2010,February,Saturday
+2010-02-10,1,Phoenix Coyotes,L,2010,February,Wednesday
+2010-02-12,1,Atlanta Thrashers,L,2010,February,Friday
+2010-02-14,1,Vancouver Canucks,W,2010,February,Sunday
+2010-03-07,1,Calgary Flames,L,2010,March,Sunday
+2010-03-09,1,Florida Panthers,L,2010,March,Tuesday
+2010-03-14,1,St. Louis Blues,W,2010,March,Sunday
+2010-03-16,1,Edmonton Oilers,W,2010,March,Tuesday
+2010-03-21,1,Calgary Flames,W,2010,March,Sunday
+2010-03-23,1,San Jose Sharks,L,2010,March,Tuesday
+2010-03-29,1,Los Angeles Kings,W,2010,March,Monday
+2010-03-31,1,Chicago Blackhawks,L,2010,March,Wednesday
+2010-04-02,1,San Jose Sharks,L,2010,April,Tuesday
+2010-04-10,1,Dallas Stars,L,2010,April,Wednesday
+2008-10-11,1,Boston Bruins,W,2008,October,Thursday
+2008-10-23,1,Buffalo Sabres,L,2008,October,Tuesday
+2008-10-25,1,Columbus Blue Jackets,W,2008,October,Thursday
+2008-10-27,1,Chicago Blackhawks,W,2008,October,Saturday
+2008-10-30,1,Montreal Canadiens,L,2008,October,Tuesday
+2008-11-13,1,Phoenix Coyotes,W,2008,November,Saturday
+2008-11-15,1,Columbus Blue Jackets,W,2008,November,Monday
+2008-11-20,1,Vancouver Canucks,L,2008,November,Saturday
+2008-11-22,1,St. Louis Blues,L,2008,November,Monday
+2008-11-24,1,Washington Capitals,W,2008,November,Wednesday
+2008-11-26,1,Dallas Stars,L,2008,November,Friday
+2008-11-28,1,Tampa Bay Lightning,W,2008,November,Sunday
+2008-12-01,1,Colorado Avalanche,L,2008,December,Monday
+2008-12-03,1,St. Louis Blues,W,2008,December,Wednesday
+2008-12-05,1,Vancouver Canucks,L,2008,December,Friday
+2008-12-17,1,Calgary Flames,L,2008,December,Wednesday
+2008-12-19,1,New York Islanders,W,2008,December,Friday
+2008-12-23,1,Carolina Hurricanes,W,2008,December,Tuesday
+2008-12-28,1,Chicago Blackhawks,L,2008,December,Sunday
+2008-12-31,1,San Jose Sharks,W,2008,December,Wednesday
+2009-01-03,1,Detroit Red Wings,L,2009,January,Wednesday
+2009-01-13,1,Phoenix Coyotes,W,2009,January,Saturday
+2009-01-15,1,Edmonton Oilers,W,2009,January,Monday
+2009-01-17,1,Anaheim Ducks,L,2009,January,Wednesday
+2009-01-20,1,Los Angeles Kings,L,2009,January,Saturday
+2009-01-27,1,Toronto Maple Leafs,W,2009,January,Saturday
+2009-02-04,1,Anaheim Ducks,W,2009,February,Thursday
+2009-02-06,1,Nashville Predators,L,2009,February,Saturday
+2009-02-08,1,Edmonton Oilers,W,2009,February,Monday
+2009-02-11,1,Colorado Avalanche,W,2009,February,Thursday
+2009-02-14,1,Ottawa Senators,L,2009,February,Sunday
+2009-02-19,1,Calgary Flames,L,2009,February,Friday
+2009-02-21,1,Detroit Red Wings,W,2009,February,Sunday
+2009-02-24,1,Los Angeles Kings,L,2009,February,Wednesday
+2009-03-10,1,San Jose Sharks,L,2009,March,Wednesday
+2009-03-17,1,Colorado Avalanche,W,2009,March,Wednesday
+2009-03-22,1,Edmonton Oilers,W,2009,March,Monday
+2009-03-31,1,Vancouver Canucks,L,2009,March,Wednesday
+2009-04-03,1,Calgary Flames,W,2009,April,Wednesday
+2009-04-07,1,Dallas Stars,W,2009,April,Sunday
+2009-04-10,1,Nashville Predators,W,2009,April,Wednesday
+2007-10-04,1,Chicago Blackhawks,W,2007,October,Thursday
+2007-10-06,1,Columbus Blue Jackets,W,2007,October,Saturday
+2007-10-10,1,Edmonton Oilers,W,2007,October,Wednesday
+2007-10-21,1,Colorado Avalanche,W,2007,October,Sunday
+2007-10-30,1,Pittsburgh Penguins,L,2007,October,Tuesday
+2007-11-01,1,St. Louis Blues,L,2007,November,Monday
+2007-11-03,1,Calgary Flames,W,2007,November,Wednesday
+2007-11-05,1,Edmonton Oilers,W,2007,November,Friday
+2007-11-18,1,Colorado Avalanche,W,2007,November,Thursday
+2007-11-21,1,Vancouver Canucks,L,2007,November,Sunday
+2007-11-23,1,Columbus Blue Jackets,L,2007,November,Tuesday
+2007-11-28,1,Phoenix Coyotes,W,2007,November,Sunday
+2007-11-30,1,St. Louis Blues,W,2007,November,Tuesday
+2007-12-02,1,Vancouver Canucks,W,2007,December,Tuesday
+2007-12-05,1,Philadelphia Flyers,L,2007,December,Friday
+2007-12-18,1,Nashville Predators,W,2007,December,Thursday
+2007-12-20,1,New York Rangers,W,2007,December,Saturday
+2007-12-22,1,Detroit Red Wings,L,2007,December,Monday
+2007-12-29,1,Edmonton Oilers,W,2007,December,Monday
+2007-12-31,1,San Jose Sharks,L,2007,December,Wednesday
+2008-01-03,1,Dallas Stars,W,2008,January,Wednesday
+2008-01-13,1,Phoenix Coyotes,W,2008,January,Saturday
+2008-01-16,1,Calgary Flames,L,2008,January,Tuesday
+2008-01-18,1,Anaheim Ducks,L,2008,January,Thursday
+2008-01-30,1,Anaheim Ducks,W,2008,January,Tuesday
+2008-02-05,1,Detroit Red Wings,L,2008,February,Friday
+2008-02-07,1,Dallas Stars,L,2008,February,Sunday
+2008-02-09,1,New York Islanders,W,2008,February,Tuesday
+2008-02-17,1,Nashville Predators,W,2008,February,Wednesday
+2008-02-19,1,Vancouver Canucks,L,2008,February,Friday
+2008-02-24,1,Calgary Flames,L,2008,February,Wednesday
+2008-03-02,1,Los Angeles Kings,W,2008,March,Tuesday
+2008-03-04,1,Chicago Blackhawks,L,2008,March,Thursday
+2008-03-09,1,San Jose Sharks,L,2008,March,Tuesday
+2008-03-13,1,New Jersey Devils,L,2008,March,Saturday
+2008-03-15,1,Los Angeles Kings,W,2008,March,Monday
+2008-03-17,1,Colorado Avalanche,W,2008,March,Wednesday
+2008-03-26,1,Edmonton Oilers,W,2008,March,Friday
+2008-03-28,1,Vancouver Canucks,W,2008,March,Sunday
+2008-03-30,1,Colorado Avalanche,W,2008,March,Tuesday
+2008-04-03,1,Calgary Flames,W,2008,April,Wednesday
+2006-10-05,1,Colorado Avalanche,W,2006,October,Friday
+2006-10-07,1,Nashville Predators,W,2006,October,Sunday
+2006-10-10,1,Vancouver Canucks,W,2006,October,Wednesday
+2006-10-12,1,Washington Capitals,W,2006,October,Friday
+2006-10-14,1,Columbus Blue Jackets,W,2006,October,Sunday
+2006-10-25,1,Los Angeles Kings,W,2006,October,Thursday
+2006-10-27,1,Anaheim Ducks,W,2006,October,Saturday
+2006-11-02,1,Vancouver Canucks,W,2006,November,Tuesday
+2006-11-04,1,Nashville Predators,L,2006,November,Thursday
+2006-11-18,1,Colorado Avalanche,L,2006,November,Thursday
+2006-11-24,1,Phoenix Coyotes,W,2006,November,Wednesday
+2006-11-29,1,San Jose Sharks,L,2006,November,Monday
+2006-12-01,1,Detroit Red Wings,L,2006,December,Monday
+2006-12-05,1,Chicago Blackhawks,W,2006,December,Friday
+2006-12-07,1,Calgary Flames,W,2006,December,Sunday
+2006-12-09,1,Chicago Blackhawks,W,2006,December,Tuesday
+2006-12-19,1,Vancouver Canucks,W,2006,December,Friday
+2006-12-23,1,Detroit Red Wings,W,2006,December,Tuesday
+2006-12-29,1,Columbus Blue Jackets,W,2006,December,Monday
+2006-12-31,1,Anaheim Ducks,W,2006,December,Wednesday
+2007-01-02,1,Atlanta Thrashers,W,2007,January,Tuesday
+2007-01-04,1,Tampa Bay Lightning,L,2007,January,Thursday
+2007-01-06,1,Colorado Avalanche,L,2007,January,Saturday
+2007-01-16,1,Edmonton Oilers,L,2007,January,Tuesday
+2007-01-20,1,Dallas Stars,L,2007,January,Saturday
+2007-01-26,1,Calgary Flames,W,2007,January,Friday
+2007-02-08,1,Florida Panthers,W,2007,February,Monday
+2007-02-10,1,Carolina Hurricanes,W,2007,February,Wednesday
+2007-02-14,1,Vancouver Canucks,L,2007,February,Sunday
+2007-02-20,1,Dallas Stars,W,2007,February,Saturday
+2007-02-25,1,Edmonton Oilers,W,2007,February,Thursday
+2007-03-06,1,San Jose Sharks,L,2007,March,Saturday
+2007-03-11,1,Colorado Avalanche,W,2007,March,Thursday
+2007-03-20,1,Phoenix Coyotes,W,2007,March,Saturday
+2007-03-22,1,St. Louis Blues,W,2007,March,Monday
+2007-03-24,1,Los Angeles Kings,W,2007,March,Wednesday
+2007-03-27,1,Calgary Flames,L,2007,March,Saturday
+2007-03-29,1,Calgary Flames,L,2007,March,Monday
+2007-04-03,1,Edmonton Oilers,W,2007,April,Wednesday
+2007-04-05,1,Edmonton Oilers,W,2007,April,Friday
+2007-04-07,1,St. Louis Blues,W,2007,April,Sunday
+2005-10-05,1,Calgary Flames,W,2005,October,Friday
+2005-10-12,1,Vancouver Canucks,W,2005,October,Friday
+2005-10-14,1,Vancouver Canucks,L,2005,October,Sunday
+2005-10-16,1,Mighty Ducks of Anaheim,W,2005,October,Tuesday
+2005-10-19,1,San Jose Sharks,W,2005,October,Friday
+2005-10-25,1,Vancouver Canucks,L,2005,October,Thursday
+2005-10-29,1,Columbus Blue Jackets,W,2005,October,Monday
+2005-11-08,1,Phoenix Coyotes,L,2005,November,Monday
+2005-11-19,1,Nashville Predators,W,2005,November,Friday
+2005-11-23,1,Edmonton Oilers,L,2005,November,Tuesday
+2005-11-25,1,St. Louis Blues,W,2005,November,Thursday
+2005-11-30,1,Columbus Blue Jackets,L,2005,November,Tuesday
+2005-12-11,1,Buffalo Sabres,L,2005,December,Thursday
+2005-12-15,1,Boston Bruins,L,2005,December,Monday
+2005-12-17,1,Montreal Canadiens,W,2005,December,Wednesday
+2005-12-19,1,Dallas Stars,W,2005,December,Friday
+2005-12-23,1,Colorado Avalanche,W,2005,December,Tuesday
+2005-12-31,1,Vancouver Canucks,W,2005,December,Wednesday
+2006-01-05,1,Colorado Avalanche,L,2006,January,Friday
+2006-01-07,1,Mighty Ducks of Anaheim,W,2006,January,Sunday
+2006-01-09,1,Dallas Stars,L,2006,January,Tuesday
+2006-01-14,1,Calgary Flames,L,2006,January,Sunday
+2006-01-16,1,Ottawa Senators,L,2006,January,Tuesday
+2006-01-18,1,Toronto Maple Leafs,W,2006,January,Thursday
+2006-01-20,1,Chicago Blackhawks,W,2006,January,Saturday
+2006-01-24,1,Phoenix Coyotes,W,2006,January,Wednesday
+2006-01-26,1,Nashville Predators,W,2006,January,Friday
+2006-01-30,1,Detroit Red Wings,L,2006,January,Tuesday
+2006-02-07,1,Los Angeles Kings,W,2006,February,Sunday
+2006-02-09,1,Colorado Avalanche,L,2006,February,Tuesday
+2006-03-05,1,Colorado Avalanche,W,2006,March,Friday
+2006-03-07,1,Los Angeles Kings,L,2006,March,Sunday
+2006-03-12,1,Edmonton Oilers,W,2006,March,Friday
+2006-03-14,1,Edmonton Oilers,L,2006,March,Sunday
+2006-03-19,1,Calgary Flames,L,2006,March,Friday
+2006-03-21,1,Calgary Flames,W,2006,March,Sunday
+2006-03-25,1,San Jose Sharks,L,2006,March,Thursday
+2006-04-02,1,Detroit Red Wings,L,2006,April,Tuesday
+2006-04-04,1,St. Louis Blues,W,2006,April,Thursday
+2006-04-06,1,Edmonton Oilers,W,2006,April,Saturday
+2006-04-11,1,Chicago Blackhawks,W,2006,April,Thursday
+2002-10-11,1,Boston Bruins,W,2002,October,Thursday
+2002-10-15,1,Florida Panthers,W,2002,October,Monday
+2002-10-17,1,Dallas Stars,W,2002,October,Wednesday
+2002-10-19,1,Detroit Red Wings,L,2002,October,Friday
+2002-10-22,1,Calgary Flames,W,2002,October,Monday
+2002-10-29,1,Colorado Avalanche,W,2002,October,Monday
+2002-10-31,1,San Jose Sharks,W,2002,October,Wednesday
+2002-11-02,1,Vancouver Canucks,L,2002,November,Tuesday
+2002-11-12,1,Edmonton Oilers,L,2002,November,Friday
+2002-11-14,1,Pittsburgh Penguins,T,2002,November,Sunday
+2002-11-16,1,Washington Capitals,W,2002,November,Tuesday
+2002-11-19,1,Los Angeles Kings,T,2002,November,Friday
+2002-11-23,1,Nashville Predators,W,2002,November,Tuesday
+2002-11-25,1,Vancouver Canucks,L,2002,November,Thursday
+2002-11-29,1,Colorado Avalanche,T,2002,November,Monday
+2002-12-10,1,Tampa Bay Lightning,W,2002,December,Wednesday
+2002-12-15,1,Carolina Hurricanes,W,2002,December,Monday
+2002-12-17,1,Edmonton Oilers,W,2002,December,Wednesday
+2002-12-19,1,New York Islanders,L,2002,December,Friday
+2002-12-23,1,Calgary Flames,L,2002,December,Tuesday
+2002-12-31,1,Mighty Ducks of Anaheim,W,2002,December,Wednesday
+2003-01-06,1,Los Angeles Kings,L,2003,January,Saturday
+2003-01-08,1,Columbus Blue Jackets,L,2003,January,Monday
+2003-01-10,1,Phoenix Coyotes,W,2003,January,Wednesday
+2003-01-14,1,Buffalo Sabres,L,2003,January,Sunday
+2003-01-16,1,Vancouver Canucks,W,2003,January,Tuesday
+2003-01-18,1,Mighty Ducks of Anaheim,L,2003,January,Thursday
+2003-02-05,1,Chicago Blackhawks,W,2003,February,Friday
+2003-02-07,1,San Jose Sharks,W,2003,February,Sunday
+2003-02-12,1,Philadelphia Flyers,W,2003,February,Friday
+2003-02-14,1,Phoenix Coyotes,L,2003,February,Sunday
+2003-02-19,1,New York Rangers,L,2003,February,Friday
+2003-02-23,1,St. Louis Blues,W,2003,February,Tuesday
+2003-03-04,1,New Jersey Devils,W,2003,March,Thursday
+2003-03-12,1,Dallas Stars,W,2003,March,Friday
+2003-03-14,1,Nashville Predators,W,2003,March,Sunday
+2003-03-23,1,Detroit Red Wings,W,2003,March,Tuesday
+2003-03-26,1,St. Louis Blues,L,2003,March,Friday
+2003-03-28,1,Chicago Blackhawks,W,2003,March,Sunday
+2003-03-31,1,Calgary Flames,W,2003,March,Wednesday
+2003-04-06,1,Columbus Blue Jackets,W,2003,April,Saturday
+2003-10-10,1,New York Rangers,W,2003,October,Wednesday
+2003-10-12,1,San Jose Sharks,L,2003,October,Friday
+2003-10-16,1,Colorado Avalanche,L,2003,October,Tuesday
+2003-10-18,1,Vancouver Canucks,T,2003,October,Thursday
+2003-10-21,1,Calgary Flames,L,2003,October,Sunday
+2003-10-30,1,Atlanta Thrashers,W,2003,October,Tuesday
+2003-11-01,1,Washington Capitals,W,2003,November,Monday
+2003-11-11,1,Vancouver Canucks,W,2003,November,Thursday
+2003-11-13,1,Edmonton Oilers,L,2003,November,Saturday
+2003-11-15,1,Detroit Red Wings,T,2003,November,Monday
+2003-11-22,1,Detroit Red Wings,L,2003,November,Monday
+2003-11-26,1,Dallas Stars,L,2003,November,Friday
+2003-11-28,1,San Jose Sharks,L,2003,November,Sunday
+2003-11-30,1,Mighty Ducks of Anaheim,T,2003,November,Tuesday
+2003-12-09,1,Calgary Flames,W,2003,December,Tuesday
+2003-12-11,1,Toronto Maple Leafs,L,2003,December,Thursday
+2003-12-13,1,Buffalo Sabres,W,2003,December,Saturday
+2003-12-20,1,Columbus Blue Jackets,W,2003,December,Saturday
+2003-12-23,1,Nashville Predators,T,2003,December,Tuesday
+2004-01-02,1,Edmonton Oilers,L,2004,January,Tuesday
+2004-01-07,1,Chicago Blackhawks,W,2004,January,Sunday
+2004-01-09,1,Phoenix Coyotes,L,2004,January,Tuesday
+2004-01-12,1,Nashville Predators,T,2004,January,Friday
+2004-01-14,1,Los Angeles Kings,T,2004,January,Sunday
+2004-01-16,1,Pittsburgh Penguins,W,2004,January,Tuesday
+2004-01-21,1,Chicago Blackhawks,W,2004,January,Sunday
+2004-01-29,1,Montreal Canadiens,L,2004,January,Monday
+2004-02-02,1,St. Louis Blues,W,2004,February,Tuesday
+2004-02-10,1,Los Angeles Kings,L,2004,February,Wednesday
+2004-02-13,1,Edmonton Oilers,W,2004,February,Saturday
+2004-02-15,1,Calgary Flames,L,2004,February,Monday
+2004-02-19,1,Vancouver Canucks,W,2004,February,Friday
+2004-02-22,1,Colorado Avalanche,L,2004,February,Monday
+2004-02-29,1,Carolina Hurricanes,T,2004,February,Monday
+2004-03-14,1,Columbus Blue Jackets,W,2004,March,Sunday
+2004-03-16,1,Ottawa Senators,W,2004,March,Tuesday
+2004-03-22,1,Phoenix Coyotes,L,2004,March,Monday
+2004-03-28,1,Mighty Ducks of Anaheim,W,2004,March,Sunday
+2004-03-31,1,Colorado Avalanche,W,2004,March,Wednesday
+2004-04-02,1,Dallas Stars,W,2004,April,Tuesday
+2004-04-04,1,St. Louis Blues,W,2004,April,Thursday
+2001-10-10,1,Boston Bruins,W,2001,October,Wednesday
+2001-10-12,1,Chicago Blackhawks,W,2001,October,Friday
+2001-10-14,1,Edmonton Oilers,T,2001,October,Sunday
+2001-10-16,1,San Jose Sharks,T,2001,October,Tuesday
+2001-10-19,1,St. Louis Blues,L,2001,October,Friday
+2001-10-24,1,Carolina Hurricanes,L,2001,October,Wednesday
+2001-10-31,1,Nashville Predators,L,2001,October,Wednesday
+2001-11-02,1,Colorado Avalanche,W,2001,November,Tuesday
+2001-11-04,1,Edmonton Oilers,L,2001,November,Thursday
+2001-11-11,1,Vancouver Canucks,L,2001,November,Thursday
+2001-11-13,1,Atlanta Thrashers,W,2001,November,Saturday
+2001-11-18,1,Los Angeles Kings,T,2001,November,Thursday
+2001-11-23,1,Phoenix Coyotes,W,2001,November,Tuesday
+2001-11-25,1,Dallas Stars,L,2001,November,Thursday
+2001-11-27,1,Vancouver Canucks,W,2001,November,Saturday
+2001-11-29,1,Florida Panthers,W,2001,November,Monday
+2001-12-02,1,St. Louis Blues,T,2001,December,Tuesday
+2001-12-16,1,Colorado Avalanche,L,2001,December,Tuesday
+2001-12-18,1,Mighty Ducks of Anaheim,L,2001,December,Thursday
+2001-12-26,1,Detroit Red Wings,T,2001,December,Friday
+2002-01-02,1,Tampa Bay Lightning,W,2002,January,Tuesday
+2002-01-04,1,Nashville Predators,W,2002,January,Thursday
+2002-01-06,1,Buffalo Sabres,L,2002,January,Saturday
+2002-01-08,1,Montreal Canadiens,W,2002,January,Monday
+2002-01-11,1,Mighty Ducks of Anaheim,T,2002,January,Thursday
+2002-01-13,1,Dallas Stars,L,2002,January,Saturday
+2002-01-26,1,New Jersey Devils,T,2002,January,Friday
+2002-01-28,1,Calgary Flames,L,2002,January,Sunday
+2002-01-30,1,Los Angeles Kings,L,2002,January,Tuesday
+2002-02-08,1,Colorado Avalanche,L,2002,February,Monday
+2002-02-10,1,New York Islanders,W,2002,February,Wednesday
+2002-02-13,1,Detroit Red Wings,L,2002,February,Saturday
+2002-03-05,1,New York Rangers,L,2002,March,Friday
+2002-03-10,1,Columbus Blue Jackets,W,2002,March,Wednesday
+2002-03-12,1,Ottawa Senators,L,2002,March,Friday
+2002-03-17,1,Phoenix Coyotes,T,2002,March,Wednesday
+2002-03-18,1,Calgary Flames,W,2002,March,Thursday
+2002-03-20,1,Columbus Blue Jackets,L,2002,March,Saturday
+2002-03-29,1,Chicago Blackhawks,L,2002,March,Monday
+2002-04-08,1,San Jose Sharks,W,2002,April,Monday
+2002-04-14,1,Edmonton Oilers,L,2002,April,Sunday
+2000-10-11,1,Philadelphia Flyers,T,2000,October,Thursday
+2000-10-15,1,Edmonton Oilers,L,2000,October,Monday
+2000-10-18,1,Tampa Bay Lightning,W,2000,October,Thursday
+2000-10-20,1,San Jose Sharks,L,2000,October,Saturday
+2000-10-22,1,Florida Panthers,T,2000,October,Monday
+2000-10-27,1,Calgary Flames,W,2000,October,Saturday
+2000-10-29,1,Chicago Blackhawks,L,2000,October,Monday
+2000-11-08,1,Calgary Flames,L,2000,November,Monday
+2000-11-12,1,Edmonton Oilers,L,2000,November,Friday
+2000-11-15,1,New York Rangers,L,2000,November,Monday
+2000-11-22,1,Calgary Flames,T,2000,November,Monday
+2000-11-24,1,Chicago Blackhawks,W,2000,November,Wednesday
+2000-11-26,1,Vancouver Canucks,W,2000,November,Friday
+2000-12-08,1,Mighty Ducks of Anaheim,L,2000,December,Monday
+2000-12-10,1,Nashville Predators,L,2000,December,Wednesday
+2000-12-13,1,Carolina Hurricanes,T,2000,December,Saturday
+2000-12-17,1,Dallas Stars,W,2000,December,Wednesday
+2000-12-20,1,Ottawa Senators,T,2000,December,Saturday
+2000-12-22,1,Los Angeles Kings,W,2000,December,Monday
+2000-12-29,1,Phoenix Coyotes,T,2000,December,Monday
+2000-12-31,1,Mighty Ducks of Anaheim,W,2000,December,Wednesday
+2001-01-03,1,Atlanta Thrashers,T,2001,January,Wednesday
+2001-01-05,1,Detroit Red Wings,W,2001,January,Friday
+2001-01-10,1,Washington Capitals,W,2001,January,Wednesday
+2001-01-12,1,Colorado Avalanche,L,2001,January,Friday
+2001-01-17,1,Columbus Blue Jackets,W,2001,January,Wednesday
+2001-01-19,1,New York Islanders,W,2001,January,Friday
+2001-01-21,1,New Jersey Devils,L,2001,January,Sunday
+2001-02-11,1,Pittsburgh Penguins,W,2001,February,Thursday
+2001-02-16,1,Los Angeles Kings,L,2001,February,Tuesday
+2001-02-18,1,San Jose Sharks,W,2001,February,Thursday
+2001-02-26,1,Vancouver Canucks,L,2001,February,Friday
+2001-03-06,1,St. Louis Blues,T,2001,March,Saturday
+2001-03-11,1,Detroit Red Wings,L,2001,March,Thursday
+2001-03-14,1,St. Louis Blues,L,2001,March,Sunday
+2001-03-19,1,Dallas Stars,L,2001,March,Friday
+2001-03-21,1,Nashville Predators,T,2001,March,Sunday
+2001-03-25,1,Vancouver Canucks,T,2001,March,Thursday
+2001-03-28,1,Phoenix Coyotes,L,2001,March,Sunday
+2001-04-06,1,Columbus Blue Jackets,W,2001,April,Saturday
+2001-04-08,1,Colorado Avalanche,L,2001,April,Monday
+2022-05-02,1,St. Louis Blues,L,2022,May,Tuesday
+2022-05-04,1,St. Louis Blues,W,2022,May,Thursday
+2022-05-10,1,St. Louis Blues,L,2022,May,Wednesday
+2021-05-20,1,Vegas Golden Knights,L,2021,May,Saturday
+2021-05-22,1,Vegas Golden Knights,L,2021,May,Monday
+2021-05-26,1,Vegas Golden Knights,W,2021,May,Friday
+2020-08-06,1,Vancouver Canucks,L,2020,August,Saturday
+2020-08-07,1,Vancouver Canucks,L,2020,August,Sunday
+2018-04-15,1,Winnipeg Jets,W,2018,April,Monday
+2018-04-17,1,Winnipeg Jets,L,2018,April,Wednesday
+2017-04-12,1,St. Louis Blues,L,2017,April,Friday
+2017-04-14,1,St. Louis Blues,L,2017,April,Sunday
+2017-04-22,1,St. Louis Blues,L,2017,April,Monday
+2016-04-18,1,Dallas Stars,W,2016,April,Thursday
+2016-04-20,1,Dallas Stars,L,2016,April,Saturday
+2016-04-24,1,Dallas Stars,L,2016,April,Wednesday
+2015-04-20,1,St. Louis Blues,W,2015,April,Saturday
+2015-04-22,1,St. Louis Blues,L,2015,April,Monday
+2015-04-26,1,St. Louis Blues,W,2015,April,Friday
+2015-05-05,1,Chicago Blackhawks,L,2015,May,Friday
+2015-05-07,1,Chicago Blackhawks,L,2015,May,Sunday
+2014-04-21,1,Colorado Avalanche,W,2014,April,Sunday
+2014-04-24,1,Colorado Avalanche,W,2014,April,Wednesday
+2014-04-28,1,Colorado Avalanche,W,2014,April,Sunday
+2014-05-06,1,Chicago Blackhawks,W,2014,May,Saturday
+2014-05-09,1,Chicago Blackhawks,W,2014,May,Tuesday
+2014-05-13,1,Chicago Blackhawks,L,2014,May,Saturday
+2013-05-05,1,Chicago Blackhawks,W,2013,May,Friday
+2013-05-07,1,Chicago Blackhawks,L,2013,May,Sunday
+2008-04-09,1,Colorado Avalanche,L,2008,April,Tuesday
+2008-04-11,1,Colorado Avalanche,W,2008,April,Thursday
+2008-04-17,1,Colorado Avalanche,L,2008,April,Wednesday
+2003-04-14,1,Colorado Avalanche,L,2003,April,Sunday
+2003-04-16,1,Colorado Avalanche,L,2003,April,Tuesday
+2003-04-21,1,Colorado Avalanche,W,2003,April,Sunday
+2003-04-29,1,Vancouver Canucks,L,2003,April,Monday
+2003-05-02,1,Vancouver Canucks,L,2003,May,Tuesday
+2003-05-07,1,Vancouver Canucks,W,2003,May,Sunday
+2003-05-10,1,Mighty Ducks of Anaheim,L,2003,May,Wednesday
+2003-05-12,1,Mighty Ducks of Anaheim,L,2003,May,Friday
+2007-04-15,1,Anaheim Ducks,L,2007,April,Monday
+2007-04-17,1,Anaheim Ducks,W,2007,April,Wednesday

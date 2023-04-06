@@ -1,0 +1,945 @@
+Date,Start (ET),Home,Opponent,Result,Tm,Opp,W,L,Streak,Year,Month,Day
+2001-04-28,17:30:00,1,San Antonio Spurs,W,93.0,84.0,1.0,2.0,W 1,2001.0,April,Sunday
+2001-04-30,20:00:00,1,San Antonio Spurs,L,84.0,97.0,1.0,3.0,L 1,2001.0,April,Tuesday
+2002-04-28,15:00:00,1,Dallas Mavericks,L,102.0,115.0,0.0,3.0,L 3,2002.0,April,Sunday
+2003-04-20,15:30:00,1,Los Angeles Lakers,L,98.0,117.0,0.0,1.0,L 1,2003.0,April,Saturday
+2003-04-22,21:30:00,1,Los Angeles Lakers,W,119.0,91.0,1.0,1.0,W 1,2003.0,April,Monday
+2003-04-29,21:30:00,1,Los Angeles Lakers,L,90.0,120.0,2.0,3.0,L 2,2003.0,April,Monday
+2004-04-18,21:30:00,1,Denver Nuggets,W,106.0,92.0,1.0,0.0,W 1,2004.0,April,Thursday
+2004-04-21,21:30:00,1,Denver Nuggets,W,95.0,81.0,2.0,0.0,W 2,2004.0,April,Sunday
+2004-04-30,21:30:00,1,Denver Nuggets,W,102.0,91.0,4.0,1.0,W 2,2004.0,April,Tuesday
+2004-05-04,21:30:00,1,Sacramento Kings,L,98.0,104.0,4.0,2.0,L 1,2004.0,May,Thursday
+2004-05-08,21:30:00,1,Sacramento Kings,W,94.0,89.0,5.0,2.0,W 1,2004.0,May,Monday
+2004-05-14,21:30:00,1,Sacramento Kings,W,86.0,74.0,7.0,3.0,W 1,2004.0,May,Sunday
+2004-05-19,20:30:00,1,Sacramento Kings,W,83.0,80.0,8.0,4.0,W 1,2004.0,May,Friday
+2004-05-21,21:00:00,1,Los Angeles Lakers,L,88.0,97.0,8.0,5.0,L 1,2004.0,May,Sunday
+2004-05-23,20:30:00,1,Los Angeles Lakers,W,89.0,71.0,9.0,5.0,W 1,2004.0,May,Tuesday
+2004-05-29,20:30:00,1,Los Angeles Lakers,W,98.0,96.0,10.0,7.0,W 1,2004.0,May,Monday
+2018-04-21,19:30:00,1,Houston Rockets,W,121.0,105.0,1.0,2.0,W 1,2018.0,April,Sunday
+2018-04-23,20:00:00,1,Houston Rockets,L,100.0,119.0,1.0,3.0,L 1,2018.0,April,Tuesday
+2022-04-21,19:30:00,1,Memphis Grizzlies,L,95.0,104.0,1.0,2.0,L 2,2022.0,April,Sunday
+2022-04-23,22:00:00,1,Memphis Grizzlies,W,119.0,118.0,2.0,2.0,W 1,2022.0,April,Tuesday
+2022-04-29,21:00:00,1,Memphis Grizzlies,L,106.0,114.0,2.0,4.0,L 2,2022.0,April,Monday
+2000-11-04,20:00:00,1,Sacramento Kings,W,99.0,91.0,2.0,1.0,W 1,2000.0,November,Thursday
+2000-11-09,20:00:00,1,Philadelphia 76ers,L,82.0,84.0,2.0,4.0,L 3,2000.0,November,Tuesday
+2000-11-15,20:00:00,1,Golden State Warriors,W,92.0,90.0,4.0,4.0,W 2,2000.0,November,Monday
+2000-11-17,20:00:00,1,San Antonio Spurs,W,99.0,94.0,5.0,4.0,W 3,2000.0,November,Wednesday
+2000-11-22,20:00:00,1,Vancouver Grizzlies,W,101.0,100.0,7.0,4.0,W 5,2000.0,November,Monday
+2000-11-29,20:00:00,1,Denver Nuggets,L,100.0,107.0,8.0,7.0,L 1,2000.0,November,Monday
+2000-12-05,20:00:00,1,Chicago Bulls,W,100.0,90.0,10.0,8.0,W 1,2000.0,December,Friday
+2000-12-07,20:00:00,1,Washington Wizards,W,105.0,88.0,11.0,8.0,W 2,2000.0,December,Sunday
+2000-12-09,20:00:00,1,Los Angeles Clippers,W,85.0,73.0,12.0,8.0,W 3,2000.0,December,Tuesday
+2000-12-16,20:00:00,1,Indiana Pacers,W,113.0,110.0,15.0,9.0,W 2,2000.0,December,Tuesday
+2000-12-22,20:00:00,1,Charlotte Hornets,L,74.0,83.0,15.0,12.0,L 3,2000.0,December,Monday
+2000-12-23,20:00:00,1,Utah Jazz,L,92.0,98.0,15.0,13.0,L 4,2000.0,December,Tuesday
+2000-12-26,20:00:00,1,Toronto Raptors,W,100.0,97.0,16.0,13.0,W 1,2000.0,December,Friday
+2000-12-28,20:00:00,1,Atlanta Hawks,W,88.0,81.0,17.0,13.0,W 2,2000.0,December,Sunday
+2000-12-30,19:30:00,1,New York Knicks,L,79.0,88.0,17.0,14.0,L 1,2000.0,December,Tuesday
+2001-01-01,15:30:00,1,Houston Rockets,W,106.0,96.0,18.0,14.0,W 1,2001.0,January,Monday
+2001-01-04,20:00:00,1,Seattle SuperSonics,W,105.0,92.0,19.0,15.0,W 1,2001.0,January,Thursday
+2001-01-10,20:00:00,1,Dallas Mavericks,L,86.0,106.0,20.0,17.0,L 2,2001.0,January,Wednesday
+2001-01-12,20:00:00,1,Los Angeles Clippers,W,95.0,89.0,21.0,17.0,W 1,2001.0,January,Friday
+2001-01-15,15:30:00,1,Boston Celtics,L,102.0,107.0,21.0,18.0,L 1,2001.0,January,Monday
+2001-01-23,20:00:00,1,Phoenix Suns,W,82.0,73.0,25.0,18.0,W 4,2001.0,January,Tuesday
+2001-01-25,20:00:00,1,Orlando Magic,W,109.0,100.0,26.0,18.0,W 5,2001.0,January,Thursday
+2001-01-27,17:30:00,1,Portland Trail Blazers,W,93.0,80.0,27.0,18.0,W 6,2001.0,January,Saturday
+2001-01-29,20:00:00,1,Milwaukee Bucks,W,99.0,96.0,28.0,18.0,W 7,2001.0,January,Monday
+2001-01-31,20:00:00,1,Los Angeles Lakers,W,96.0,83.0,29.0,18.0,W 8,2001.0,January,Wednesday
+2001-02-07,20:00:00,1,Sacramento Kings,W,117.0,88.0,32.0,18.0,W 11,2001.0,February,Sunday
+2001-02-16,20:00:00,1,San Antonio Spurs,L,85.0,91.0,32.0,21.0,L 3,2001.0,February,Tuesday
+2001-02-18,15:30:00,1,Vancouver Grizzlies,L,102.0,110.0,32.0,22.0,L 4,2001.0,February,Thursday
+2001-02-21,20:00:00,1,Houston Rockets,L,83.0,89.0,32.0,23.0,L 5,2001.0,February,Sunday
+2001-02-23,20:00:00,1,Golden State Warriors,W,122.0,83.0,33.0,23.0,W 1,2001.0,February,Tuesday
+2001-02-28,20:00:00,1,Detroit Pistons,W,111.0,100.0,34.0,24.0,W 1,2001.0,February,Sunday
+2001-03-04,15:30:00,1,Seattle SuperSonics,W,119.0,111.0,36.0,24.0,W 3,2001.0,March,Thursday
+2001-03-12,20:00:00,1,Miami Heat,W,94.0,77.0,38.0,26.0,W 1,2001.0,March,Friday
+2001-03-18,15:30:00,1,Cleveland Cavaliers,W,91.0,76.0,39.0,28.0,W 1,2001.0,March,Thursday
+2001-03-21,20:00:00,1,Dallas Mavericks,W,109.0,97.0,40.0,28.0,W 2,2001.0,March,Sunday
+2001-03-23,20:00:00,1,Denver Nuggets,W,101.0,90.0,41.0,28.0,W 3,2001.0,March,Tuesday
+2001-03-25,15:30:00,1,New Jersey Nets,W,105.0,91.0,42.0,28.0,W 4,2001.0,March,Thursday
+2001-04-04,20:00:00,1,Portland Trail Blazers,W,83.0,79.0,44.0,30.0,W 2,2001.0,April,Thursday
+2001-04-06,20:00:00,1,Phoenix Suns,W,101.0,88.0,45.0,30.0,W 3,2001.0,April,Saturday
+2001-04-08,17:30:00,1,Los Angeles Lakers,L,99.0,104.0,45.0,31.0,L 1,2001.0,April,Monday
+2001-04-15,15:00:00,1,Utah Jazz,W,107.0,100.0,47.0,33.0,W 1,2001.0,April,Monday
+2001-10-30,20:00:00,1,Philadelphia 76ers,W,83.0,74.0,1.0,0.0,W 1,2001.0,October,Tuesday
+2001-11-02,20:00:00,1,Memphis Grizzlies,W,111.0,102.0,2.0,0.0,W 2,2001.0,November,Tuesday
+2001-11-06,20:00:00,1,New York Knicks,W,104.0,94.0,4.0,0.0,W 4,2001.0,November,Saturday
+2001-11-08,20:00:00,1,Chicago Bulls,W,127.0,74.0,5.0,0.0,W 5,2001.0,November,Monday
+2001-11-13,20:00:00,1,Cleveland Cavaliers,L,103.0,107.0,6.0,1.0,L 1,2001.0,November,Saturday
+2001-11-17,20:00:00,1,Orlando Magic,W,103.0,95.0,8.0,1.0,W 2,2001.0,November,Wednesday
+2001-11-24,20:00:00,1,San Antonio Spurs,W,99.0,94.0,10.0,2.0,W 1,2001.0,November,Wednesday
+2001-12-04,20:00:00,1,Seattle SuperSonics,W,108.0,83.0,11.0,5.0,W 1,2001.0,December,Thursday
+2001-12-08,20:00:00,1,Houston Rockets,W,107.0,97.0,13.0,5.0,W 3,2001.0,December,Monday
+2001-12-11,20:00:00,1,Golden State Warriors,W,107.0,86.0,14.0,5.0,W 4,2001.0,December,Thursday
+2001-12-14,20:00:00,1,Sacramento Kings,W,114.0,94.0,16.0,5.0,W 6,2001.0,December,Sunday
+2001-12-18,20:00:00,1,Dallas Mavericks,L,103.0,107.0,16.0,7.0,L 2,2001.0,December,Thursday
+2001-12-21,20:00:00,1,Charlotte Hornets,W,94.0,89.0,17.0,8.0,W 1,2001.0,December,Sunday
+2002-01-02,20:00:00,1,Milwaukee Bucks,W,95.0,77.0,21.0,9.0,W 2,2002.0,January,Tuesday
+2002-01-04,20:00:00,1,Utah Jazz,W,93.0,86.0,22.0,9.0,W 3,2002.0,January,Thursday
+2002-01-07,20:00:00,1,Detroit Pistons,W,109.0,93.0,24.0,9.0,W 5,2002.0,January,Sunday
+2002-01-09,20:00:00,1,Seattle SuperSonics,W,111.0,106.0,25.0,9.0,W 6,2002.0,January,Tuesday
+2002-01-11,20:00:00,1,Los Angeles Lakers,W,120.0,102.0,26.0,9.0,W 7,2002.0,January,Thursday
+2002-01-15,20:00:00,1,Los Angeles Clippers,W,97.0,83.0,28.0,9.0,W 9,2002.0,January,Monday
+2002-01-21,18:00:00,1,Washington Wizards,W,105.0,101.0,30.0,10.0,W 2,2002.0,January,Sunday
+2002-01-26,20:00:00,1,Atlanta Hawks,W,103.0,80.0,31.0,12.0,W 1,2002.0,January,Friday
+2002-02-03,14:30:00,1,Sacramento Kings,L,107.0,112.0,32.0,15.0,L 1,2002.0,February,Wednesday
+2002-02-06,20:00:00,1,Portland Trail Blazers,W,113.0,103.0,33.0,16.0,W 1,2002.0,February,Saturday
+2002-02-13,20:00:00,1,Phoenix Suns,W,107.0,92.0,34.0,16.0,W 2,2002.0,February,Saturday
+2002-02-15,20:00:00,1,Denver Nuggets,L,98.0,99.0,34.0,17.0,L 1,2002.0,February,Monday
+2002-02-17,15:30:00,1,Miami Heat,W,93.0,80.0,35.0,17.0,W 1,2002.0,February,Wednesday
+2002-02-27,20:00:00,1,Los Angeles Lakers,W,112.0,101.0,39.0,18.0,W 3,2002.0,February,Saturday
+2002-03-01,20:00:00,1,San Antonio Spurs,L,77.0,85.0,39.0,19.0,L 1,2002.0,March,Monday
+2002-03-11,20:00:00,1,Los Angeles Clippers,L,99.0,108.0,40.0,23.0,L 4,2002.0,March,Thursday
+2002-03-13,20:00:00,1,Houston Rockets,L,95.0,96.0,40.0,24.0,L 5,2002.0,March,Saturday
+2002-03-15,20:00:00,1,Indiana Pacers,L,85.0,98.0,40.0,25.0,L 6,2002.0,March,Monday
+2002-03-17,15:30:00,1,Utah Jazz,L,89.0,96.0,40.0,26.0,L 7,2002.0,March,Wednesday
+2002-03-19,20:00:00,1,Toronto Raptors,W,112.0,80.0,41.0,26.0,W 1,2002.0,March,Friday
+2002-03-23,20:00:00,1,Portland Trail Blazers,L,99.0,108.0,42.0,27.0,L 1,2002.0,March,Tuesday
+2002-03-26,20:00:00,1,Golden State Warriors,L,106.0,115.0,42.0,28.0,L 2,2002.0,March,Friday
+2002-03-28,20:00:00,1,Dallas Mavericks,W,113.0,111.0,43.0,28.0,W 1,2002.0,March,Sunday
+2002-03-31,15:30:00,1,New Jersey Nets,W,86.0,85.0,45.0,28.0,W 3,2002.0,March,Wednesday
+2002-04-03,20:00:00,1,Memphis Grizzlies,W,92.0,81.0,46.0,28.0,W 4,2002.0,April,Wednesday
+2002-04-06,20:00:00,1,Phoenix Suns,W,108.0,104.0,47.0,29.0,W 1,2002.0,April,Saturday
+2002-04-15,20:00:00,1,Boston Celtics,L,90.0,93.0,49.0,32.0,L 1,2002.0,April,Monday
+2002-04-17,20:00:00,1,Denver Nuggets,W,104.0,90.0,50.0,32.0,W 1,2002.0,April,Wednesday
+,,1,,,,,,,,,,
+2002-10-30,20:00:00,1,Denver Nuggets,W,83.0,77.0,1.0,0.0,W 1,2002.0,October,Tuesday
+2002-11-01,20:00:00,1,Orlando Magic,W,111.0,105.0,2.0,0.0,W 2,2002.0,November,Monday
+2002-11-05,20:00:00,1,Washington Wizards,W,90.0,86.0,3.0,2.0,W 1,2002.0,November,Friday
+2002-11-07,20:00:00,1,Milwaukee Bucks,W,114.0,110.0,4.0,2.0,W 2,2002.0,November,Sunday
+2002-11-09,20:00:00,1,Boston Celtics,L,99.0,105.0,4.0,3.0,L 1,2002.0,November,Tuesday
+2002-11-16,20:00:00,1,Indiana Pacers,L,101.0,107.0,5.0,6.0,L 1,2002.0,November,Tuesday
+2002-11-19,20:00:00,1,Memphis Grizzlies,W,110.0,106.0,6.0,6.0,W 1,2002.0,November,Friday
+2002-11-23,20:00:00,1,New Jersey Nets,L,82.0,96.0,7.0,7.0,L 1,2002.0,November,Tuesday
+2002-11-27,20:00:00,1,Sacramento Kings,W,90.0,74.0,9.0,7.0,W 2,2002.0,November,Saturday
+2002-12-12,20:00:00,1,Atlanta Hawks,W,113.0,95.0,13.0,10.0,W 2,2002.0,December,Friday
+2002-12-14,20:00:00,1,Portland Trail Blazers,L,92.0,98.0,13.0,11.0,L 1,2002.0,December,Sunday
+2002-12-17,20:00:00,1,Los Angeles Lakers,W,96.0,80.0,14.0,11.0,W 1,2002.0,December,Wednesday
+2002-12-21,20:00:00,1,Houston Rockets,W,98.0,86.0,15.0,13.0,W 1,2002.0,December,Sunday
+2002-12-30,20:00:00,1,Phoenix Suns,W,104.0,98.0,17.0,14.0,W 1,2002.0,December,Tuesday
+2003-01-04,20:00:00,1,Utah Jazz,L,97.0,105.0,17.0,15.0,L 1,2003.0,January,Thursday
+2003-01-08,20:00:00,1,Golden State Warriors,W,102.0,95.0,18.0,16.0,W 1,2003.0,January,Monday
+2003-01-10,20:00:00,1,Sacramento Kings,W,115.0,109.0,19.0,16.0,W 2,2003.0,January,Wednesday
+2003-01-13,20:00:00,1,Denver Nuggets,W,89.0,75.0,20.0,17.0,W 1,2003.0,January,Saturday
+2003-01-20,17:00:00,1,Toronto Raptors,W,89.0,81.0,23.0,18.0,W 2,2003.0,January,Saturday
+2003-01-22,20:00:00,1,Seattle SuperSonics,W,96.0,91.0,24.0,18.0,W 3,2003.0,January,Monday
+2003-01-24,20:00:00,1,Los Angeles Clippers,W,88.0,85.0,25.0,18.0,W 4,2003.0,January,Wednesday
+2003-01-27,20:00:00,1,San Antonio Spurs,W,106.0,95.0,27.0,18.0,W 6,2003.0,January,Saturday
+2003-02-02,15:30:00,1,Philadelphia 76ers,W,99.0,91.0,28.0,20.0,W 1,2003.0,February,Tuesday
+2003-02-04,20:00:00,1,Houston Rockets,W,103.0,89.0,29.0,20.0,W 2,2003.0,February,Thursday
+2003-02-11,20:00:00,1,Dallas Mavericks,W,100.0,98.0,30.0,20.0,W 3,2003.0,February,Thursday
+2003-02-14,20:00:00,1,New Orleans Hornets,W,114.0,93.0,32.0,20.0,W 5,2003.0,February,Sunday
+2003-02-16,15:30:00,1,Golden State Warriors,W,109.0,102.0,33.0,20.0,W 6,2003.0,February,Tuesday
+2003-02-21,20:00:00,1,Detroit Pistons,W,103.0,96.0,35.0,21.0,W 2,2003.0,February,Sunday
+2003-02-23,15:30:00,1,Phoenix Suns,W,99.0,97.0,36.0,21.0,W 3,2003.0,February,Tuesday
+2003-02-26,21:00:00,1,Utah Jazz,W,92.0,85.0,38.0,21.0,W 5,2003.0,February,Friday
+2003-02-28,20:00:00,1,Cleveland Cavaliers,W,118.0,95.0,39.0,21.0,W 6,2003.0,February,Sunday
+2003-03-02,15:30:00,1,New York Knicks,W,99.0,90.0,40.0,21.0,W 7,2003.0,March,Tuesday
+2003-03-12,20:00:00,1,San Antonio Spurs,L,99.0,111.0,42.0,25.0,L 1,2003.0,March,Friday
+2003-03-14,20:00:00,1,Los Angeles Lakers,L,99.0,106.0,42.0,26.0,L 2,2003.0,March,Sunday
+2003-03-16,15:30:00,1,Portland Trail Blazers,W,111.0,95.0,43.0,26.0,W 1,2003.0,March,Tuesday
+2003-03-18,20:00:00,1,Memphis Grizzlies,W,96.0,80.0,44.0,26.0,W 2,2003.0,March,Thursday
+2003-03-25,20:00:00,1,Miami Heat,W,108.0,91.0,46.0,26.0,W 4,2003.0,March,Thursday
+2003-03-30,13:30:00,1,Dallas Mavericks,L,95.0,119.0,46.0,29.0,L 3,2003.0,March,Tuesday
+2003-04-02,20:00:00,1,Seattle SuperSonics,W,91.0,86.0,47.0,29.0,W 1,2003.0,April,Tuesday
+2003-04-11,20:00:00,1,Los Angeles Clippers,W,106.0,90.0,49.0,31.0,W 1,2003.0,April,Thursday
+2003-04-13,15:30:00,1,Chicago Bulls,W,119.0,95.0,50.0,31.0,W 2,2003.0,April,Saturday
+2003-10-29,20:00:00,1,Milwaukee Bucks,W,95.0,89.0,1.0,0.0,W 1,2003.0,October,Monday
+2003-11-01,20:00:00,1,Toronto Raptors,W,73.0,56.0,2.0,1.0,W 1,2003.0,November,Monday
+2003-11-05,20:00:00,1,Sacramento Kings,L,121.0,125.0,2.0,3.0,L 2,2003.0,November,Friday
+2003-11-11,20:00:00,1,Seattle SuperSonics,L,87.0,89.0,4.0,4.0,L 1,2003.0,November,Thursday
+2003-11-14,20:00:00,1,Utah Jazz,L,77.0,85.0,5.0,5.0,L 1,2003.0,November,Sunday
+2003-11-18,20:00:00,1,Denver Nuggets,W,89.0,76.0,6.0,5.0,W 1,2003.0,November,Thursday
+2003-11-22,20:00:00,1,Los Angeles Clippers,W,103.0,91.0,8.0,5.0,W 3,2003.0,November,Monday
+2003-11-26,20:00:00,1,New York Knicks,L,92.0,97.0,8.0,7.0,L 2,2003.0,November,Friday
+2003-12-09,20:00:00,1,Golden State Warriors,L,95.0,98.0,12.0,9.0,L 1,2003.0,December,Tuesday
+2003-12-16,20:00:00,1,Houston Rockets,W,92.0,75.0,15.0,9.0,W 3,2003.0,December,Tuesday
+2003-12-18,19:30:00,1,Dallas Mavericks,W,114.0,109.0,16.0,9.0,W 4,2003.0,December,Thursday
+2003-12-20,20:00:00,1,Indiana Pacers,W,102.0,80.0,17.0,9.0,W 5,2003.0,December,Saturday
+2003-12-30,20:00:00,1,Chicago Bulls,W,98.0,93.0,20.0,10.0,W 2,2003.0,December,Tuesday
+2004-01-02,20:00:00,1,Atlanta Hawks,W,93.0,75.0,21.0,10.0,W 3,2004.0,January,Tuesday
+2004-01-06,20:00:00,1,Los Angeles Lakers,W,106.0,90.0,22.0,11.0,W 1,2004.0,January,Saturday
+2004-01-08,21:30:00,1,Portland Trail Blazers,W,96.0,75.0,23.0,11.0,W 2,2004.0,January,Monday
+2004-01-10,20:00:00,1,Miami Heat,W,83.0,77.0,24.0,11.0,W 3,2004.0,January,Wednesday
+2004-01-19,18:00:00,1,New Orleans Hornets,W,97.0,90.0,27.0,12.0,W 1,2004.0,January,Friday
+2004-01-23,20:00:00,1,Detroit Pistons,W,80.0,79.0,29.0,12.0,W 3,2004.0,January,Tuesday
+2004-01-25,15:30:00,1,Phoenix Suns,W,99.0,95.0,30.0,12.0,W 4,2004.0,January,Thursday
+2004-02-01,14:00:00,1,Philadelphia 76ers,W,106.0,101.0,33.0,13.0,W 2,2004.0,February,Monday
+2004-02-03,20:00:00,1,Orlando Magic,W,113.0,100.0,34.0,13.0,W 3,2004.0,February,Wednesday
+2004-02-06,20:00:00,1,Cleveland Cavaliers,W,103.0,92.0,35.0,14.0,W 1,2004.0,February,Saturday
+2004-02-08,15:30:00,1,Memphis Grizzlies,L,98.0,99.0,35.0,15.0,L 1,2004.0,February,Monday
+2004-02-10,20:00:00,1,Los Angeles Clippers,W,96.0,84.0,36.0,15.0,W 1,2004.0,February,Wednesday
+2004-02-17,20:00:00,1,Phoenix Suns,W,110.0,95.0,38.0,15.0,W 3,2004.0,February,Wednesday
+2004-02-19,19:30:00,1,Sacramento Kings,W,92.0,75.0,39.0,15.0,W 4,2004.0,February,Friday
+2004-02-22,15:30:00,1,San Antonio Spurs,L,92.0,94.0,40.0,16.0,L 1,2004.0,February,Monday
+2004-02-25,20:00:00,1,New Jersey Nets,W,81.0,68.0,42.0,16.0,W 2,2004.0,February,Thursday
+2004-02-27,20:00:00,1,Golden State Warriors,W,91.0,81.0,43.0,16.0,W 3,2004.0,February,Saturday
+2004-03-03,20:00:00,1,Dallas Mavericks,W,121.0,97.0,44.0,17.0,W 1,2004.0,March,Wednesday
+2004-03-05,20:00:00,1,Houston Rockets,L,109.0,112.0,44.0,18.0,L 1,2004.0,March,Friday
+2004-03-07,19:30:00,1,Boston Celtics,L,77.0,80.0,44.0,19.0,L 2,2004.0,March,Sunday
+2004-03-12,20:00:00,1,Los Angeles Lakers,W,96.0,86.0,46.0,20.0,W 1,2004.0,March,Friday
+2004-03-14,15:30:00,1,Portland Trail Blazers,L,83.0,92.0,46.0,21.0,L 1,2004.0,March,Sunday
+2004-03-21,16:00:00,1,Denver Nuggets,W,98.0,77.0,48.0,22.0,W 2,2004.0,March,Sunday
+2004-03-23,20:00:00,1,San Antonio Spurs,W,86.0,81.0,49.0,22.0,W 3,2004.0,March,Tuesday
+2004-03-31,20:00:00,1,Seattle SuperSonics,W,90.0,83.0,52.0,24.0,W 3,2004.0,March,Wednesday
+2004-04-02,20:00:00,1,Washington Wizards,W,91.0,73.0,53.0,24.0,W 4,2004.0,April,Tuesday
+2004-04-04,15:30:00,1,Memphis Grizzlies,W,90.0,82.0,54.0,24.0,W 5,2004.0,April,Thursday
+2004-04-12,20:00:00,1,Utah Jazz,W,104.0,90.0,57.0,24.0,W 8,2004.0,April,Friday
+2004-11-03,20:00:00,1,New York Knicks,W,99.0,93.0,1.0,0.0,W 1,2004.0,November,Wednesday
+2004-11-06,20:00:00,1,New Orleans Hornets,W,99.0,92.0,2.0,1.0,W 1,2004.0,November,Saturday
+2004-11-09,20:00:00,1,Indiana Pacers,L,101.0,102.0,2.0,2.0,L 1,2004.0,November,Tuesday
+2004-11-16,20:00:00,1,Miami Heat,W,108.0,97.0,4.0,2.0,W 2,2004.0,November,Tuesday
+2004-11-23,20:00:00,1,Seattle SuperSonics,L,92.0,103.0,6.0,4.0,L 1,2004.0,November,Tuesday
+2004-11-26,20:00:00,1,Memphis Grizzlies,W,115.0,90.0,7.0,5.0,W 1,2004.0,November,Friday
+2004-12-07,20:00:00,1,Dallas Mavericks,L,87.0,97.0,11.0,6.0,L 1,2004.0,December,Sunday
+2004-12-10,20:00:00,1,Sacramento Kings,W,113.0,105.0,13.0,6.0,W 2,2004.0,December,Wednesday
+2004-12-14,20:00:00,1,Portland Trail Blazers,W,100.0,89.0,14.0,7.0,W 1,2004.0,December,Sunday
+2004-12-17,20:00:00,1,Los Angeles Clippers,W,113.0,86.0,15.0,8.0,W 1,2004.0,December,Wednesday
+2004-12-26,20:00:00,1,Washington Wizards,W,109.0,74.0,16.0,10.0,W 1,2004.0,December,Friday
+2005-01-01,20:00:00,1,Memphis Grizzlies,L,95.0,104.0,16.0,12.0,L 2,2005.0,January,Monday
+2005-01-04,20:00:00,1,Phoenix Suns,L,115.0,122.0,16.0,13.0,L 3,2005.0,January,Thursday
+2005-01-07,20:00:00,1,Philadelphia 76ers,W,89.0,84.0,17.0,14.0,W 1,2005.0,January,Sunday
+2005-01-10,20:00:00,1,Los Angeles Lakers,L,96.0,105.0,17.0,16.0,L 2,2005.0,January,Wednesday
+2005-01-12,20:00:00,1,Orlando Magic,L,80.0,87.0,17.0,17.0,L 3,2005.0,January,Friday
+2005-01-15,20:00:00,1,Portland Trail Blazers,W,92.0,84.0,19.0,17.0,W 2,2005.0,January,Monday
+2005-01-17,18:00:00,1,Toronto Raptors,L,91.0,100.0,19.0,18.0,L 1,2005.0,January,Wednesday
+2005-01-24,20:00:00,1,Detroit Pistons,W,86.0,83.0,22.0,19.0,W 3,2005.0,January,Wednesday
+2005-01-26,20:00:00,1,Atlanta Hawks,W,104.0,87.0,23.0,19.0,W 4,2005.0,January,Friday
+2005-01-28,20:00:00,1,Utah Jazz,W,93.0,91.0,24.0,19.0,W 5,2005.0,January,Sunday
+2005-01-30,15:30:00,1,Sacramento Kings,L,84.0,94.0,24.0,20.0,L 1,2005.0,January,Tuesday
+2005-02-02,20:00:00,1,Phoenix Suns,L,79.0,108.0,24.0,22.0,L 3,2005.0,February,Tuesday
+2005-02-04,21:30:00,1,Houston Rockets,L,113.0,119.0,24.0,23.0,L 4,2005.0,February,Thursday
+2005-02-06,13:00:00,1,Boston Celtics,L,100.0,103.0,24.0,24.0,L 5,2005.0,February,Saturday
+2005-02-09,20:00:00,1,Denver Nuggets,W,98.0,92.0,25.0,25.0,W 1,2005.0,February,Tuesday
+2005-02-13,15:30:00,1,Chicago Bulls,L,83.0,87.0,25.0,27.0,L 2,2005.0,February,Saturday
+2005-02-15,20:00:00,1,New Jersey Nets,W,82.0,71.0,26.0,27.0,W 1,2005.0,February,Monday
+2005-02-17,20:00:00,1,Cleveland Cavaliers,W,94.0,88.0,27.0,27.0,W 2,2005.0,February,Wednesday
+2005-03-02,20:00:00,1,Golden State Warriors,L,93.0,99.0,28.0,30.0,L 1,2005.0,March,Tuesday
+2005-03-04,20:00:00,1,Milwaukee Bucks,W,103.0,97.0,29.0,30.0,W 1,2005.0,March,Thursday
+2005-03-08,20:00:00,1,Charlotte Bobcats,W,102.0,97.0,31.0,30.0,W 3,2005.0,March,Monday
+2005-03-13,13:00:00,1,Dallas Mavericks,L,93.0,102.0,32.0,32.0,L 1,2005.0,March,Saturday
+2005-03-20,19:30:00,1,Houston Rockets,W,94.0,86.0,34.0,34.0,W 1,2005.0,March,Saturday
+2005-03-23,20:00:00,1,New Orleans Hornets,W,107.0,102.0,35.0,34.0,W 2,2005.0,March,Tuesday
+2005-03-27,15:30:00,1,Los Angeles Clippers,W,89.0,85.0,37.0,34.0,W 4,2005.0,March,Saturday
+2005-04-06,21:30:00,1,Utah Jazz,W,111.0,86.0,40.0,35.0,W 2,2005.0,April,Saturday
+2005-04-08,21:30:00,1,Denver Nuggets,L,104.0,107.0,40.0,36.0,L 1,2005.0,April,Monday
+2005-04-13,20:00:00,1,Golden State Warriors,W,116.0,100.0,41.0,37.0,W 1,2005.0,April,Saturday
+2005-04-17,15:30:00,1,Seattle SuperSonics,L,94.0,109.0,42.0,38.0,L 1,2005.0,April,Wednesday
+2005-04-20,20:00:00,1,San Antonio Spurs,W,95.0,73.0,44.0,38.0,W 2,2005.0,April,Saturday
+2005-11-02,20:00:00,1,Portland Trail Blazers,W,90.0,86.0,1.0,0.0,W 1,2005.0,November,Tuesday
+2005-11-07,20:00:00,1,Los Angeles Clippers,W,93.0,78.0,2.0,2.0,W 1,2005.0,November,Sunday
+2005-11-09,20:00:00,1,Los Angeles Lakers,W,88.0,74.0,3.0,2.0,W 2,2005.0,November,Tuesday
+2005-11-15,20:00:00,1,Houston Rockets,L,89.0,94.0,3.0,4.0,L 2,2005.0,November,Monday
+2005-11-17,19:00:00,1,Washington Wizards,W,109.0,98.0,4.0,4.0,W 1,2005.0,November,Wednesday
+2005-11-19,20:00:00,1,Charlotte Bobcats,W,102.0,89.0,5.0,4.0,W 2,2005.0,November,Friday
+2005-11-25,20:00:00,1,Milwaukee Bucks,W,99.0,91.0,6.0,5.0,W 1,2005.0,November,Thursday
+2005-11-29,20:00:00,1,Los Angeles Clippers,L,84.0,93.0,7.0,6.0,L 1,2005.0,November,Monday
+2005-12-10,20:00:00,1,Los Angeles Lakers,W,95.0,82.0,12.0,6.0,W 5,2005.0,December,Wednesday
+2005-12-13,20:00:00,1,Sacramento Kings,L,91.0,93.0,12.0,8.0,L 2,2005.0,December,Saturday
+2005-12-15,20:00:00,1,San Antonio Spurs,L,88.0,90.0,12.0,9.0,L 3,2005.0,December,Monday
+2005-12-21,20:00:00,1,New Orleans/Oklahoma City Hornets,W,88.0,69.0,13.0,10.0,W 1,2005.0,December,Sunday
+2005-12-23,20:00:00,1,Portland Trail Blazers,L,83.0,91.0,13.0,11.0,L 1,2005.0,December,Tuesday
+2005-12-26,20:00:00,1,Phoenix Suns,L,89.0,103.0,13.0,12.0,L 2,2005.0,December,Friday
+2005-12-28,20:00:00,1,Seattle SuperSonics,W,108.0,95.0,14.0,12.0,W 1,2005.0,December,Sunday
+2006-01-04,20:00:00,1,Dallas Mavericks,W,91.0,78.0,15.0,14.0,W 1,2006.0,January,Thursday
+2006-01-11,20:00:00,1,Chicago Bulls,W,99.0,93.0,16.0,17.0,W 1,2006.0,January,Thursday
+2006-01-13,20:00:00,1,Denver Nuggets,W,103.0,89.0,17.0,17.0,W 2,2006.0,January,Saturday
+2006-01-20,20:00:00,1,Indiana Pacers,W,90.0,85.0,19.0,18.0,W 1,2006.0,January,Saturday
+2006-01-22,13:00:00,1,Philadelphia 76ers,L,84.0,86.0,19.0,19.0,L 1,2006.0,January,Monday
+2006-01-24,20:00:00,1,Detroit Pistons,L,83.0,107.0,19.0,20.0,L 2,2006.0,January,Wednesday
+2006-01-30,20:00:00,1,Boston Celtics,W,110.0,85.0,21.0,22.0,W 1,2006.0,January,Tuesday
+2006-02-08,20:00:00,1,Cleveland Cavaliers,L,91.0,97.0,22.0,26.0,L 1,2006.0,February,Monday
+2006-02-10,20:00:00,1,Utah Jazz,L,80.0,94.0,22.0,27.0,L 2,2006.0,February,Wednesday
+2006-02-11,20:00:00,1,New Orleans/Oklahoma City Hornets,L,94.0,100.0,22.0,28.0,L 3,2006.0,February,Thursday
+2006-02-13,20:00:00,1,Toronto Raptors,L,94.0,98.0,22.0,29.0,L 4,2006.0,February,Saturday
+2006-02-15,20:00:00,1,Seattle SuperSonics,W,102.0,92.0,23.0,29.0,W 1,2006.0,February,Monday
+2006-02-24,20:00:00,1,Denver Nuggets,L,101.0,102.0,23.0,31.0,L 2,2006.0,February,Wednesday
+2006-02-26,15:30:00,1,Memphis Grizzlies,W,105.0,99.0,24.0,31.0,W 1,2006.0,February,Friday
+2006-03-01,20:00:00,1,New Jersey Nets,W,100.0,90.0,25.0,32.0,W 1,2006.0,March,Monday
+2006-03-05,15:30:00,1,Golden State Warriors,W,103.0,90.0,26.0,32.0,W 2,2006.0,March,Friday
+2006-03-07,20:00:00,1,Houston Rockets,L,87.0,93.0,26.0,33.0,L 1,2006.0,March,Sunday
+2006-03-19,15:30:00,1,Sacramento Kings,W,95.0,89.0,27.0,39.0,W 1,2006.0,March,Friday
+2006-03-21,20:00:00,1,Miami Heat,W,100.0,96.0,28.0,39.0,W 2,2006.0,March,Sunday
+2006-03-26,15:30:00,1,New York Knicks,W,98.0,94.0,29.0,41.0,W 1,2006.0,March,Friday
+2006-03-29,20:00:00,1,Orlando Magic,W,103.0,91.0,30.0,41.0,W 2,2006.0,March,Monday
+2006-04-02,15:30:00,1,Golden State Warriors,W,106.0,104.0,31.0,42.0,W 1,2006.0,April,Tuesday
+2006-04-07,20:00:00,1,Utah Jazz,L,95.0,103.0,31.0,45.0,L 3,2006.0,April,Sunday
+2006-04-09,15:30:00,1,Atlanta Hawks,W,84.0,83.0,32.0,45.0,W 1,2006.0,April,Tuesday
+2006-04-16,18:00:00,1,San Antonio Spurs,L,90.0,103.0,33.0,48.0,L 2,2006.0,April,Tuesday
+2006-04-19,20:00:00,1,Memphis Grizzlies,L,92.0,102.0,33.0,49.0,L 3,2006.0,April,Friday
+2006-11-01,20:00:00,1,Sacramento Kings,W,92.0,83.0,1.0,0.0,W 1,2006.0,November,Monday
+2006-11-11,20:00:00,1,Orlando Magic,L,98.0,109.0,2.0,4.0,L 4,2006.0,November,Thursday
+2006-11-14,20:00:00,1,Portland Trail Blazers,W,101.0,89.0,3.0,4.0,W 1,2006.0,November,Sunday
+2006-11-18,20:00:00,1,New Orleans/Oklahoma City Hornets,L,96.0,99.0,3.0,6.0,L 2,2006.0,November,Thursday
+2006-11-22,20:00:00,1,New York Knicks,W,107.0,89.0,4.0,6.0,W 1,2006.0,November,Monday
+2006-11-25,20:00:00,1,Los Angeles Clippers,W,104.0,96.0,6.0,6.0,W 3,2006.0,November,Thursday
+2006-12-01,20:00:00,1,Denver Nuggets,L,92.0,106.0,6.0,9.0,L 3,2006.0,December,Monday
+2006-12-06,20:00:00,1,Houston Rockets,W,90.0,84.0,8.0,9.0,W 2,2006.0,December,Saturday
+2006-12-08,20:00:00,1,Utah Jazz,W,110.0,103.0,9.0,9.0,W 3,2006.0,December,Monday
+2006-12-20,20:00:00,1,Los Angeles Lakers,L,94.0,111.0,10.0,12.0,L 3,2006.0,December,Saturday
+2006-12-22,20:00:00,1,Milwaukee Bucks,L,107.0,113.0,10.0,13.0,L 4,2006.0,December,Monday
+2006-12-26,20:00:00,1,Chicago Bulls,W,100.0,98.0,12.0,13.0,W 2,2006.0,December,Friday
+2006-12-29,20:00:00,1,Seattle SuperSonics,W,101.0,82.0,13.0,14.0,W 1,2006.0,December,Monday
+2007-01-03,20:00:00,1,San Antonio Spurs,W,103.0,101.0,15.0,15.0,W 2,2007.0,January,Wednesday
+2007-01-05,20:00:00,1,Philadelphia 76ers,W,104.0,102.0,16.0,15.0,W 3,2007.0,January,Friday
+2007-01-07,15:30:00,1,Houston Rockets,W,103.0,99.0,17.0,15.0,W 4,2007.0,January,Sunday
+2007-01-10,20:00:00,1,Los Angeles Clippers,L,91.0,92.0,17.0,16.0,L 1,2007.0,January,Wednesday
+2007-01-13,20:00:00,1,New Jersey Nets,W,109.0,98.0,19.0,16.0,W 2,2007.0,January,Saturday
+2007-01-17,20:00:00,1,Atlanta Hawks,L,88.0,105.0,20.0,17.0,L 1,2007.0,January,Wednesday
+2007-01-19,20:00:00,1,Detroit Pistons,L,98.0,104.0,20.0,18.0,L 2,2007.0,January,Friday
+2007-01-29,20:00:00,1,Phoenix Suns,W,121.0,112.0,22.0,22.0,W 2,2007.0,January,Monday
+2007-01-31,20:00:00,1,Sacramento Kings,L,98.0,100.0,22.0,23.0,L 1,2007.0,January,Wednesday
+2007-02-07,20:00:00,1,Golden State Warriors,W,121.0,93.0,23.0,26.0,W 1,2007.0,February,Sunday
+2007-02-11,18:00:00,1,Boston Celtics,W,109.0,107.0,24.0,27.0,W 1,2007.0,February,Thursday
+2007-02-14,20:00:00,1,Denver Nuggets,W,99.0,94.0,25.0,27.0,W 2,2007.0,February,Sunday
+2007-02-21,20:00:00,1,Charlotte Bobcats,L,95.0,100.0,25.0,29.0,L 2,2007.0,February,Sunday
+2007-02-23,20:00:00,1,Phoenix Suns,L,104.0,116.0,25.0,30.0,L 3,2007.0,February,Tuesday
+2007-02-25,15:30:00,1,Washington Wizards,W,98.0,94.0,26.0,30.0,W 1,2007.0,February,Thursday
+2007-02-27,20:00:00,1,Dallas Mavericks,L,65.0,91.0,26.0,31.0,L 1,2007.0,February,Saturday
+2007-03-02,20:00:00,1,Utah Jazz,L,83.0,109.0,26.0,32.0,L 2,2007.0,March,Tuesday
+2007-03-06,20:00:00,1,Los Angeles Lakers,W,117.0,107.0,27.0,33.0,W 1,2007.0,March,Saturday
+2007-03-13,20:00:00,1,Indiana Pacers,W,86.0,81.0,28.0,35.0,W 1,2007.0,March,Saturday
+2007-03-25,15:30:00,1,Portland Trail Blazers,W,94.0,93.0,30.0,39.0,W 1,2007.0,March,Thursday
+2007-03-27,20:00:00,1,Seattle SuperSonics,L,106.0,114.0,30.0,40.0,L 1,2007.0,March,Saturday
+2007-03-30,20:00:00,1,Miami Heat,L,77.0,92.0,30.0,42.0,L 3,2007.0,March,Tuesday
+2007-04-03,20:00:00,1,Cleveland Cavaliers,L,88.0,101.0,31.0,43.0,L 1,2007.0,April,Wednesday
+2007-04-07,20:00:00,1,New Orleans/Oklahoma City Hornets,L,94.0,96.0,32.0,44.0,L 1,2007.0,April,Sunday
+2007-04-09,20:00:00,1,Toronto Raptors,L,100.0,111.0,32.0,45.0,L 2,2007.0,April,Tuesday
+2007-04-11,20:00:00,1,Dallas Mavericks,L,88.0,105.0,32.0,46.0,L 3,2007.0,April,Thursday
+2007-04-13,20:00:00,1,San Antonio Spurs,L,91.0,110.0,32.0,47.0,L 4,2007.0,April,Saturday
+2007-04-18,20:00:00,1,Memphis Grizzlies,L,94.0,116.0,32.0,50.0,L 7,2007.0,April,Thursday
+2007-11-02,20:00:00,1,Denver Nuggets,L,91.0,99.0,0.0,1.0,L 1,2007.0,November,Tuesday
+2007-11-06,20:00:00,1,Orlando Magic,L,103.0,111.0,0.0,3.0,L 3,2007.0,November,Saturday
+2007-11-14,20:00:00,1,Sacramento Kings,W,108.0,103.0,1.0,5.0,W 1,2007.0,November,Sunday
+2007-11-16,20:00:00,1,Washington Wizards,L,89.0,105.0,1.0,6.0,L 1,2007.0,November,Tuesday
+2007-11-17,20:00:00,1,New Orleans Hornets,L,82.0,100.0,1.0,7.0,L 2,2007.0,November,Wednesday
+2007-11-21,20:00:00,1,Cleveland Cavaliers,L,86.0,97.0,1.0,8.0,L 3,2007.0,November,Sunday
+2007-11-24,20:00:00,1,Atlanta Hawks,L,87.0,94.0,1.0,10.0,L 5,2007.0,November,Wednesday
+2007-11-30,20:00:00,1,San Antonio Spurs,L,91.0,106.0,2.0,12.0,L 2,2007.0,November,Tuesday
+2007-12-04,20:00:00,1,Los Angeles Lakers,L,95.0,116.0,2.0,14.0,L 4,2007.0,December,Thursday
+2007-12-08,20:00:00,1,Phoenix Suns,W,100.0,93.0,3.0,15.0,W 1,2007.0,December,Monday
+2007-12-14,20:00:00,1,Seattle SuperSonics,L,88.0,99.0,3.0,18.0,L 3,2007.0,December,Sunday
+2007-12-19,20:00:00,1,Golden State Warriors,L,98.0,111.0,3.0,21.0,L 6,2007.0,December,Friday
+2007-12-21,20:00:00,1,Indiana Pacers,W,131.0,118.0,4.0,21.0,W 1,2007.0,December,Sunday
+2008-01-02,20:00:00,1,Portland Trail Blazers,L,79.0,90.0,4.0,27.0,L 6,2008.0,January,Tuesday
+2008-01-04,20:00:00,1,Denver Nuggets,L,107.0,118.0,4.0,28.0,L 7,2008.0,January,Thursday
+2008-01-06,15:30:00,1,Dallas Mavericks,L,78.0,101.0,4.0,29.0,L 8,2008.0,January,Saturday
+2008-01-08,20:00:00,1,Miami Heat,W,101.0,91.0,5.0,29.0,W 1,2008.0,January,Monday
+2008-01-15,20:00:00,1,Golden State Warriors,L,98.0,105.0,5.0,32.0,L 3,2008.0,January,Monday
+2008-01-23,20:00:00,1,Phoenix Suns,W,117.0,107.0,7.0,34.0,W 2,2008.0,January,Tuesday
+2008-01-27,18:30:00,1,New Jersey Nets,W,98.0,95.0,8.0,35.0,W 1,2008.0,January,Saturday
+2008-01-30,20:00:00,1,Chicago Bulls,W,83.0,67.0,9.0,36.0,W 1,2008.0,January,Tuesday
+2008-02-01,20:00:00,1,Los Angeles Clippers,W,104.0,83.0,10.0,36.0,W 2,2008.0,February,Monday
+2008-02-04,20:00:00,1,Houston Rockets,L,86.0,92.0,10.0,37.0,L 1,2008.0,February,Thursday
+2008-02-08,20:00:00,1,Boston Celtics,L,86.0,88.0,10.0,38.0,L 2,2008.0,February,Monday
+2008-02-10,18:30:00,1,Toronto Raptors,L,82.0,105.0,10.0,39.0,L 3,2008.0,February,Wednesday
+2008-02-13,20:00:00,1,Los Angeles Lakers,L,92.0,117.0,10.0,41.0,L 5,2008.0,February,Saturday
+2008-02-19,20:00:00,1,Philadelphia 76ers,W,104.0,88.0,11.0,41.0,W 1,2008.0,February,Friday
+2008-02-21,20:00:00,1,San Antonio Spurs,L,99.0,100.0,11.0,42.0,L 1,2008.0,February,Sunday
+2008-02-24,18:30:00,1,Dallas Mavericks,L,83.0,99.0,11.0,43.0,L 2,2008.0,February,Wednesday
+2008-02-26,20:00:00,1,Utah Jazz,W,111.0,100.0,12.0,43.0,W 1,2008.0,February,Friday
+2008-03-02,18:30:00,1,Seattle SuperSonics,L,108.0,111.0,12.0,46.0,L 3,2008.0,March,Tuesday
+2008-03-04,20:00:00,1,Charlotte Bobcats,L,89.0,109.0,12.0,47.0,L 4,2008.0,March,Thursday
+2008-03-11,20:00:00,1,Portland Trail Blazers,L,96.0,103.0,14.0,49.0,L 1,2008.0,March,Thursday
+2008-03-17,20:00:00,1,Los Angeles Clippers,W,99.0,90.0,16.0,50.0,W 1,2008.0,March,Wednesday
+2008-03-19,20:00:00,1,Memphis Grizzlies,W,98.0,94.0,17.0,50.0,W 2,2008.0,March,Friday
+2008-03-22,20:00:00,1,New York Knicks,W,114.0,93.0,18.0,51.0,W 1,2008.0,March,Monday
+2008-03-30,15:30:00,1,Utah Jazz,W,110.0,103.0,19.0,53.0,W 1,2008.0,March,Tuesday
+2008-04-01,20:00:00,1,Detroit Pistons,L,90.0,94.0,19.0,54.0,L 1,2008.0,April,Monday
+2008-04-06,18:30:00,1,Memphis Grizzlies,L,101.0,113.0,19.0,57.0,L 4,2008.0,April,Saturday
+2008-04-09,20:00:00,1,New Orleans Hornets,L,90.0,122.0,19.0,59.0,L 6,2008.0,April,Tuesday
+2008-04-16,20:00:00,1,Milwaukee Bucks,W,110.0,101.0,22.0,60.0,W 1,2008.0,April,Tuesday
+2008-10-29,20:00:00,1,Sacramento Kings,W,98.0,96.0,1.0,0.0,W 1,2008.0,October,Monday
+2008-11-01,20:00:00,1,Dallas Mavericks,L,85.0,95.0,1.0,1.0,L 1,2008.0,November,Monday
+2008-11-05,20:00:00,1,San Antonio Spurs,L,125.0,129.0,1.0,3.0,L 3,2008.0,November,Friday
+2008-11-15,20:00:00,1,Portland Trail Blazers,L,83.0,88.0,1.0,7.0,L 7,2008.0,November,Monday
+2008-11-19,20:00:00,1,Philadelphia 76ers,W,102.0,96.0,2.0,8.0,W 1,2008.0,November,Friday
+2008-11-21,20:00:00,1,Boston Celtics,L,78.0,95.0,2.0,9.0,L 1,2008.0,November,Sunday
+2008-11-26,20:00:00,1,Phoenix Suns,L,102.0,110.0,3.0,10.0,L 1,2008.0,November,Friday
+2008-11-29,20:00:00,1,Denver Nuggets,L,97.0,106.0,4.0,11.0,L 1,2008.0,November,Monday
+2008-12-06,20:00:00,1,Los Angeles Clippers,L,84.0,107.0,4.0,15.0,L 5,2008.0,December,Saturday
+2008-12-09,20:00:00,1,Utah Jazz,L,96.0,99.0,4.0,16.0,L 6,2008.0,December,Tuesday
+2008-12-12,20:00:00,1,San Antonio Spurs,L,86.0,98.0,4.0,18.0,L 8,2008.0,December,Friday
+2008-12-17,20:00:00,1,Cleveland Cavaliers,L,70.0,93.0,4.0,21.0,L 11,2008.0,December,Wednesday
+2008-12-20,20:00:00,1,Houston Rockets,L,102.0,109.0,4.0,22.0,L 12,2008.0,December,Saturday
+2008-12-27,20:00:00,1,Orlando Magic,L,94.0,118.0,5.0,24.0,L 1,2008.0,December,Saturday
+2008-12-29,20:00:00,1,Memphis Grizzlies,W,108.0,98.0,6.0,24.0,W 1,2008.0,December,Monday
+2009-01-02,20:00:00,1,Golden State Warriors,W,115.0,108.0,7.0,25.0,W 1,2009.0,January,Tuesday
+2009-01-07,20:00:00,1,Oklahoma City Thunder,W,129.0,87.0,10.0,25.0,W 4,2009.0,January,Sunday
+2009-01-10,20:00:00,1,Milwaukee Bucks,W,106.0,104.0,11.0,25.0,W 5,2009.0,January,Wednesday
+2009-01-13,20:00:00,1,Miami Heat,L,96.0,99.0,11.0,26.0,L 1,2009.0,January,Saturday
+2009-01-23,20:00:00,1,New Orleans Hornets,W,116.0,108.0,14.0,27.0,W 1,2009.0,January,Tuesday
+2009-01-25,19:00:00,1,Chicago Bulls,W,109.0,108.0,15.0,27.0,W 2,2009.0,January,Thursday
+2009-01-28,20:00:00,1,Detroit Pistons,L,89.0,98.0,16.0,28.0,L 1,2009.0,January,Sunday
+2009-01-30,20:00:00,1,Los Angeles Lakers,L,119.0,132.0,16.0,29.0,L 2,2009.0,January,Tuesday
+2009-02-04,20:00:00,1,Atlanta Hawks,L,86.0,94.0,17.0,31.0,L 1,2009.0,February,Thursday
+2009-02-10,20:00:00,1,Toronto Raptors,L,102.0,110.0,17.0,34.0,L 4,2009.0,February,Wednesday
+2009-02-20,20:00:00,1,Indiana Pacers,L,105.0,112.0,18.0,36.0,L 1,2009.0,February,Saturday
+2009-02-22,19:00:00,1,Los Angeles Lakers,L,108.0,111.0,18.0,37.0,L 2,2009.0,February,Monday
+2009-02-25,20:00:00,1,Utah Jazz,L,103.0,120.0,18.0,39.0,L 4,2009.0,February,Thursday
+2009-02-27,20:00:00,1,Portland Trail Blazers,L,82.0,102.0,18.0,40.0,L 5,2009.0,February,Saturday
+2009-03-01,19:00:00,1,Houston Rockets,L,94.0,105.0,18.0,41.0,L 6,2009.0,March,Monday
+2009-03-03,20:00:00,1,Golden State Warriors,L,94.0,118.0,18.0,42.0,L 7,2009.0,March,Wednesday
+2009-03-09,20:00:00,1,Washington Wizards,L,99.0,110.0,18.0,45.0,L 10,2009.0,March,Tuesday
+2009-03-11,20:00:00,1,Memphis Grizzlies,W,104.0,79.0,19.0,45.0,W 1,2009.0,March,Thursday
+2009-03-13,20:00:00,1,New York Knicks,L,94.0,102.0,19.0,46.0,L 1,2009.0,March,Saturday
+2009-03-14,20:00:00,1,Charlotte Bobcats,W,108.0,100.0,20.0,46.0,W 1,2009.0,March,Sunday
+2009-03-22,15:30:00,1,Oklahoma City Thunder,L,90.0,97.0,20.0,50.0,L 4,2009.0,March,Monday
+2009-03-29,15:30:00,1,New Jersey Nets,W,108.0,99.0,21.0,53.0,W 1,2009.0,March,Monday
+2009-03-31,20:00:00,1,Dallas Mavericks,L,88.0,108.0,21.0,54.0,L 1,2009.0,March,Wednesday
+2009-04-05,19:00:00,1,Denver Nuggets,L,87.0,110.0,22.0,55.0,L 1,2009.0,April,Friday
+2009-04-11,20:00:00,1,Phoenix Suns,L,97.0,110.0,24.0,56.0,L 1,2009.0,April,Thursday
+2009-04-15,20:00:00,1,Sacramento Kings,L,90.0,97.0,24.0,58.0,L 3,2009.0,April,Monday
+2009-10-28,20:00:00,1,New Jersey Nets,W,95.0,93.0,1.0,0.0,W 1,2009.0,October,Sunday
+2009-10-30,20:00:00,1,Cleveland Cavaliers,L,87.0,104.0,1.0,1.0,L 1,2009.0,October,Tuesday
+2009-11-04,20:00:00,1,Boston Celtics,L,90.0,92.0,1.0,4.0,L 4,2009.0,November,Thursday
+2009-11-06,20:00:00,1,Milwaukee Bucks,L,72.0,87.0,1.0,5.0,L 5,2009.0,November,Saturday
+2009-11-11,20:00:00,1,Portland Trail Blazers,L,84.0,107.0,1.0,8.0,L 8,2009.0,November,Thursday
+2009-11-13,20:00:00,1,Dallas Mavericks,L,77.0,89.0,1.0,9.0,L 9,2009.0,November,Saturday
+2009-11-18,20:00:00,1,Houston Rockets,L,84.0,97.0,1.0,11.0,L 11,2009.0,November,Thursday
+2009-11-25,20:00:00,1,Denver Nuggets,L,111.0,124.0,1.0,14.0,L 14,2009.0,November,Thursday
+2009-11-27,21:30:00,1,Phoenix Suns,L,95.0,120.0,1.0,15.0,L 15,2009.0,November,Saturday
+2009-12-02,20:00:00,1,Memphis Grizzlies,L,95.0,97.0,2.0,16.0,L 1,2009.0,December,Tuesday
+2009-12-05,20:00:00,1,Utah Jazz,W,108.0,101.0,3.0,17.0,W 1,2009.0,December,Friday
+2009-12-09,20:00:00,1,New Orleans Hornets,L,96.0,97.0,3.0,19.0,L 2,2009.0,December,Tuesday
+2009-12-16,20:00:00,1,Los Angeles Clippers,L,95.0,120.0,4.0,22.0,L 1,2009.0,December,Tuesday
+2009-12-18,20:00:00,1,Sacramento Kings,W,112.0,96.0,5.0,22.0,W 1,2009.0,December,Thursday
+2009-12-22,20:00:00,1,Atlanta Hawks,L,87.0,112.0,5.0,24.0,L 2,2009.0,December,Monday
+2009-12-26,20:00:00,1,Washington Wizards,W,101.0,89.0,7.0,24.0,W 2,2009.0,December,Friday
+2009-12-30,20:00:00,1,Utah Jazz,L,103.0,107.0,7.0,26.0,L 2,2009.0,December,Tuesday
+2010-01-01,20:00:00,1,Orlando Magic,L,94.0,106.0,7.0,27.0,L 3,2010.0,January,Monday
+2010-01-06,20:00:00,1,Golden State Warriors,L,101.0,107.0,7.0,29.0,L 5,2010.0,January,Saturday
+2010-01-08,20:00:00,1,Indiana Pacers,W,116.0,109.0,8.0,29.0,W 1,2010.0,January,Monday
+2010-01-18,15:30:00,1,Philadelphia 76ers,W,108.0,103.0,9.0,33.0,W 1,2010.0,January,Thursday
+2010-01-20,20:00:00,1,Oklahoma City Thunder,L,92.0,94.0,9.0,34.0,L 1,2010.0,January,Saturday
+2010-01-22,20:00:00,1,New Orleans Hornets,L,94.0,96.0,9.0,35.0,L 2,2010.0,January,Monday
+2010-01-29,20:00:00,1,Los Angeles Clippers,W,111.0,97.0,10.0,38.0,W 1,2010.0,January,Monday
+2010-01-31,19:00:00,1,New York Knicks,W,112.0,91.0,11.0,38.0,W 2,2010.0,January,Wednesday
+2010-02-06,20:00:00,1,Memphis Grizzlies,W,109.0,102.0,13.0,38.0,W 4,2010.0,February,Saturday
+2010-02-10,20:00:00,1,Charlotte Bobcats,L,92.0,93.0,13.0,40.0,L 2,2010.0,February,Wednesday
+2010-02-19,20:00:00,1,Chicago Bulls,L,94.0,100.0,13.0,43.0,L 5,2010.0,February,Friday
+2010-02-21,19:00:00,1,Oklahoma City Thunder,L,107.0,109.0,13.0,44.0,L 6,2010.0,February,Sunday
+2010-02-27,20:00:00,1,Portland Trail Blazers,L,91.0,110.0,14.0,47.0,L 3,2010.0,February,Saturday
+2010-03-06,20:00:00,1,Houston Rockets,L,98.0,112.0,14.0,49.0,L 5,2010.0,March,Saturday
+2010-03-08,20:00:00,1,Dallas Mavericks,L,112.0,125.0,14.0,50.0,L 6,2010.0,March,Monday
+2010-03-10,20:00:00,1,Denver Nuggets,L,102.0,110.0,14.0,51.0,L 7,2010.0,March,Wednesday
+2010-03-12,20:00:00,1,San Antonio Spurs,L,85.0,103.0,14.0,52.0,L 8,2010.0,March,Friday
+2010-03-22,20:00:00,1,Toronto Raptors,L,100.0,106.0,14.0,57.0,L 13,2010.0,March,Monday
+2010-03-28,19:00:00,1,Phoenix Suns,L,105.0,111.0,14.0,60.0,L 16,2010.0,March,Sunday
+2010-03-31,20:00:00,1,Sacramento Kings,W,108.0,99.0,15.0,60.0,W 1,2010.0,March,Wednesday
+2010-04-03,20:00:00,1,Miami Heat,L,84.0,97.0,15.0,61.0,L 1,2010.0,April,Wednesday
+2010-04-07,20:00:00,1,Golden State Warriors,L,107.0,116.0,15.0,63.0,L 3,2010.0,April,Sunday
+2010-04-09,20:00:00,1,Los Angeles Lakers,L,88.0,97.0,15.0,64.0,L 4,2010.0,April,Tuesday
+2010-04-14,20:00:00,1,Detroit Pistons,L,98.0,103.0,15.0,67.0,L 7,2010.0,April,Sunday
+2010-10-27,20:00:00,1,Sacramento Kings,L,116.0,117.0,0.0,1.0,L 1,2010.0,October,Saturday
+2010-10-29,20:00:00,1,Milwaukee Bucks,W,96.0,85.0,1.0,1.0,W 1,2010.0,October,Monday
+2010-11-05,20:00:00,1,Atlanta Hawks,L,103.0,113.0,1.0,5.0,L 4,2010.0,November,Friday
+2010-11-12,20:00:00,1,New York Knicks,W,112.0,103.0,3.0,7.0,W 2,2010.0,November,Friday
+2010-11-17,20:00:00,1,Los Angeles Clippers,W,113.0,111.0,4.0,9.0,W 1,2010.0,November,Wednesday
+2010-11-19,20:00:00,1,Los Angeles Lakers,L,95.0,112.0,4.0,10.0,L 1,2010.0,November,Friday
+2010-11-24,20:00:00,1,San Antonio Spurs,L,109.0,113.0,4.0,12.0,L 3,2010.0,November,Wednesday
+2010-11-27,20:00:00,1,Golden State Warriors,L,94.0,104.0,4.0,13.0,L 4,2010.0,November,Saturday
+2010-12-04,20:00:00,1,Cleveland Cavaliers,W,129.0,95.0,5.0,15.0,W 1,2010.0,December,Thursday
+2010-12-08,20:00:00,1,Oklahoma City Thunder,L,103.0,111.0,5.0,17.0,L 2,2010.0,December,Monday
+2010-12-10,20:00:00,1,Detroit Pistons,W,109.0,99.0,6.0,17.0,W 1,2010.0,December,Wednesday
+2010-12-22,20:00:00,1,Utah Jazz,L,107.0,112.0,6.0,24.0,L 7,2010.0,December,Monday
+2010-12-27,20:00:00,1,New Orleans Hornets,W,113.0,98.0,8.0,24.0,W 2,2010.0,December,Saturday
+2010-12-29,20:00:00,1,Denver Nuggets,L,113.0,119.0,8.0,25.0,L 1,2010.0,December,Monday
+2011-01-01,20:00:00,1,New Jersey Nets,W,103.0,88.0,9.0,25.0,W 1,2011.0,January,Monday
+2011-01-05,20:00:00,1,Charlotte Bobcats,L,105.0,108.0,9.0,27.0,L 2,2011.0,January,Friday
+2011-01-07,20:00:00,1,Portland Trail Blazers,L,98.0,108.0,9.0,28.0,L 3,2011.0,January,Sunday
+2011-01-11,20:00:00,1,San Antonio Spurs,L,96.0,107.0,9.0,30.0,L 5,2011.0,January,Thursday
+2011-01-13,20:00:00,1,Washington Wizards,W,109.0,97.0,10.0,30.0,W 1,2011.0,January,Saturday
+2011-01-15,20:00:00,1,Orlando Magic,L,99.0,108.0,10.0,31.0,L 1,2011.0,January,Monday
+2011-01-24,20:00:00,1,Houston Rockets,L,125.0,129.0,10.0,34.0,L 4,2011.0,January,Wednesday
+2011-01-26,20:00:00,1,Oklahoma City Thunder,L,117.0,118.0,10.0,35.0,L 5,2011.0,January,Friday
+2011-01-29,20:00:00,1,Toronto Raptors,W,103.0,87.0,11.0,36.0,W 1,2011.0,January,Monday
+2011-02-02,20:00:00,1,Memphis Grizzlies,L,84.0,102.0,11.0,37.0,L 1,2011.0,February,Tuesday
+2011-02-05,20:30:00,1,Denver Nuggets,L,100.0,113.0,11.0,39.0,L 3,2011.0,February,Friday
+2011-02-12,20:00:00,1,Philadelphia 76ers,L,87.0,107.0,13.0,41.0,L 2,2011.0,February,Friday
+2011-02-14,20:00:00,1,Portland Trail Blazers,L,81.0,95.0,13.0,42.0,L 3,2011.0,February,Sunday
+2011-02-16,20:00:00,1,Los Angeles Clippers,L,90.0,98.0,13.0,43.0,L 4,2011.0,February,Tuesday
+2011-02-23,20:00:00,1,Memphis Grizzlies,L,95.0,104.0,13.0,45.0,L 6,2011.0,February,Tuesday
+2011-02-25,20:00:00,1,New Orleans Hornets,L,81.0,95.0,13.0,46.0,L 7,2011.0,February,Thursday
+2011-02-27,17:00:00,1,Golden State Warriors,W,126.0,123.0,14.0,46.0,W 1,2011.0,February,Saturday
+2011-03-01,20:00:00,1,Los Angeles Lakers,L,79.0,90.0,14.0,47.0,L 1,2011.0,March,Monday
+2011-03-07,20:00:00,1,Dallas Mavericks,L,105.0,108.0,15.0,50.0,L 3,2011.0,March,Sunday
+2011-03-09,20:00:00,1,Indiana Pacers,W,101.0,75.0,16.0,50.0,W 1,2011.0,March,Tuesday
+2011-03-11,20:00:00,1,Utah Jazz,W,122.0,101.0,17.0,50.0,W 2,2011.0,March,Thursday
+2011-03-20,15:30:00,1,Sacramento Kings,L,95.0,127.0,17.0,54.0,L 4,2011.0,March,Saturday
+2011-03-27,19:00:00,1,Boston Celtics,L,82.0,85.0,17.0,57.0,L 7,2011.0,March,Saturday
+2011-03-30,20:00:00,1,Chicago Bulls,L,91.0,108.0,17.0,58.0,L 8,2011.0,March,Tuesday
+2011-04-01,20:00:00,1,Miami Heat,L,92.0,111.0,17.0,59.0,L 9,2011.0,April,Monday
+2011-04-06,20:00:00,1,Phoenix Suns,L,98.0,108.0,17.0,62.0,L 12,2011.0,April,Saturday
+2011-04-13,20:00:00,1,Houston Rockets,L,102.0,121.0,17.0,65.0,L 15,2011.0,April,Saturday
+2011-12-26,20:00:00,1,Oklahoma City Thunder,L,100.0,104.0,0.0,1.0,L 1,2011.0,December,Friday
+2011-12-30,20:00:00,1,Miami Heat,L,101.0,103.0,0.0,3.0,L 3,2011.0,December,Tuesday
+2012-01-01,19:00:00,1,Dallas Mavericks,W,99.0,82.0,1.0,3.0,W 1,2012.0,January,Monday
+2012-01-02,20:00:00,1,San Antonio Spurs,W,106.0,96.0,2.0,3.0,W 2,2012.0,January,Tuesday
+2012-01-04,20:00:00,1,Memphis Grizzlies,L,86.0,90.0,2.0,4.0,L 1,2012.0,January,Thursday
+2012-01-06,20:00:00,1,Cleveland Cavaliers,L,87.0,98.0,2.0,5.0,L 2,2012.0,January,Saturday
+2012-01-10,20:00:00,1,Chicago Bulls,L,100.0,111.0,3.0,7.0,L 2,2012.0,January,Wednesday
+2012-01-16,20:00:00,1,Sacramento Kings,W,99.0,86.0,5.0,8.0,W 1,2012.0,January,Tuesday
+2012-01-18,20:00:00,1,Detroit Pistons,W,93.0,85.0,6.0,8.0,W 2,2012.0,January,Thursday
+2012-01-23,20:00:00,1,Houston Rockets,L,92.0,107.0,7.0,10.0,L 2,2012.0,January,Tuesday
+2012-01-27,20:00:00,1,San Antonio Spurs,W,87.0,79.0,9.0,10.0,W 2,2012.0,January,Saturday
+2012-01-29,19:00:00,1,Los Angeles Lakers,L,101.0,106.0,9.0,11.0,L 1,2012.0,January,Monday
+2012-02-01,20:00:00,1,Indiana Pacers,L,99.0,109.0,10.0,12.0,L 1,2012.0,February,Monday
+2012-02-04,20:00:00,1,Houston Rockets,W,100.0,91.0,12.0,12.0,W 2,2012.0,February,Thursday
+2012-02-07,20:00:00,1,Sacramento Kings,W,86.0,84.0,13.0,12.0,W 3,2012.0,February,Sunday
+2012-02-10,20:00:00,1,Dallas Mavericks,L,97.0,104.0,13.0,14.0,L 2,2012.0,February,Wednesday
+2012-02-11,20:00:00,1,New York Knicks,L,98.0,100.0,13.0,15.0,L 3,2012.0,February,Thursday
+2012-02-15,20:00:00,1,Charlotte Bobcats,W,102.0,90.0,14.0,16.0,W 1,2012.0,February,Monday
+2012-02-19,19:00:00,1,Philadelphia 76ers,W,92.0,91.0,16.0,16.0,W 3,2012.0,February,Friday
+2012-02-22,20:00:00,1,Utah Jazz,W,100.0,98.0,17.0,17.0,W 1,2012.0,February,Monday
+2012-03-05,20:00:00,1,Los Angeles Clippers,W,95.0,94.0,20.0,19.0,W 2,2012.0,March,Friday
+2012-03-07,20:00:00,1,Portland Trail Blazers,W,106.0,94.0,21.0,19.0,W 3,2012.0,March,Sunday
+2012-03-09,20:00:00,1,Los Angeles Lakers,L,102.0,105.0,21.0,20.0,L 1,2012.0,March,Tuesday
+2012-03-10,20:00:00,1,New Orleans Hornets,L,89.0,95.0,21.0,21.0,L 2,2012.0,March,Wednesday
+2012-03-25,15:30:00,1,Denver Nuggets,W,117.0,100.0,24.0,26.0,W 1,2012.0,March,Thursday
+2012-03-30,20:00:00,1,Boston Celtics,L,79.0,100.0,25.0,28.0,L 1,2012.0,March,Tuesday
+2012-04-04,20:00:00,1,Golden State Warriors,L,94.0,97.0,25.0,31.0,L 4,2012.0,April,Thursday
+2012-04-09,21:00:00,1,Phoenix Suns,L,90.0,114.0,25.0,33.0,L 6,2012.0,April,Tuesday
+2012-04-12,20:00:00,1,Los Angeles Clippers,L,82.0,95.0,25.0,35.0,L 8,2012.0,April,Friday
+2012-04-14,20:00:00,1,Oklahoma City Thunder,L,110.0,115.0,25.0,36.0,L 9,2012.0,April,Sunday
+2012-04-17,20:00:00,1,Memphis Grizzlies,L,84.0,91.0,25.0,38.0,L 11,2012.0,April,Wednesday
+2012-04-22,19:00:00,1,Golden State Warriors,L,88.0,93.0,26.0,39.0,L 1,2012.0,April,Monday
+2012-04-26,20:00:00,1,Denver Nuggets,L,102.0,131.0,26.0,40.0,L 2,2012.0,April,Friday
+2012-11-02,20:00:00,1,Sacramento Kings,W,92.0,80.0,1.0,0.0,W 1,2012.0,November,Tuesday
+2012-11-07,20:00:00,1,Orlando Magic,W,90.0,75.0,3.0,1.0,W 2,2012.0,November,Sunday
+2012-11-09,20:00:00,1,Indiana Pacers,W,96.0,94.0,4.0,1.0,W 3,2012.0,November,Tuesday
+2012-11-14,20:00:00,1,Charlotte Bobcats,L,87.0,89.0,5.0,3.0,L 1,2012.0,November,Sunday
+2012-11-16,20:00:00,1,Golden State Warriors,L,98.0,106.0,5.0,4.0,L 2,2012.0,November,Tuesday
+2012-11-21,20:00:00,1,Denver Nuggets,L,94.0,101.0,5.0,5.0,L 3,2012.0,November,Sunday
+2012-11-30,20:00:00,1,Milwaukee Bucks,W,95.0,85.0,7.0,8.0,W 1,2012.0,November,Tuesday
+2012-12-07,20:00:00,1,Cleveland Cavaliers,W,91.0,73.0,9.0,9.0,W 1,2012.0,December,Sunday
+2012-12-12,20:00:00,1,Denver Nuggets,W,108.0,105.0,10.0,9.0,W 2,2012.0,December,Friday
+2012-12-15,20:00:00,1,Dallas Mavericks,W,114.0,106.0,12.0,9.0,W 4,2012.0,December,Monday
+2012-12-20,19:00:00,1,Oklahoma City Thunder,W,99.0,93.0,13.0,11.0,W 1,2012.0,December,Saturday
+2012-12-26,20:00:00,1,Houston Rockets,L,84.0,87.0,13.0,13.0,L 2,2012.0,December,Friday
+2012-12-29,20:00:00,1,Phoenix Suns,W,111.0,107.0,14.0,13.0,W 1,2012.0,December,Monday
+2013-01-05,20:00:00,1,Portland Trail Blazers,L,97.0,102.0,15.0,15.0,L 1,2013.0,January,Friday
+2013-01-08,20:00:00,1,Atlanta Hawks,W,108.0,103.0,16.0,15.0,W 1,2013.0,January,Monday
+2013-01-17,20:00:00,1,Los Angeles Clippers,L,77.0,90.0,16.0,20.0,L 5,2013.0,January,Wednesday
+2013-01-19,20:00:00,1,Houston Rockets,W,92.0,79.0,17.0,20.0,W 1,2013.0,January,Friday
+2013-01-23,20:00:00,1,Brooklyn Nets,L,83.0,91.0,17.0,22.0,L 2,2013.0,January,Tuesday
+2013-01-30,20:00:00,1,Los Angeles Clippers,L,90.0,96.0,17.0,25.0,L 5,2013.0,January,Tuesday
+2013-02-01,21:30:00,1,Los Angeles Lakers,L,100.0,111.0,17.0,26.0,L 6,2013.0,February,Monday
+2013-02-02,20:00:00,1,New Orleans Hornets,W,115.0,86.0,18.0,26.0,W 1,2013.0,February,Tuesday
+2013-02-04,20:00:00,1,Portland Trail Blazers,L,98.0,100.0,18.0,27.0,L 1,2013.0,February,Thursday
+2013-02-06,21:00:00,1,San Antonio Spurs,L,94.0,104.0,18.0,28.0,L 2,2013.0,February,Saturday
+2013-02-08,20:00:00,1,New York Knicks,L,94.0,100.0,18.0,29.0,L 3,2013.0,February,Monday
+2013-02-13,20:00:00,1,Utah Jazz,L,93.0,97.0,19.0,31.0,L 1,2013.0,February,Saturday
+2013-02-20,20:00:00,1,Philadelphia 76ers,W,94.0,87.0,20.0,31.0,W 1,2013.0,February,Saturday
+2013-02-24,15:30:00,1,Golden State Warriors,L,99.0,100.0,20.0,33.0,L 2,2013.0,February,Wednesday
+2013-03-04,20:00:00,1,Miami Heat,L,81.0,97.0,20.0,37.0,L 6,2013.0,March,Thursday
+2013-03-06,20:00:00,1,Washington Wizards,W,87.0,82.0,21.0,37.0,W 1,2013.0,March,Saturday
+2013-03-10,19:00:00,1,Dallas Mavericks,L,77.0,100.0,21.0,39.0,L 2,2013.0,March,Wednesday
+2013-03-12,20:00:00,1,San Antonio Spurs,W,107.0,83.0,22.0,39.0,W 1,2013.0,March,Friday
+2013-03-17,19:00:00,1,New Orleans Hornets,W,97.0,95.0,23.0,41.0,W 1,2013.0,March,Wednesday
+2013-03-24,19:00:00,1,Chicago Bulls,L,97.0,104.0,24.0,44.0,L 1,2013.0,March,Wednesday
+2013-03-27,20:00:00,1,Los Angeles Lakers,L,117.0,120.0,25.0,45.0,L 1,2013.0,March,Saturday
+2013-03-29,20:00:00,1,Oklahoma City Thunder,W,101.0,93.0,26.0,45.0,W 1,2013.0,March,Monday
+2013-03-30,20:00:00,1,Memphis Grizzlies,L,86.0,99.0,26.0,46.0,L 1,2013.0,March,Tuesday
+2013-04-01,20:00:00,1,Boston Celtics,W,110.0,100.0,27.0,46.0,W 1,2013.0,April,Monday
+2013-04-05,20:00:00,1,Toronto Raptors,L,93.0,95.0,28.0,47.0,L 1,2013.0,April,Friday
+2013-04-06,20:00:00,1,Detroit Pistons,W,107.0,101.0,29.0,47.0,W 1,2013.0,April,Saturday
+2013-04-13,20:00:00,1,Phoenix Suns,W,105.0,93.0,30.0,50.0,W 1,2013.0,April,Saturday
+2013-04-15,20:00:00,1,Utah Jazz,L,80.0,96.0,30.0,51.0,L 1,2013.0,April,Monday
+2013-10-30,20:00:00,1,Orlando Magic,W,120.0,115.0,1.0,0.0,W 1,2013.0,October,Tuesday
+2013-11-01,20:00:00,1,Oklahoma City Thunder,W,100.0,81.0,2.0,0.0,W 2,2013.0,November,Monday
+2013-11-06,20:00:00,1,Golden State Warriors,L,93.0,106.0,3.0,2.0,L 2,2013.0,November,Saturday
+2013-11-08,20:00:00,1,Dallas Mavericks,W,116.0,108.0,4.0,2.0,W 1,2013.0,November,Monday
+2013-11-13,20:00:00,1,Cleveland Cavaliers,W,124.0,95.0,6.0,3.0,W 1,2013.0,November,Saturday
+2013-11-16,20:00:00,1,Boston Celtics,W,106.0,88.0,7.0,4.0,W 1,2013.0,November,Tuesday
+2013-11-20,20:00:00,1,Los Angeles Clippers,L,98.0,102.0,7.0,6.0,L 2,2013.0,November,Saturday
+2013-11-22,20:00:00,1,Brooklyn Nets,W,111.0,81.0,8.0,6.0,W 1,2013.0,November,Monday
+2013-11-27,20:00:00,1,Denver Nuggets,L,110.0,117.0,8.0,9.0,L 3,2013.0,November,Saturday
+2013-12-07,20:00:00,1,Miami Heat,L,82.0,103.0,9.0,11.0,L 2,2013.0,December,Sunday
+2013-12-11,20:00:00,1,Philadelphia 76ers,W,106.0,99.0,11.0,11.0,W 2,2013.0,December,Thursday
+2013-12-18,20:00:00,1,Portland Trail Blazers,W,120.0,109.0,13.0,13.0,W 1,2013.0,December,Thursday
+2013-12-27,20:00:00,1,Washington Wizards,W,120.0,98.0,14.0,15.0,W 1,2013.0,December,Saturday
+2013-12-30,20:00:00,1,Dallas Mavericks,L,98.0,100.0,15.0,16.0,L 1,2013.0,December,Tuesday
+2014-01-01,20:00:00,1,New Orleans Pelicans,W,124.0,112.0,16.0,16.0,W 1,2014.0,January,Monday
+2014-01-04,20:00:00,1,Oklahoma City Thunder,L,111.0,115.0,16.0,17.0,L 1,2014.0,January,Thursday
+2014-01-08,21:30:00,1,Phoenix Suns,L,103.0,104.0,17.0,18.0,L 1,2014.0,January,Monday
+2014-01-10,20:00:00,1,Charlotte Bobcats,W,119.0,92.0,18.0,18.0,W 1,2014.0,January,Wednesday
+2014-01-15,20:00:00,1,Sacramento Kings,L,108.0,111.0,18.0,20.0,L 2,2014.0,January,Monday
+2014-01-18,20:00:00,1,Utah Jazz,W,98.0,72.0,19.0,21.0,W 1,2014.0,January,Thursday
+2014-01-29,20:00:00,1,New Orleans Pelicans,W,88.0,77.0,23.0,22.0,W 2,2014.0,January,Monday
+2014-01-31,20:00:00,1,Memphis Grizzlies,L,90.0,94.0,23.0,23.0,L 1,2014.0,January,Wednesday
+2014-02-04,20:00:00,1,Los Angeles Lakers,W,109.0,99.0,24.0,24.0,W 1,2014.0,February,Thursday
+2014-02-08,20:00:00,1,Portland Trail Blazers,L,110.0,117.0,24.0,27.0,L 3,2014.0,February,Monday
+2014-02-10,20:00:00,1,Houston Rockets,L,89.0,107.0,24.0,28.0,L 4,2014.0,February,Wednesday
+2014-02-12,20:00:00,1,Denver Nuggets,W,117.0,90.0,25.0,28.0,W 1,2014.0,February,Friday
+2014-02-19,20:00:00,1,Indiana Pacers,W,104.0,91.0,26.0,28.0,W 2,2014.0,February,Friday
+2014-03-05,20:00:00,1,New York Knicks,L,106.0,118.0,30.0,30.0,L 1,2014.0,March,Friday
+2014-03-07,20:00:00,1,Detroit Pistons,W,114.0,101.0,31.0,30.0,W 1,2014.0,March,Sunday
+2014-03-09,19:00:00,1,Toronto Raptors,L,104.0,111.0,31.0,31.0,L 1,2014.0,March,Tuesday
+2014-03-11,20:00:00,1,Milwaukee Bucks,W,112.0,101.0,32.0,31.0,W 1,2014.0,March,Thursday
+2014-03-16,19:00:00,1,Sacramento Kings,W,104.0,102.0,33.0,32.0,W 1,2014.0,March,Tuesday
+2014-03-23,15:30:00,1,Phoenix Suns,L,120.0,127.0,34.0,34.0,L 2,2014.0,March,Tuesday
+2014-03-26,20:00:00,1,Atlanta Hawks,W,107.0,83.0,35.0,35.0,W 1,2014.0,March,Friday
+2014-03-28,20:00:00,1,Los Angeles Lakers,W,143.0,107.0,36.0,35.0,W 2,2014.0,March,Sunday
+2014-03-31,20:00:00,1,Los Angeles Clippers,L,104.0,114.0,36.0,37.0,L 2,2014.0,March,Wednesday
+2014-04-02,20:00:00,1,Memphis Grizzlies,W,102.0,88.0,37.0,37.0,W 1,2014.0,April,Tuesday
+2014-04-08,20:00:00,1,San Antonio Spurs,W,110.0,91.0,39.0,38.0,W 1,2014.0,April,Monday
+2014-04-09,20:00:00,1,Chicago Bulls,L,87.0,102.0,39.0,39.0,L 1,2014.0,April,Tuesday
+2014-04-11,20:00:00,1,Houston Rockets,W,112.0,110.0,40.0,39.0,W 1,2014.0,April,Thursday
+2014-04-16,20:00:00,1,Utah Jazz,L,130.0,136.0,40.0,42.0,L 3,2014.0,April,Tuesday
+2014-10-30,20:00:00,1,Detroit Pistons,W,97.0,91.0,1.0,1.0,W 1,2014.0,October,Tuesday
+2014-11-01,20:00:00,1,Chicago Bulls,L,105.0,106.0,1.0,2.0,L 1,2014.0,November,Monday
+2014-11-12,22:00:00,1,Houston Rockets,L,101.0,113.0,2.0,5.0,L 3,2014.0,November,Friday
+2014-11-19,20:00:00,1,New York Knicks,W,115.0,99.0,3.0,7.0,W 1,2014.0,November,Friday
+2014-11-21,20:00:00,1,San Antonio Spurs,L,92.0,121.0,3.0,8.0,L 1,2014.0,November,Sunday
+2014-11-22,20:00:00,1,Sacramento Kings,L,101.0,113.0,3.0,9.0,L 2,2014.0,November,Monday
+2014-11-26,20:00:00,1,Milwaukee Bucks,L,86.0,103.0,3.0,10.0,L 3,2014.0,November,Friday
+2014-12-03,20:00:00,1,Philadelphia 76ers,L,77.0,85.0,4.0,13.0,L 3,2014.0,December,Wednesday
+2014-12-05,20:00:00,1,Houston Rockets,L,112.0,114.0,4.0,14.0,L 4,2014.0,December,Friday
+2014-12-08,20:00:00,1,Golden State Warriors,L,86.0,102.0,4.0,16.0,L 6,2014.0,December,Monday
+2014-12-10,20:00:00,1,Portland Trail Blazers,W,90.0,82.0,5.0,16.0,W 1,2014.0,December,Wednesday
+2014-12-12,20:00:00,1,Oklahoma City Thunder,L,92.0,111.0,5.0,17.0,L 1,2014.0,December,Friday
+2014-12-14,19:00:00,1,Los Angeles Lakers,L,94.0,100.0,5.0,18.0,L 2,2014.0,December,Sunday
+2014-12-21,19:00:00,1,Indiana Pacers,L,96.0,100.0,5.0,21.0,L 5,2014.0,December,Sunday
+2015-01-01,20:00:00,1,Sacramento Kings,L,107.0,110.0,5.0,26.0,L 10,2015.0,January,Monday
+2015-01-03,20:00:00,1,Utah Jazz,L,89.0,101.0,5.0,27.0,L 11,2015.0,January,Wednesday
+2015-01-05,20:00:00,1,Denver Nuggets,L,101.0,110.0,5.0,28.0,L 12,2015.0,January,Friday
+2015-01-07,21:30:00,1,Phoenix Suns,L,111.0,113.0,5.0,29.0,L 13,2015.0,January,Sunday
+2015-01-10,20:00:00,1,San Antonio Spurs,L,93.0,108.0,5.0,31.0,L 15,2015.0,January,Wednesday
+2015-01-21,20:00:00,1,Dallas Mavericks,L,75.0,98.0,7.0,34.0,L 2,2015.0,January,Sunday
+2015-01-23,20:00:00,1,New Orleans Pelicans,L,84.0,92.0,7.0,35.0,L 3,2015.0,January,Tuesday
+2015-01-28,20:00:00,1,Boston Celtics,W,110.0,98.0,8.0,37.0,W 1,2015.0,January,Sunday
+2015-01-31,20:00:00,1,Cleveland Cavaliers,L,90.0,106.0,8.0,39.0,L 2,2015.0,January,Wednesday
+2015-02-04,20:00:00,1,Miami Heat,W,102.0,101.0,9.0,40.0,W 1,2015.0,February,Thursday
+2015-02-06,20:00:00,1,Memphis Grizzlies,W,90.0,89.0,10.0,40.0,W 2,2015.0,February,Saturday
+2015-02-09,20:00:00,1,Atlanta Hawks,L,105.0,117.0,11.0,41.0,L 1,2015.0,February,Tuesday
+2015-02-11,20:00:00,1,Golden State Warriors,L,91.0,94.0,11.0,42.0,L 2,2015.0,February,Thursday
+2015-02-20,20:00:00,1,Phoenix Suns,W,111.0,109.0,12.0,42.0,W 1,2015.0,February,Saturday
+2015-02-25,20:00:00,1,Washington Wizards,W,97.0,77.0,13.0,43.0,W 1,2015.0,February,Thursday
+2015-02-28,20:00:00,1,Memphis Grizzlies,L,97.0,101.0,13.0,45.0,L 2,2015.0,February,Sunday
+2015-03-02,20:00:00,1,Los Angeles Clippers,L,105.0,110.0,13.0,46.0,L 3,2015.0,March,Tuesday
+2015-03-04,20:00:00,1,Denver Nuggets,L,85.0,100.0,13.0,47.0,L 4,2015.0,March,Thursday
+2015-03-07,20:00:00,1,Portland Trail Blazers,W,121.0,113.0,14.0,47.0,W 1,2015.0,March,Sunday
+2015-03-16,20:00:00,1,Brooklyn Nets,L,106.0,122.0,14.0,52.0,L 5,2015.0,March,Tuesday
+2015-03-22,19:00:00,1,Charlotte Hornets,L,98.0,109.0,15.0,54.0,L 1,2015.0,March,Monday
+2015-03-25,20:00:00,1,Los Angeles Lakers,L,99.0,101.0,16.0,55.0,L 1,2015.0,March,Thursday
+2015-03-30,20:00:00,1,Utah Jazz,L,84.0,104.0,16.0,58.0,L 4,2015.0,March,Tuesday
+2015-04-01,20:00:00,1,Toronto Raptors,L,99.0,113.0,16.0,59.0,L 5,2015.0,April,Monday
+2015-04-03,20:00:00,1,Orlando Magic,L,84.0,97.0,16.0,60.0,L 6,2015.0,April,Wednesday
+2015-04-13,20:00:00,1,New Orleans Pelicans,L,88.0,100.0,16.0,65.0,L 11,2015.0,April,Saturday
+2015-04-15,20:00:00,1,Oklahoma City Thunder,L,113.0,138.0,16.0,66.0,L 12,2015.0,April,Monday
+2015-11-02,20:00:00,1,Portland Trail Blazers,L,101.0,106.0,2.0,1.0,L 1,2015.0,November,Tuesday
+2015-11-05,20:00:00,1,Miami Heat,L,84.0,96.0,2.0,2.0,L 2,2015.0,November,Friday
+2015-11-10,20:00:00,1,Charlotte Hornets,L,95.0,104.0,4.0,3.0,L 1,2015.0,November,Wednesday
+2015-11-12,20:00:00,1,Golden State Warriors,L,116.0,129.0,4.0,4.0,L 2,2015.0,November,Friday
+2015-11-15,15:30:00,1,Memphis Grizzlies,L,106.0,114.0,4.0,6.0,L 4,2015.0,November,Monday
+2015-11-20,20:00:00,1,Detroit Pistons,L,86.0,96.0,5.0,8.0,L 2,2015.0,November,Saturday
+2015-11-23,20:00:00,1,Philadelphia 76ers,W,100.0,95.0,6.0,8.0,W 1,2015.0,November,Tuesday
+2015-11-25,20:00:00,1,Atlanta Hawks,W,99.0,95.0,7.0,8.0,W 2,2015.0,November,Thursday
+2015-12-01,20:00:00,1,Orlando Magic,L,93.0,96.0,8.0,10.0,L 2,2015.0,December,Monday
+2015-12-05,20:00:00,1,Portland Trail Blazers,L,103.0,109.0,8.0,11.0,L 3,2015.0,December,Friday
+2015-12-07,20:00:00,1,Los Angeles Clippers,L,106.0,110.0,8.0,12.0,L 4,2015.0,December,Sunday
+2015-12-09,20:00:00,1,Los Angeles Lakers,W,123.0,122.0,9.0,12.0,W 1,2015.0,December,Tuesday
+2015-12-15,20:00:00,1,Denver Nuggets,L,100.0,112.0,9.0,15.0,L 3,2015.0,December,Monday
+2015-12-18,20:00:00,1,Sacramento Kings,W,99.0,95.0,10.0,16.0,W 1,2015.0,December,Thursday
+2015-12-23,20:00:00,1,San Antonio Spurs,L,83.0,108.0,11.0,18.0,L 2,2015.0,December,Tuesday
+2015-12-26,20:00:00,1,Indiana Pacers,L,88.0,102.0,11.0,19.0,L 3,2015.0,December,Friday
+2015-12-30,20:00:00,1,Utah Jazz,W,94.0,80.0,12.0,20.0,W 1,2015.0,December,Tuesday
+2016-01-02,20:00:00,1,Milwaukee Bucks,L,85.0,95.0,12.0,22.0,L 2,2016.0,January,Tuesday
+2016-01-06,20:00:00,1,Denver Nuggets,L,74.0,78.0,12.0,24.0,L 4,2016.0,January,Saturday
+2016-01-08,20:00:00,1,Cleveland Cavaliers,L,99.0,125.0,12.0,25.0,L 5,2016.0,January,Monday
+2016-01-10,17:00:00,1,Dallas Mavericks,L,87.0,93.0,12.0,26.0,L 6,2016.0,January,Wednesday
+2016-01-12,20:00:00,1,Oklahoma City Thunder,L,96.0,101.0,12.0,27.0,L 7,2016.0,January,Friday
+2016-01-17,15:30:00,1,Phoenix Suns,W,117.0,87.0,13.0,29.0,W 1,2016.0,January,Wednesday
+2016-01-23,20:00:00,1,Memphis Grizzlies,W,106.0,101.0,14.0,31.0,W 1,2016.0,January,Tuesday
+2016-01-27,20:00:00,1,Oklahoma City Thunder,L,123.0,126.0,14.0,33.0,L 2,2016.0,January,Saturday
+2016-02-06,20:00:00,1,Chicago Bulls,W,112.0,105.0,16.0,36.0,W 2,2016.0,February,Saturday
+2016-02-08,20:00:00,1,New Orleans Pelicans,L,102.0,116.0,16.0,37.0,L 1,2016.0,February,Monday
+2016-02-10,20:00:00,1,Toronto Raptors,W,117.0,112.0,17.0,37.0,W 1,2016.0,February,Wednesday
+2016-02-20,20:00:00,1,New York Knicks,L,95.0,103.0,17.0,39.0,L 2,2016.0,February,Saturday
+2016-02-22,20:00:00,1,Boston Celtics,W,124.0,122.0,18.0,39.0,W 1,2016.0,February,Monday
+2016-03-02,20:00:00,1,Washington Wizards,L,98.0,104.0,19.0,42.0,L 2,2016.0,March,Tuesday
+2016-03-05,20:00:00,1,Brooklyn Nets,W,132.0,118.0,20.0,43.0,W 1,2016.0,March,Friday
+2016-03-08,20:00:00,1,San Antonio Spurs,L,91.0,116.0,20.0,45.0,L 2,2016.0,March,Monday
+2016-03-21,20:00:00,1,Golden State Warriors,L,104.0,109.0,22.0,48.0,L 2,2016.0,March,Sunday
+2016-03-23,20:00:00,1,Sacramento Kings,W,113.0,104.0,23.0,48.0,W 1,2016.0,March,Tuesday
+2016-03-26,20:00:00,1,Utah Jazz,L,84.0,93.0,24.0,49.0,L 1,2016.0,March,Friday
+2016-03-28,20:00:00,1,Phoenix Suns,W,121.0,116.0,25.0,49.0,W 1,2016.0,March,Sunday
+2016-03-30,20:00:00,1,Los Angeles Clippers,L,79.0,99.0,25.0,50.0,L 1,2016.0,March,Tuesday
+2016-04-03,15:30:00,1,Dallas Mavericks,L,78.0,88.0,25.0,52.0,L 3,2016.0,April,Wednesday
+2016-04-11,20:00:00,1,Houston Rockets,L,105.0,129.0,28.0,53.0,L 1,2016.0,April,Thursday
+2016-04-13,20:00:00,1,New Orleans Pelicans,W,144.0,109.0,29.0,53.0,W 1,2016.0,April,Saturday
+2016-11-01,20:00:00,1,Memphis Grizzlies,W,116.0,80.0,1.0,2.0,W 1,2016.0,November,Monday
+2016-11-03,20:00:00,1,Denver Nuggets,L,99.0,102.0,1.0,3.0,L 1,2016.0,November,Wednesday
+2016-11-12,20:00:00,1,Los Angeles Clippers,L,105.0,119.0,2.0,6.0,L 1,2016.0,November,Friday
+2016-11-13,19:00:00,1,Los Angeles Lakers,W,125.0,99.0,3.0,6.0,W 1,2016.0,November,Saturday
+2016-11-15,20:00:00,1,Charlotte Hornets,L,108.0,115.0,3.0,7.0,L 1,2016.0,November,Monday
+2016-11-17,20:00:00,1,Philadelphia 76ers,W,110.0,86.0,4.0,7.0,W 1,2016.0,November,Wednesday
+2016-11-21,20:00:00,1,Boston Celtics,L,93.0,99.0,4.0,9.0,L 2,2016.0,November,Sunday
+2016-11-28,20:00:00,1,Utah Jazz,L,103.0,112.0,5.0,12.0,L 2,2016.0,November,Sunday
+2016-11-30,20:00:00,1,New York Knicks,L,104.0,106.0,5.0,13.0,L 3,2016.0,November,Tuesday
+2016-12-06,20:00:00,1,San Antonio Spurs,L,91.0,105.0,6.0,15.0,L 1,2016.0,December,Saturday
+2016-12-09,20:00:00,1,Detroit Pistons,L,90.0,117.0,6.0,17.0,L 3,2016.0,December,Tuesday
+2016-12-11,19:00:00,1,Golden State Warriors,L,108.0,116.0,6.0,18.0,L 4,2016.0,December,Thursday
+2016-12-17,20:00:00,1,Houston Rockets,L,109.0,111.0,7.0,19.0,L 1,2016.0,December,Wednesday
+2016-12-19,20:00:00,1,Phoenix Suns,W,115.0,108.0,8.0,19.0,W 1,2016.0,December,Friday
+2016-12-23,20:00:00,1,Sacramento Kings,L,105.0,109.0,9.0,20.0,L 1,2016.0,December,Tuesday
+2016-12-26,20:00:00,1,Atlanta Hawks,W,104.0,90.0,10.0,21.0,W 1,2016.0,December,Friday
+2016-12-30,20:00:00,1,Milwaukee Bucks,W,116.0,99.0,11.0,22.0,W 1,2016.0,December,Tuesday
+2017-01-01,19:00:00,1,Portland Trail Blazers,L,89.0,95.0,11.0,23.0,L 1,2017.0,January,Monday
+2017-01-07,20:00:00,1,Utah Jazz,L,92.0,94.0,11.0,26.0,L 4,2017.0,January,Sunday
+2017-01-09,20:00:00,1,Dallas Mavericks,W,101.0,92.0,12.0,26.0,W 1,2017.0,January,Tuesday
+2017-01-11,20:00:00,1,Houston Rockets,W,119.0,105.0,13.0,26.0,W 2,2017.0,January,Thursday
+2017-01-13,20:00:00,1,Oklahoma City Thunder,W,96.0,86.0,14.0,26.0,W 3,2017.0,January,Saturday
+2017-01-22,19:00:00,1,Denver Nuggets,W,111.0,108.0,16.0,28.0,W 2,2017.0,January,Monday
+2017-01-26,20:00:00,1,Indiana Pacers,L,103.0,109.0,17.0,29.0,L 1,2017.0,January,Friday
+2017-01-28,21:00:00,1,Brooklyn Nets,W,129.0,109.0,18.0,29.0,W 1,2017.0,January,Sunday
+2017-01-30,20:00:00,1,Orlando Magic,W,111.0,105.0,19.0,29.0,W 2,2017.0,January,Tuesday
+2017-02-04,21:00:00,1,Memphis Grizzlies,L,99.0,107.0,19.0,32.0,L 3,2017.0,February,Thursday
+2017-02-06,20:00:00,1,Miami Heat,L,113.0,115.0,19.0,33.0,L 4,2017.0,February,Saturday
+2017-02-08,20:00:00,1,Toronto Raptors,W,112.0,109.0,20.0,33.0,W 1,2017.0,February,Monday
+2017-02-10,20:00:00,1,New Orleans Pelicans,L,106.0,122.0,20.0,34.0,L 1,2017.0,February,Wednesday
+2017-02-12,15:30:00,1,Chicago Bulls,W,117.0,89.0,21.0,34.0,W 1,2017.0,February,Friday
+2017-02-14,20:00:00,1,Cleveland Cavaliers,L,108.0,116.0,21.0,35.0,L 1,2017.0,February,Sunday
+2017-02-24,20:00:00,1,Dallas Mavericks,W,97.0,84.0,23.0,35.0,W 2,2017.0,February,Wednesday
+2017-03-08,20:00:00,1,Los Angeles Clippers,W,107.0,91.0,26.0,37.0,W 1,2017.0,March,Monday
+2017-03-10,20:00:00,1,Golden State Warriors,W,103.0,102.0,27.0,37.0,W 2,2017.0,March,Wednesday
+2017-03-13,20:00:00,1,Washington Wizards,W,119.0,104.0,28.0,38.0,W 1,2017.0,March,Saturday
+2017-03-21,21:30:00,1,San Antonio Spurs,L,93.0,100.0,28.0,42.0,L 4,2017.0,March,Sunday
+2017-03-30,20:00:00,1,Los Angeles Lakers,W,119.0,104.0,30.0,44.0,W 2,2017.0,March,Tuesday
+2017-04-01,20:00:00,1,Sacramento Kings,L,117.0,123.0,30.0,45.0,L 1,2017.0,April,Monday
+2017-04-03,19:00:00,1,Portland Trail Blazers,W,110.0,109.0,31.0,45.0,W 1,2017.0,April,Wednesday
+2017-04-11,20:00:00,1,Oklahoma City Thunder,L,98.0,100.0,31.0,50.0,L 5,2017.0,April,Thursday
+2017-10-20,20:00:00,1,Utah Jazz,W,100.0,97.0,1.0,1.0,W 1,2017.0,October,Saturday
+2017-10-24,20:00:00,1,Indiana Pacers,L,107.0,130.0,2.0,2.0,L 1,2017.0,October,Wednesday
+2017-10-27,20:00:00,1,Oklahoma City Thunder,W,119.0,116.0,3.0,3.0,W 1,2017.0,October,Saturday
+2017-11-04,20:00:00,1,Dallas Mavericks,W,112.0,99.0,6.0,3.0,W 4,2017.0,November,Thursday
+2017-11-05,20:00:00,1,Charlotte Hornets,W,112.0,94.0,7.0,3.0,W 5,2017.0,November,Friday
+2017-11-15,20:00:00,1,San Antonio Spurs,W,98.0,86.0,9.0,5.0,W 2,2017.0,November,Monday
+2017-11-19,19:00:00,1,Detroit Pistons,L,97.0,100.0,10.0,6.0,L 1,2017.0,November,Friday
+2017-11-22,20:00:00,1,Orlando Magic,W,124.0,118.0,11.0,7.0,W 1,2017.0,November,Monday
+2017-11-24,20:00:00,1,Miami Heat,L,97.0,109.0,11.0,8.0,L 1,2017.0,November,Wednesday
+2017-11-26,15:30:00,1,Phoenix Suns,W,119.0,108.0,12.0,8.0,W 1,2017.0,November,Friday
+2017-11-28,20:00:00,1,Washington Wizards,L,89.0,92.0,12.0,9.0,L 1,2017.0,November,Sunday
+2017-12-03,19:00:00,1,Los Angeles Clippers,W,112.0,106.0,14.0,10.0,W 1,2017.0,December,Wednesday
+2017-12-10,19:00:00,1,Dallas Mavericks,W,97.0,92.0,16.0,11.0,W 2,2017.0,December,Wednesday
+2017-12-12,21:30:00,1,Philadelphia 76ers,L,112.0,118.0,16.0,12.0,L 1,2017.0,December,Friday
+2017-12-14,20:00:00,1,Sacramento Kings,W,119.0,96.0,17.0,12.0,W 1,2017.0,December,Sunday
+2017-12-16,20:00:00,1,Phoenix Suns,L,106.0,108.0,17.0,13.0,L 1,2017.0,December,Tuesday
+2017-12-18,20:00:00,1,Portland Trail Blazers,W,108.0,107.0,18.0,13.0,W 1,2017.0,December,Thursday
+2017-12-27,20:00:00,1,Denver Nuggets,W,128.0,125.0,22.0,13.0,W 5,2017.0,December,Saturday
+2018-01-01,20:00:00,1,Los Angeles Lakers,W,114.0,96.0,24.0,14.0,W 2,2018.0,January,Monday
+2018-01-06,21:00:00,1,New Orleans Pelicans,W,116.0,98.0,25.0,16.0,W 1,2018.0,January,Saturday
+2018-01-08,20:00:00,1,Cleveland Cavaliers,W,127.0,99.0,26.0,16.0,W 2,2018.0,January,Monday
+2018-01-10,20:00:00,1,Oklahoma City Thunder,W,104.0,88.0,27.0,16.0,W 3,2018.0,January,Wednesday
+2018-01-12,20:00:00,1,New York Knicks,W,118.0,108.0,28.0,16.0,W 4,2018.0,January,Friday
+2018-01-14,21:00:00,1,Portland Trail Blazers,W,120.0,103.0,29.0,16.0,W 5,2018.0,January,Sunday
+2018-01-20,21:00:00,1,Toronto Raptors,W,115.0,109.0,30.0,18.0,W 1,2018.0,January,Saturday
+2018-01-27,21:00:00,1,Brooklyn Nets,W,111.0,97.0,32.0,20.0,W 1,2018.0,January,Saturday
+2018-02-01,20:00:00,1,Milwaukee Bucks,W,108.0,89.0,33.0,22.0,W 1,2018.0,February,Monday
+2018-02-03,21:00:00,1,New Orleans Pelicans,W,118.0,107.0,34.0,22.0,W 2,2018.0,February,Wednesday
+2018-02-11,19:00:00,1,Sacramento Kings,W,111.0,106.0,35.0,24.0,W 1,2018.0,February,Thursday
+2018-02-13,20:00:00,1,Houston Rockets,L,108.0,126.0,35.0,25.0,L 1,2018.0,February,Saturday
+2018-02-15,21:00:00,1,Los Angeles Lakers,W,119.0,111.0,36.0,25.0,W 1,2018.0,February,Monday
+2018-02-24,21:00:00,1,Chicago Bulls,W,122.0,104.0,37.0,26.0,W 1,2018.0,February,Wednesday
+2018-03-08,20:00:00,1,Boston Celtics,L,109.0,117.0,38.0,29.0,L 3,2018.0,March,Monday
+2018-03-11,15:30:00,1,Golden State Warriors,W,109.0,103.0,39.0,29.0,W 1,2018.0,March,Thursday
+2018-03-18,19:00:00,1,Houston Rockets,L,120.0,129.0,40.0,31.0,L 2,2018.0,March,Thursday
+2018-03-20,20:00:00,1,Los Angeles Clippers,W,123.0,109.0,41.0,31.0,W 1,2018.0,March,Saturday
+2018-03-26,20:00:00,1,Memphis Grizzlies,L,93.0,101.0,42.0,33.0,L 2,2018.0,March,Friday
+2018-03-28,20:00:00,1,Atlanta Hawks,W,126.0,114.0,43.0,33.0,W 1,2018.0,March,Sunday
+2018-04-01,19:00:00,1,Utah Jazz,L,97.0,121.0,44.0,34.0,L 1,2018.0,April,Monday
+2018-04-09,20:00:00,1,Memphis Grizzlies,W,113.0,94.0,46.0,35.0,W 2,2018.0,April,Tuesday
+2018-04-11,20:00:00,1,Denver Nuggets,W,112.0,106.0,47.0,35.0,W 3,2018.0,April,Thursday
+2018-10-19,20:00:00,1,Cleveland Cavaliers,W,131.0,123.0,1.0,1.0,W 1,2018.0,October,Friday
+2018-10-22,20:00:00,1,Indiana Pacers,W,101.0,91.0,2.0,2.0,W 1,2018.0,October,Monday
+2018-10-26,20:00:00,1,Milwaukee Bucks,L,95.0,125.0,2.0,4.0,L 2,2018.0,October,Friday
+2018-10-29,20:00:00,1,Los Angeles Lakers,W,124.0,120.0,3.0,4.0,W 1,2018.0,October,Monday
+2018-10-31,20:00:00,1,Utah Jazz,W,128.0,125.0,4.0,4.0,W 2,2018.0,October,Wednesday
+2018-11-12,20:00:00,1,Brooklyn Nets,W,120.0,113.0,5.0,9.0,W 1,2018.0,November,Friday
+2018-11-14,20:00:00,1,New Orleans Pelicans,W,107.0,100.0,6.0,9.0,W 2,2018.0,November,Sunday
+2018-11-16,20:00:00,1,Portland Trail Blazers,W,112.0,96.0,7.0,9.0,W 3,2018.0,November,Tuesday
+2018-11-18,15:30:00,1,Memphis Grizzlies,L,87.0,100.0,7.0,10.0,L 1,2018.0,November,Thursday
+2018-11-21,20:00:00,1,Denver Nuggets,L,101.0,103.0,7.0,11.0,L 2,2018.0,November,Sunday
+2018-11-24,20:00:00,1,Chicago Bulls,W,111.0,96.0,9.0,11.0,W 2,2018.0,November,Wednesday
+2018-11-28,20:00:00,1,San Antonio Spurs,W,128.0,89.0,11.0,11.0,W 4,2018.0,November,Sunday
+2018-12-01,20:00:00,1,Boston Celtics,L,109.0,118.0,11.0,12.0,L 1,2018.0,December,Monday
+2018-12-03,20:00:00,1,Houston Rockets,W,103.0,91.0,12.0,12.0,W 1,2018.0,December,Wednesday
+2018-12-05,20:00:00,1,Charlotte Hornets,W,121.0,104.0,13.0,12.0,W 2,2018.0,December,Friday
+2018-12-17,20:00:00,1,Sacramento Kings,W,132.0,105.0,14.0,16.0,W 1,2018.0,December,Wednesday
+2018-12-19,20:00:00,1,Detroit Pistons,L,123.0,129.0,14.0,17.0,L 1,2018.0,December,Friday
+2018-12-28,20:00:00,1,Atlanta Hawks,L,120.0,123.0,16.0,19.0,L 1,2018.0,December,Sunday
+2019-01-04,20:00:00,1,Orlando Magic,W,120.0,103.0,18.0,21.0,W 1,2019.0,January,Thursday
+2019-01-06,15:30:00,1,Los Angeles Lakers,W,108.0,86.0,19.0,21.0,W 2,2019.0,January,Saturday
+2019-01-11,20:00:00,1,Dallas Mavericks,L,115.0,119.0,20.0,22.0,L 1,2019.0,January,Thursday
+2019-01-12,20:00:00,1,New Orleans Pelicans,W,110.0,106.0,21.0,22.0,W 1,2019.0,January,Friday
+2019-01-18,20:00:00,1,San Antonio Spurs,L,113.0,116.0,21.0,24.0,L 2,2019.0,January,Thursday
+2019-01-20,19:00:00,1,Phoenix Suns,W,116.0,114.0,22.0,24.0,W 1,2019.0,January,Saturday
+2019-01-27,19:00:00,1,Utah Jazz,L,111.0,125.0,24.0,26.0,L 2,2019.0,January,Saturday
+2019-01-30,20:00:00,1,Memphis Grizzlies,W,99.0,97.0,25.0,26.0,W 1,2019.0,January,Tuesday
+2019-02-02,21:00:00,1,Denver Nuggets,L,106.0,107.0,25.0,27.0,L 1,2019.0,February,Tuesday
+2019-02-11,20:00:00,1,Los Angeles Clippers,W,130.0,120.0,26.0,30.0,W 1,2019.0,February,Thursday
+2019-02-13,20:00:00,1,Houston Rockets,W,121.0,111.0,27.0,30.0,W 2,2019.0,February,Saturday
+2019-02-25,20:00:00,1,Sacramento Kings,W,112.0,105.0,29.0,31.0,W 1,2019.0,February,Thursday
+2019-03-05,20:00:00,1,Oklahoma City Thunder,W,131.0,120.0,30.0,34.0,W 1,2019.0,March,Friday
+2019-03-09,20:00:00,1,Washington Wizards,W,135.0,130.0,31.0,35.0,W 1,2019.0,March,Tuesday
+2019-03-10,20:00:00,1,New York Knicks,W,103.0,92.0,32.0,35.0,W 2,2019.0,March,Wednesday
+2019-03-19,20:00:00,1,Golden State Warriors,L,107.0,117.0,32.0,39.0,L 4,2019.0,March,Friday
+2019-03-26,20:00:00,1,Los Angeles Clippers,L,111.0,122.0,33.0,41.0,L 1,2019.0,March,Friday
+2019-03-29,20:00:00,1,Golden State Warriors,W,131.0,130.0,34.0,41.0,W 1,2019.0,March,Monday
+2019-03-30,20:00:00,1,Philadelphia 76ers,L,109.0,118.0,34.0,42.0,L 1,2019.0,March,Tuesday
+2019-04-01,20:00:00,1,Portland Trail Blazers,L,122.0,132.0,34.0,43.0,L 2,2019.0,April,Monday
+2019-04-05,20:00:00,1,Miami Heat,W,111.0,109.0,36.0,43.0,W 2,2019.0,April,Friday
+2019-04-07,15:30:00,1,Oklahoma City Thunder,L,126.0,132.0,36.0,44.0,L 1,2019.0,April,Sunday
+2019-04-09,20:00:00,1,Toronto Raptors,L,100.0,120.0,36.0,45.0,L 2,2019.0,April,Tuesday
+2019-10-27,19:00:00,1,Miami Heat,W,116.0,109.0,3.0,0.0,W 3,2019.0,October,Saturday
+2019-11-04,20:00:00,1,Milwaukee Bucks,L,106.0,134.0,4.0,2.0,L 1,2019.0,November,Thursday
+2019-11-08,20:00:00,1,Golden State Warriors,W,125.0,119.0,5.0,3.0,W 1,2019.0,November,Monday
+2019-11-10,15:30:00,1,Denver Nuggets,L,98.0,100.0,5.0,4.0,L 1,2019.0,November,Wednesday
+2019-11-13,20:00:00,1,San Antonio Spurs,W,129.0,114.0,7.0,4.0,W 2,2019.0,November,Saturday
+2019-11-15,20:00:00,1,Washington Wizards,L,116.0,137.0,7.0,5.0,L 1,2019.0,November,Monday
+2019-11-16,20:00:00,1,Houston Rockets,L,105.0,125.0,7.0,6.0,L 2,2019.0,November,Tuesday
+2019-11-20,20:00:00,1,Utah Jazz,L,95.0,103.0,8.0,7.0,L 1,2019.0,November,Saturday
+2019-11-23,17:00:00,1,Phoenix Suns,L,98.0,100.0,8.0,8.0,L 2,2019.0,November,Tuesday
+2019-12-01,15:30:00,1,Memphis Grizzlies,L,107.0,115.0,10.0,9.0,L 1,2019.0,December,Monday
+2019-12-11,20:00:00,1,Utah Jazz,L,116.0,127.0,10.0,14.0,L 6,2019.0,December,Thursday
+2019-12-13,21:30:00,1,Los Angeles Clippers,L,117.0,124.0,10.0,15.0,L 7,2019.0,December,Saturday
+2019-12-18,20:00:00,1,New Orleans Pelicans,L,99.0,107.0,10.0,16.0,L 8,2019.0,December,Thursday
+2019-12-28,20:00:00,1,Cleveland Cavaliers,L,88.0,94.0,11.0,20.0,L 1,2019.0,December,Sunday
+2019-12-30,20:00:00,1,Brooklyn Nets,W,122.0,115.0,12.0,20.0,W 1,2019.0,December,Tuesday
+2020-01-02,20:00:00,1,Golden State Warriors,W,99.0,84.0,13.0,21.0,W 1,2020.0,January,Tuesday
+2020-01-09,20:00:00,1,Portland Trail Blazers,W,116.0,102.0,15.0,22.0,W 1,2020.0,January,Tuesday
+2020-01-13,20:00:00,1,Oklahoma City Thunder,L,104.0,117.0,15.0,24.0,L 2,2020.0,January,Saturday
+2020-01-15,20:00:00,1,Indiana Pacers,L,99.0,104.0,15.0,25.0,L 3,2020.0,January,Monday
+2020-01-18,20:00:00,1,Toronto Raptors,L,112.0,122.0,15.0,27.0,L 5,2020.0,January,Thursday
+2020-01-20,20:00:00,1,Denver Nuggets,L,100.0,107.0,15.0,28.0,L 6,2020.0,January,Saturday
+2020-01-24,20:00:00,1,Houston Rockets,L,124.0,131.0,15.0,30.0,L 8,2020.0,January,Wednesday
+2020-01-25,20:00:00,1,Oklahoma City Thunder,L,104.0,113.0,15.0,31.0,L 9,2020.0,January,Thursday
+2020-01-27,20:00:00,1,Sacramento Kings,L,129.0,133.0,15.0,32.0,L 10,2020.0,January,Saturday
+2020-02-05,20:00:00,1,Atlanta Hawks,L,120.0,127.0,15.0,35.0,L 13,2020.0,February,Friday
+2020-02-08,20:00:00,1,Los Angeles Clippers,W,142.0,115.0,16.0,35.0,W 1,2020.0,February,Monday
+2020-02-12,20:00:00,1,Charlotte Hornets,L,108.0,115.0,16.0,37.0,L 2,2020.0,February,Friday
+2020-02-21,20:00:00,1,Boston Celtics,L,117.0,127.0,16.0,38.0,L 3,2020.0,February,Sunday
+2020-03-01,15:30:00,1,Dallas Mavericks,L,91.0,111.0,17.0,42.0,L 2,2020.0,March,Monday
+2020-03-04,20:00:00,1,Chicago Bulls,W,115.0,108.0,19.0,42.0,W 2,2020.0,March,Thursday
+2020-03-06,20:00:00,1,Orlando Magic,L,118.0,132.0,19.0,43.0,L 1,2020.0,March,Saturday
+2020-03-08,15:30:00,1,New Orleans Pelicans,L,107.0,120.0,19.0,44.0,L 2,2020.0,March,Monday
+2020-12-23,20:00:00,1,Detroit Pistons,W,111.0,101.0,1.0,0.0,W 1,2020.0,December,Tuesday
+2021-01-01,20:00:00,1,Washington Wizards,L,109.0,130.0,2.0,3.0,L 3,2021.0,January,Monday
+2021-01-03,19:00:00,1,Denver Nuggets,L,109.0,124.0,2.0,4.0,L 4,2021.0,January,Wednesday
+2021-01-09,20:00:00,1,San Antonio Spurs,L,122.0,125.0,2.0,7.0,L 7,2021.0,January,Tuesday
+2021-01-10,20:00:00,1,San Antonio Spurs,W,96.0,88.0,3.0,7.0,W 1,2021.0,January,Wednesday
+2021-01-13,20:00:00,1,Memphis Grizzlies,L,107.0,118.0,3.0,8.0,L 1,2021.0,January,Saturday
+2021-01-20,20:00:00,1,Orlando Magic,L,96.0,97.0,3.0,10.0,L 3,2021.0,January,Saturday
+2021-01-22,20:00:00,1,Atlanta Hawks,L,98.0,116.0,3.0,11.0,L 4,2021.0,January,Monday
+2021-01-23,20:00:00,1,New Orleans Pelicans,W,120.0,110.0,4.0,11.0,W 1,2021.0,January,Tuesday
+2021-01-29,20:00:00,1,Philadelphia 76ers,L,94.0,118.0,4.0,14.0,L 3,2021.0,January,Monday
+2021-01-31,20:00:00,1,Cleveland Cavaliers,W,109.0,104.0,5.0,14.0,W 1,2021.0,January,Wednesday
+2021-02-10,20:00:00,1,Los Angeles Clippers,L,112.0,119.0,6.0,19.0,L 3,2021.0,February,Wednesday
+2021-02-16,20:00:00,1,Los Angeles Lakers,L,104.0,112.0,7.0,21.0,L 1,2021.0,February,Tuesday
+2021-02-17,20:00:00,1,Indiana Pacers,L,128.0,134.0,7.0,22.0,L 2,2021.0,February,Wednesday
+2021-02-19,21:00:00,1,Toronto Raptors,L,81.0,86.0,7.0,23.0,L 3,2021.0,February,Friday
+2021-02-28,21:00:00,1,Phoenix Suns,L,99.0,118.0,7.0,28.0,L 8,2021.0,February,Sunday
+2021-03-03,20:00:00,1,Charlotte Hornets,L,102.0,135.0,7.0,29.0,L 9,2021.0,March,Wednesday
+2021-03-13,20:00:00,1,Portland Trail Blazers,L,121.0,125.0,8.0,30.0,L 1,2021.0,March,Saturday
+2021-03-14,20:00:00,1,Portland Trail Blazers,W,114.0,112.0,9.0,30.0,W 1,2021.0,March,Sunday
+2021-03-22,20:00:00,1,Oklahoma City Thunder,L,103.0,112.0,10.0,33.0,L 2,2021.0,March,Monday
+2021-03-24,20:00:00,1,Dallas Mavericks,L,108.0,128.0,10.0,34.0,L 3,2021.0,March,Wednesday
+2021-03-26,20:00:00,1,Houston Rockets,W,107.0,101.0,11.0,34.0,W 1,2021.0,March,Friday
+2021-03-27,20:00:00,1,Houston Rockets,L,107.0,129.0,11.0,35.0,L 1,2021.0,March,Saturday
+2021-03-31,20:00:00,1,New York Knicks,W,102.0,101.0,12.0,36.0,W 1,2021.0,March,Wednesday
+2021-04-05,19:00:00,1,Sacramento Kings,W,116.0,106.0,13.0,38.0,W 1,2021.0,April,Friday
+2021-04-11,20:00:00,1,Chicago Bulls,W,121.0,117.0,14.0,40.0,W 1,2021.0,April,Thursday
+2021-04-13,16:00:00,1,Brooklyn Nets,L,97.0,127.0,14.0,41.0,L 1,2021.0,April,Saturday
+2021-04-14,16:30:00,1,Milwaukee Bucks,L,105.0,130.0,14.0,42.0,L 2,2021.0,April,Sunday
+2021-04-16,20:00:00,1,Miami Heat,W,119.0,111.0,15.0,42.0,W 1,2021.0,April,Tuesday
+2021-04-26,20:00:00,1,Utah Jazz,W,105.0,104.0,18.0,44.0,W 2,2021.0,April,Friday
+2021-04-29,20:00:00,1,Golden State Warriors,W,126.0,114.0,20.0,44.0,W 4,2021.0,April,Monday
+2021-05-01,20:00:00,1,New Orleans Pelicans,L,136.0,140.0,20.0,45.0,L 1,2021.0,May,Monday
+2021-05-05,20:00:00,1,Memphis Grizzlies,L,135.0,139.0,20.0,46.0,L 2,2021.0,May,Friday
+2021-05-13,20:00:00,1,Denver Nuggets,L,103.0,114.0,22.0,48.0,L 1,2021.0,May,Saturday
+2021-05-15,14:00:00,1,Boston Celtics,L,108.0,124.0,22.0,49.0,L 2,2021.0,May,Monday
+2021-05-16,21:00:00,1,Dallas Mavericks,W,136.0,121.0,23.0,49.0,W 1,2021.0,May,Tuesday
+2021-10-20,20:00:00,1,Houston Rockets,W,124.0,106.0,1.0,0.0,W 1,2021.0,October,Saturday
+2021-10-23,20:00:00,1,New Orleans Pelicans,W,96.0,89.0,2.0,0.0,W 2,2021.0,October,Tuesday
+2021-10-25,20:00:00,1,New Orleans Pelicans,L,98.0,107.0,2.0,1.0,L 1,2021.0,October,Thursday
+2021-10-30,21:00:00,1,Denver Nuggets,L,91.0,93.0,3.0,2.0,L 1,2021.0,October,Tuesday
+2021-11-01,20:00:00,1,Orlando Magic,L,97.0,115.0,3.0,3.0,L 2,2021.0,November,Monday
+2021-11-03,20:00:00,1,Los Angeles Clippers,L,115.0,126.0,3.0,4.0,L 3,2021.0,November,Wednesday
+2021-11-05,20:00:00,1,Los Angeles Clippers,L,84.0,104.0,3.0,5.0,L 4,2021.0,November,Friday
+2021-11-15,20:00:00,1,Phoenix Suns,L,96.0,99.0,4.0,9.0,L 2,2021.0,November,Monday
+2021-11-17,20:00:00,1,Sacramento Kings,W,107.0,97.0,5.0,9.0,W 1,2021.0,November,Wednesday
+2021-11-18,20:00:00,1,San Antonio Spurs,W,115.0,90.0,6.0,9.0,W 2,2021.0,November,Thursday
+2021-11-20,20:00:00,1,Memphis Grizzlies,W,138.0,95.0,7.0,9.0,W 3,2021.0,November,Saturday
+2021-11-24,20:00:00,1,Miami Heat,W,113.0,101.0,9.0,9.0,W 5,2021.0,November,Wednesday
+2021-11-29,20:00:00,1,Indiana Pacers,W,100.0,98.0,11.0,10.0,W 2,2021.0,November,Monday
+2021-12-06,20:00:00,1,Atlanta Hawks,L,110.0,121.0,11.0,13.0,L 3,2021.0,December,Saturday
+2021-12-08,20:00:00,1,Utah Jazz,L,104.0,136.0,11.0,14.0,L 4,2021.0,December,Monday
+2021-12-10,20:00:00,1,Cleveland Cavaliers,L,106.0,123.0,11.0,15.0,L 5,2021.0,December,Wednesday
+2021-12-17,22:00:00,1,Los Angeles Lakers,W,110.0,92.0,14.0,15.0,W 3,2021.0,December,Wednesday
+2021-12-19,20:00:00,1,Dallas Mavericks,W,111.0,105.0,15.0,15.0,W 4,2021.0,December,Friday
+2021-12-27,20:00:00,1,Boston Celtics,W,108.0,103.0,16.0,17.0,W 1,2021.0,December,Saturday
+2021-12-28,20:00:00,1,New York Knicks,L,88.0,96.0,16.0,18.0,L 1,2021.0,December,Sunday
+2022-01-05,20:00:00,1,Oklahoma City Thunder,W,98.0,90.0,18.0,20.0,W 2,2022.0,January,Friday
+2022-01-16,20:00:00,1,Golden State Warriors,W,119.0,99.0,21.0,22.0,W 1,2022.0,January,Tuesday
+2022-01-23,20:00:00,1,Brooklyn Nets,W,136.0,125.0,23.0,23.0,W 1,2022.0,January,Tuesday
+2022-01-30,20:00:00,1,Utah Jazz,W,126.0,106.0,25.0,25.0,W 1,2022.0,January,Tuesday
+2022-02-01,20:00:00,1,Denver Nuggets,W,130.0,115.0,26.0,25.0,W 2,2022.0,February,Monday
+2022-02-06,15:30:00,1,Detroit Pistons,W,118.0,105.0,28.0,25.0,W 4,2022.0,February,Saturday
+2022-02-15,20:00:00,1,Charlotte Hornets,W,126.0,120.0,31.0,27.0,W 2,2022.0,February,Monday
+2022-02-16,20:00:00,1,Toronto Raptors,L,91.0,103.0,31.0,28.0,L 1,2022.0,February,Tuesday
+2022-02-24,20:00:00,1,Memphis Grizzlies,W,119.0,114.0,32.0,28.0,W 1,2022.0,February,Wednesday
+2022-02-25,20:00:00,1,Philadelphia 76ers,L,102.0,133.0,32.0,29.0,L 1,2022.0,February,Thursday
+2022-03-01,20:00:00,1,Golden State Warriors,W,129.0,114.0,34.0,29.0,W 2,2022.0,March,Monday
+2022-03-05,20:00:00,1,Portland Trail Blazers,W,135.0,121.0,36.0,29.0,W 4,2022.0,March,Friday
+2022-03-07,20:00:00,1,Portland Trail Blazers,W,124.0,81.0,37.0,29.0,W 5,2022.0,March,Sunday
+2022-03-09,20:00:00,1,Oklahoma City Thunder,W,132.0,102.0,38.0,29.0,W 6,2022.0,March,Tuesday
+2022-03-16,20:00:00,1,Los Angeles Lakers,W,124.0,104.0,41.0,30.0,W 3,2022.0,March,Tuesday
+2022-03-19,17:00:00,1,Milwaukee Bucks,W,138.0,119.0,42.0,30.0,W 4,2022.0,March,Friday
+2022-03-23,20:00:00,1,Phoenix Suns,L,116.0,125.0,42.0,32.0,L 2,2022.0,March,Tuesday
+2022-03-25,20:00:00,1,Dallas Mavericks,W,116.0,95.0,43.0,32.0,W 1,2022.0,March,Thursday
+2022-04-05,20:00:00,1,Washington Wizards,L,114.0,132.0,45.0,35.0,L 1,2022.0,April,Friday
+2022-04-07,20:00:00,1,San Antonio Spurs,W,127.0,121.0,46.0,35.0,W 1,2022.0,April,Sunday
+2022-04-10,20:30:00,1,Chicago Bulls,L,120.0,124.0,46.0,36.0,L 1,2022.0,April,Wednesday
+2022-04-12,21:30:00,1,Los Angeles Clippers,W,109.0,104.0,47.0,36.0,W 1,2022.0,April,Friday
+2022-10-19,20:00:00,1,Oklahoma City Thunder,W,115.0,108.0,1.0,0.0,W 1,2022.0,October,Friday
+2022-10-21,20:00:00,1,Utah Jazz,L,126.0,132.0,1.0,1.0,L 1,2022.0,October,Sunday
+2022-10-24,20:00:00,1,San Antonio Spurs,L,106.0,115.0,2.0,2.0,L 1,2022.0,October,Wednesday
+2022-10-26,20:00:00,1,San Antonio Spurs,W,134.0,122.0,3.0,2.0,W 1,2022.0,October,Friday
+2022-10-28,20:00:00,1,Los Angeles Lakers,W,111.0,102.0,4.0,2.0,W 2,2022.0,October,Sunday
+2022-11-04,22:00:00,1,Milwaukee Bucks,L,102.0,115.0,4.0,5.0,L 3,2022.0,November,Thursday
+2022-11-05,20:00:00,1,Houston Rockets,W,129.0,117.0,5.0,5.0,W 1,2022.0,November,Friday
+2022-11-07,21:15:00,1,New York Knicks,L,107.0,120.0,5.0,6.0,L 1,2022.0,November,Sunday
+2022-11-09,20:00:00,1,Phoenix Suns,L,117.0,129.0,5.0,7.0,L 2,2022.0,November,Tuesday
+2022-11-21,20:00:00,1,Miami Heat,W,105.0,101.0,9.0,8.0,W 4,2022.0,November,Sunday
+2022-11-27,15:30:00,1,Golden State Warriors,L,114.0,137.0,10.0,10.0,L 2,2022.0,November,Saturday
+2022-11-30,20:00:00,1,Memphis Grizzlies,W,109.0,101.0,11.0,11.0,W 1,2022.0,November,Tuesday
+2022-12-03,20:00:00,1,Oklahoma City Thunder,L,128.0,135.0,11.0,12.0,L 1,2022.0,December,Wednesday
+2022-12-07,20:00:00,1,Indiana Pacers,W,121.0,115.0,12.0,12.0,W 1,2022.0,December,Sunday
+2022-12-18,19:00:00,1,Chicago Bulls,W,150.0,126.0,15.0,15.0,W 2,2022.0,December,Thursday
+2022-12-19,20:00:00,1,Dallas Mavericks,W,116.0,106.0,16.0,15.0,W 3,2022.0,December,Friday
+2022-12-21,20:00:00,1,Dallas Mavericks,L,99.0,104.0,16.0,16.0,L 1,2022.0,December,Sunday
+2022-12-31,20:00:00,1,Detroit Pistons,L,104.0,116.0,16.0,21.0,L 6,2022.0,December,Wednesday
+2023-01-02,20:00:00,1,Denver Nuggets,W,124.0,111.0,17.0,21.0,W 1,2023.0,January,Tuesday
+2023-01-04,20:00:00,1,Portland Trail Blazers,W,113.0,106.0,18.0,21.0,W 2,2023.0,January,Thursday
+2023-01-06,21:00:00,1,Los Angeles Clippers,W,128.0,115.0,19.0,21.0,W 3,2023.0,January,Saturday
+2023-01-13,20:00:00,1,Phoenix Suns,W,121.0,116.0,21.0,22.0,W 1,2023.0,January,Saturday
+2023-01-14,20:00:00,1,Cleveland Cavaliers,W,110.0,102.0,22.0,22.0,W 2,2023.0,January,Sunday
+2023-01-16,16:00:00,1,Utah Jazz,L,125.0,126.0,22.0,23.0,L 1,2023.0,January,Tuesday
+2023-01-19,20:00:00,1,Toronto Raptors,W,128.0,126.0,23.0,24.0,W 1,2023.0,January,Friday
+2023-01-21,20:00:00,1,Houston Rockets,W,113.0,104.0,24.0,24.0,W 2,2023.0,January,Sunday
+2023-01-27,19:30:00,1,Memphis Grizzlies,W,111.0,100.0,26.0,25.0,W 2,2023.0,January,Saturday
+2023-01-28,20:00:00,1,Sacramento Kings,W,117.0,110.0,27.0,25.0,W 3,2023.0,January,Sunday
+2023-01-30,20:00:00,1,Sacramento Kings,L,111.0,118.0,27.0,26.0,L 1,2023.0,January,Tuesday
+2023-02-01,20:00:00,1,Golden State Warriors,W,119.0,114.0,28.0,26.0,W 1,2023.0,February,Monday
+2023-02-03,20:00:00,1,Orlando Magic,L,120.0,127.0,28.0,27.0,L 1,2023.0,February,Wednesday
+2023-02-05,19:00:00,1,Denver Nuggets,W,128.0,98.0,29.0,27.0,W 1,2023.0,February,Friday
+2023-02-16,20:00:00,1,Washington Wizards,L,106.0,114.0,31.0,30.0,L 1,2023.0,February,Tuesday
+2023-02-24,20:00:00,1,Charlotte Hornets,L,113.0,121.0,31.0,31.0,L 2,2023.0,February,Wednesday
+2023-03-07,19:30:00,1,Philadelphia 76ers,,,,,,,2023.0,March,Sunday
+2023-03-10,20:00:00,1,Brooklyn Nets,,,,,,,2023.0,March,Wednesday
+2023-03-15,20:00:00,1,Boston Celtics,,,,,,,2023.0,March,Monday
+2023-03-22,20:00:00,1,Atlanta Hawks,,,,,,,2023.0,March,Monday
+2023-03-31,20:00:00,1,Los Angeles Lakers,,,,,,,2023.0,March,Wednesday
+2023-04-02,15:30:00,1,Portland Trail Blazers,,,,,,,2023.0,April,Tuesday
+2023-04-09,15:30:00,1,New Orleans Pelicans,,,,,,,2023.0,April,Tuesday
