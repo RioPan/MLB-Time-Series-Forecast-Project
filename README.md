@@ -4,3 +4,5 @@
 2023 MinneMUDAC Graduate Divsion Winner
 
 Presentation Link: https://www.youtube.com/watch?v=OOTj8_1UaQA&t=14s
+
+Contributor:Jiangzheng(Rio) Pan, Simin Liao, Lan Chen, Congyi Zhang, and Jichen Liu 
