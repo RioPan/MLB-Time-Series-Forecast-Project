@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/84704509/230253985-90d825c2-4082-49b8-8051-eafe73fd6940.png)
 
 # MinneMUDAC-2023-Predict-MLB-Attendance
-Build predictive models for the game-by-game attendance for home games for all MLB teams for the 2023 season and identify factors that tend to influence home-game attendance. The 1st place solution at [MinneMUDAC 2023 Data Science Challenge](https://minneanalytics.org/minnemudac2023/).
+Build predictive models for the game-by-game attendance for home games for all MLB teams for the 2023 season and identify factors that tend to influence home-game attendance. The 1st place solution at [MinneMUDAC 2023 Data Science Challenge](https://minneanalytics.org/minnemudac2023/). Check out our presentation https://www.youtube.com/watch?v=OOTj8_1UaQA&t=14s
 
 ## Contributors
 A big thanks and credit to all the team members who made this project possible:
