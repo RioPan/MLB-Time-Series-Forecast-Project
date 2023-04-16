@@ -11,7 +11,6 @@ A big thanks and credit to all the team members who made this project possible:
 * Jiangzheng(Rio) Pan (pan00246@umn.edu)
 * Simin Liao (liao0150@umn.edu)
 
-See the [contributors](https://github.umn.edu/liao0150/MinneMUDAC-2023-predict-MLB-attendance/blob/main/Contributors.md) file for details on each contributor's role in the project.
 
 ## Project Overview
 Attendance is a crucial factor for the success of MLB teams. Accurately predicting attendance can have significant impacts on both long-term and short-term profitability and operational efficiency. However, the prediction of MLB attendance can be complicated due to multiple factors, leading to inaccurate forecasts and potentially suboptimal business decisions. 
