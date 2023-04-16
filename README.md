@@ -1,4 +1,3 @@
-# Build Temporal Fusion Transformer and LightGBM for MLB Home Game Attendance Prediction
 ![image](https://user-images.githubusercontent.com/84704509/230253985-90d825c2-4082-49b8-8051-eafe73fd6940.png)
 
 # MinneMUDAC-2023-Predict-MLB-Attendance
@@ -55,11 +54,4 @@ The deliverables are:
 ![image](https://media.github.umn.edu/user/19808/files/34a6d299-bf96-487a-bd66-14aa117f86d5)
 #### Important Factor #1: Day of Week
 ![image](https://media.github.umn.edu/user/19808/files/d019d0dd-89e9-488d-8cdc-111ec40fa1f5)
-
-
-
-## Links
-* [Code](https://github.umn.edu/liao0150/MinneMUDAC-2023-predict-MLB-attendance/tree/main/code)
-* [Deck](https://github.umn.edu/liao0150/MinneMUDAC-2023-predict-MLB-attendance/tree/main/presentation)
-* [Presentation video](https://www.youtube.com/watch?v=OOTj8_1UaQA)
 
